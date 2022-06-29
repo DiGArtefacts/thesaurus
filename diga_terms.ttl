@@ -37872,5 +37872,9 @@ diga_terms:2498849496 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:802655671 .
 
-<https://w3id.org/diga/terms> a skos:ConceptScheme .
+<https://w3id.org/diga/terms> a skos:ConceptScheme ;
+    dc:creator "The DiGA Project"@en ;
+    dc:description "The DiGA Thesaurus is a resource for the standard description of Gandharan Buddhist art. It draws upon the “Repertorio terminologico per la schedatura delle sculture dell’arte gandharica” published by Domenico Faccenna and Anna Filigenzi in 2007 (IsIAO, Rome). This printed resource has been revised, expanded and restructured to fit a digital use. It now covers the following categories: animals, architecture, ceremonial objects, decorative motifs, everyday objects, figures (general features), figures (protagonists), means of transports, musical instruments, narratives, the sculptor's work, vegetation, weapons. Concerning the new categories of ‘narratives’ and ‘figures’, these are based on a variety of complementary sources (see Elwert, F. & Pons, J. 2020. ‘Linked Data Methodologies in Gandhāran Buddhist Art and Texts. Pelagios Working Group Final Report’, doi:10.13154/rub.148.125. ). The DiGA Thesaurus will be regularly updated. Please check https://github.com/DiGArtefacts/thesaurus/ if you have any suggestion."@en ;
+    dc:title "The Digitization of Gandharan Artefacts Thesaurus"@en ;
+    dct:license <https://creativecommons.org/publicdomain/zero/1.0/> .
 
