@@ -3,6 +3,7 @@
 
 import rdflib
 from rdflib.namespace import SKOS, RDFS
+from otsrdflib import OrderedTurtleSerializer
 
 skosxl = rdflib.Namespace('http://www.w3.org/2008/05/skos-xl#')
 skos_thes = rdflib.Namespace('http://purl.org/iso25964/skos-thes#')
@@ -19,7 +20,12 @@ def normalize(infile, outfile, do_prepare_skosmos=False):
     if do_prepare_skosmos:
         g = prepare_skosmos(g)
 
-    g.serialize(destination=outfile, format='turtle')
+    serializer = OrderedTurtleSerializer(g)
+    serializer.class_order = [
+        SKOS.ConceptScheme,
+        SKOS.Concept,
+    ]
+    serializer.serialize(outfile)
 
 
 def prepare_skosmos(g):
