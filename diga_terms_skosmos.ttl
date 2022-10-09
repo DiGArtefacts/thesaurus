@@ -1,3 +1,4 @@
+@prefix aat: <http://vocab.getty.edu/aat/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix diga_terms: <https://w3id.org/diga/terms/> .
@@ -63,6 +64,7 @@ diga_terms:0870424981 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:603997620 ;
     skos:broader diga_terms:603997620 ;
+    skos:closeMatch aat:300262678 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "poop"@en,
         "poppa"@it ;
@@ -113,6 +115,7 @@ diga_terms:1007154041 a skos:Concept ;
     dc:identifier "1007154041" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:863907056 ;
+    skos:broadMatch aat:300430539 ;
     skos:broader diga_terms:863907056 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "point chisel with cylindrical shaft"@en,
@@ -130,6 +133,7 @@ diga_terms:1010407745 a skos:Concept ;
         diga_terms:2939079382,
         diga_terms:4243265920 ;
     skos:broader diga_terms:2251868554 ;
+    skos:closeMatch aat:300038220 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1239857589,
         diga_terms:2378151501,
@@ -208,6 +212,7 @@ diga_terms:1020532692 a skos:Concept ;
         diga_terms:3740833293,
         diga_terms:810895029 ;
     skos:broader diga_terms:1022807358 ;
+    skos:closeMatch aat:300404585 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:134005232,
         diga_terms:1478676491,
@@ -277,6 +282,7 @@ diga_terms:1022807358 a skos:Concept ;
         diga_terms:657389733,
         diga_terms:767185560,
         diga_terms:969213074 ;
+    skos:closeMatch aat:300404591 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1020532692,
         diga_terms:1602652729,
@@ -297,6 +303,7 @@ diga_terms:1030527749 a skos:Concept ;
     dc:identifier "1030527749" ;
     skos-thes:broaderGeneric diga_terms:1597736316 ;
     skos:broader diga_terms:1597736316 ;
+    skos:closeMatch aat:300379730 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "demon"@en,
         "demone"@it ;
@@ -309,6 +316,7 @@ diga_terms:1033872259 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:1199973794 ;
     skos-thes:broaderPartitive diga_terms:2367787967,
         diga_terms:2745856219 ;
+    skos:broadMatch aat:300209869 ;
     skos:broader diga_terms:1199973794,
         diga_terms:2367787967,
         diga_terms:2745856219 ;
@@ -423,6 +431,7 @@ diga_terms:1048587099 a skos:Concept ;
         diga_terms:3260773409,
         diga_terms:3264628295 ;
     skos:broader diga_terms:1510769166 ;
+    skos:closeMatch aat:300250028 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1777502219,
         diga_terms:3191190332,
@@ -475,6 +484,7 @@ diga_terms:1055879407 a skos:Concept ;
         "porta di tipo indiano"@it,
         "porta urbica, porta di vihāra, porta di balaustra, di tipo indiano"@it ;
     skos:broader diga_terms:2776284763 ;
+    skos:closeMatch aat:300133018 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3065932382,
         diga_terms:883330377 ;
@@ -621,6 +631,7 @@ diga_terms:1081531142 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:142687138 ;
     skos:broader diga_terms:142687138 ;
+    skos:closeMatch aat:300380159 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "hippocamp"@en,
         "ippocampo"@it ;
@@ -786,6 +797,7 @@ diga_terms:1107648326 a skos:Concept ;
         diga_terms:3269212881,
         diga_terms:3671789829,
         diga_terms:449446378 ;
+    skos:closeMatch aat:300037048 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "sword"@en,
         "spada"@it ;
@@ -864,6 +876,7 @@ diga_terms:1115524268 a skos:Concept ;
         "previous birth stories"@en,
         "vite passate"@it ;
     skos:broader diga_terms:2550564563 ;
+    skos:closeMatch aat:300386035 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:028677063,
         diga_terms:1207424595,
@@ -926,6 +939,7 @@ diga_terms:1118298082 a skos:Concept ;
         diga_terms:2745856219,
         diga_terms:680026760,
         diga_terms:762298113 ;
+    skos:closeMatch aat:300209935 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "trousers"@en,
         "pantaloni"@it ;
@@ -1016,6 +1030,7 @@ diga_terms:1131561900 a skos:Concept ;
     skos-thes:narrowerPartitive diga_terms:1638014293 ;
     skos:broader diga_terms:2214199931,
         diga_terms:928905638 ;
+    skos:closeMatch aat:300209294 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1638014293,
         diga_terms:1801646931,
@@ -1043,6 +1058,7 @@ diga_terms:1133166921 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:360121625 ;
     skos:broader diga_terms:360121625 ;
+    skos:closeMatch aat:300003524 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "lesbian kymation"@en,
         "kyma lesbio"@it ;
@@ -1086,6 +1102,7 @@ diga_terms:1134680910 a skos:Concept ;
         diga_terms:3603651106,
         diga_terms:3638812229,
         diga_terms:928905638 ;
+    skos:closeMatch aat:300263462 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "torques"@en,
         "torques"@it ;
@@ -1103,6 +1120,7 @@ diga_terms:1139296365 a skos:Concept ;
         diga_terms:1949528160,
         diga_terms:233761752,
         diga_terms:928905638 ;
+    skos:closeMatch aat:300209303 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "fibula"@en,
         "fibbia"@it ;
@@ -1230,6 +1248,7 @@ diga_terms:1153070907 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1364518861,
         diga_terms:1802671833 ;
     skos:broader diga_terms:3066298879 ;
+    skos:closeMatch aat:300198817 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1364518861,
         diga_terms:1802671833 ;
@@ -1278,6 +1297,7 @@ diga_terms:1168066149 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
     skos-thes:narrowerGeneric diga_terms:4275276628 ;
     skos:broader diga_terms:3066298879 ;
+    skos:closeMatch aat:300438570 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:4275276628 ;
     skos:prefLabel "begging bowl"@en,
@@ -1324,6 +1344,7 @@ diga_terms:1175022091 a skos:Concept ;
         diga_terms:2460714378,
         diga_terms:2614128765 ;
     skos:broader diga_terms:360121625 ;
+    skos:closeMatch aat:300010104 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1860489400,
         diga_terms:2460714378,
@@ -1453,6 +1474,7 @@ diga_terms:1189279913 a skos:Concept ;
     skos:altLabel "kythara"@en,
         "kythara"@it ;
     skos:broader diga_terms:2418422748 ;
+    skos:closeMatch aat:300042114 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "lyra"@en,
         "lira"@it ;
@@ -1745,6 +1767,7 @@ diga_terms:1215741717 a skos:Concept ;
     dc:identifier "1215741717" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2257989562 ;
+    skos:broadMatch aat:300007023 ;
     skos:broader diga_terms:2257989562 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "figured stele"@en,
@@ -1806,6 +1829,7 @@ diga_terms:1224943818 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:2417567835 ;
     skos-thes:narrowerGeneric diga_terms:1348259099,
         diga_terms:2875405552 ;
+    skos:broadMatch aat:300001788 ;
     skos:broader diga_terms:2417567835 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1348259099,
@@ -2229,6 +2253,7 @@ diga_terms:1253760895 a skos:Concept ;
         diga_terms:67708221,
         diga_terms:762866568 ;
     skos:broader diga_terms:2483270731 ;
+    skos:closeMatch aat:300375054 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:102101107,
         diga_terms:1313102966,
@@ -2283,6 +2308,7 @@ diga_terms:1260251534 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
     skos:broader diga_terms:3073799863 ;
+    skos:closeMatch aat:300005080 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "city door"@en,
         "porta urbica"@it ;
@@ -2358,6 +2384,7 @@ diga_terms:1280951326 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
     skos:broader diga_terms:3237930001 ;
+    skos:closeMatch aat:300262571 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "girth"@en,
         "soprasella"@it ;
@@ -2409,6 +2436,7 @@ diga_terms:1291153292 a skos:Concept ;
     skos:broader diga_terms:1553456112,
         diga_terms:44837138,
         diga_terms:810895029 ;
+    skos:closeMatch aat:300195801 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "scale pan"@en,
         "piatto della bilancia"@it ;
@@ -2465,6 +2493,7 @@ diga_terms:1294282728 a skos:Concept ;
         diga_terms:2774820261,
         diga_terms:4106844116 ;
     skos:broader diga_terms:289569947 ;
+    skos:closeMatch aat:300047230 ;
     skos:editorialNote "description of components"@en,
         "descrizione degli elementi componenti"@it ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -2510,6 +2539,7 @@ diga_terms:1297605701 a skos:Concept ;
         diga_terms:1994966187,
         diga_terms:2549035124 ;
     skos:broader diga_terms:1390933319 ;
+    skos:closeMatch aat:300001656 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1491773280,
         diga_terms:1994966187,
@@ -2628,6 +2658,7 @@ diga_terms:131296165 a skos:Concept ;
         diga_terms:2958431400,
         diga_terms:4194718345 ;
     skos:broader diga_terms:2412577815 ;
+    skos:closeMatch aat:300002580 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1871886018,
         diga_terms:2958431400,
@@ -2730,6 +2761,7 @@ diga_terms:1319266649 a skos:Concept ;
         diga_terms:1390933319,
         diga_terms:4238909983,
         diga_terms:4291913910 ;
+    skos:closeMatch aat:300001744 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3267079175,
         diga_terms:3725792072,
@@ -2752,6 +2784,7 @@ diga_terms:1319818779 a skos:Concept ;
     skos-thes:narrowerPartitive diga_terms:2030151828 ;
     skos:broader diga_terms:2214199931,
         diga_terms:360121625 ;
+    skos:closeMatch aat:300009972 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1134134584,
         diga_terms:1284129594,
@@ -2854,6 +2887,7 @@ diga_terms:1344628589 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2423641414 ;
     skos:broader diga_terms:2423641414 ;
+    skos:closeMatch aat:300001702 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "pulvinus"@en,
         "pulvino"@it ;
@@ -2916,6 +2950,7 @@ diga_terms:1350097528 a skos:Concept ;
         diga_terms:2480491321,
         diga_terms:2543936167,
         diga_terms:3088840584 ;
+    skos:closeMatch aat:300386152 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "dhotī"@en,
         "dhotī"@it ;
@@ -3050,6 +3085,7 @@ diga_terms:1364272679 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:406891803 ;
     skos:broader diga_terms:406891803 ;
+    skos:closeMatch aat:300266085 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "fish"@en,
         "pesci"@it ;
@@ -3135,6 +3171,7 @@ diga_terms:1382175042 a skos:Concept ;
     skos:broader diga_terms:4108713248,
         diga_terms:986724577,
         diga_terms:995615797 ;
+    skos:closeMatch aat:300001770 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "entablature"@en,
         "trabeazione"@it ;
@@ -3181,6 +3218,7 @@ diga_terms:138477585 a skos:Concept ;
     skos:altLabel "upright ovolo"@en,
         "ovolo dritto"@it ;
     skos:broader diga_terms:2162257450 ;
+    skos:closeMatch aat:300003543 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "ovolo"@en,
         "ovolo"@it ;
@@ -3196,6 +3234,7 @@ diga_terms:1388835177 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:4085526670 ;
     skos-thes:narrowerPartitive diga_terms:3504984198 ;
     skos:broader diga_terms:4085526670 ;
+    skos:closeMatch aat:300041872 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3504984198 ;
     skos:prefLabel "bell"@en,
@@ -3242,6 +3281,7 @@ diga_terms:1390933319 a skos:Concept ;
         diga_terms:2327276189,
         diga_terms:358097268 ;
     skos:broader diga_terms:292026662 ;
+    skos:closeMatch aat:300001650 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1297605701,
         diga_terms:1319266649,
@@ -3368,6 +3408,7 @@ diga_terms:1404508155 a skos:Concept ;
     dc:identifier "1404508155" ;
     skos-thes:broaderGeneric diga_terms:4248524679 ;
     skos:broader diga_terms:4248524679 ;
+    skos:closeMatch aat:300307716 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "putto"@en,
         "putto"@it ;
@@ -3433,6 +3474,7 @@ diga_terms:1408741571 a skos:Concept ;
         diga_terms:68533147 ;
     skos:prefLabel "the parinirvana cycle"@en,
         "ciclo del parininvana"@it ;
+    skos:relatedMatch aat:300404706 ;
     skosxl:altLabel diga_terms:1013263599 ;
     skosxl:prefLabel diga_terms:353099314,
         diga_terms:xl_it_75e7d5f8 .
@@ -3464,6 +3506,7 @@ diga_terms:1412175229 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3000500502 ;
     skos:broader diga_terms:3000500502 ;
+    skos:closeMatch aat:300419987 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "pannier"@en,
         "gerla"@it ;
@@ -3513,6 +3556,7 @@ diga_terms:142687138 a skos:Concept ;
         diga_terms:1670517620,
         diga_terms:2770786902 ;
     skos:broader diga_terms:406891803 ;
+    skos:closeMatch aat:300375725 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1081531142,
         diga_terms:1670517620,
@@ -3576,6 +3620,7 @@ diga_terms:1443780080 a skos:Concept ;
     skos-thes:narrowerPartitive diga_terms:3361798727,
         diga_terms:603997620 ;
     skos:broader diga_terms:2251868554 ;
+    skos:closeMatch aat:300082981 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3361798727,
         diga_terms:603997620 ;
@@ -3687,6 +3732,7 @@ diga_terms:1465041250 a skos:Concept ;
     skos:altLabel "frame"@en,
         "fascia"@it ;
     skos:broader diga_terms:3073799863 ;
+    skos:closeMatch aat:300003146 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "jamb"@en,
         "stipite"@it ;
@@ -3793,6 +3839,7 @@ diga_terms:1478676491 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1020532692 ;
     skos:broader diga_terms:1020532692 ;
+    skos:closeMatch aat:300200095 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "ladle"@en,
         "mestolo"@it ;
@@ -3809,6 +3856,7 @@ diga_terms:1478772345 a skos:Concept ;
     skos:broader diga_terms:1553456112,
         diga_terms:44837138,
         diga_terms:810895029 ;
+    skos:closeMatch aat:300196034 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "counterpoise weight"@en,
         "contrappeso"@it ;
@@ -3926,6 +3974,7 @@ diga_terms:1495809523 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:418619365 ;
     skos:broader diga_terms:418619365 ;
+    skos:closeMatch aat:300433356 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "writing tablet"@en,
         "tavola scrittoria"@it ;
@@ -3969,6 +4018,7 @@ diga_terms:1505093974 a skos:Concept ;
     skos:altLabel "aureole"@en,
         "alone"@it ;
     skos:broader diga_terms:1194521837 ;
+    skos:closeMatch aat:300263370 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2334945135,
         diga_terms:2936405930 ;
@@ -4031,6 +4081,7 @@ diga_terms:1510769166 a skos:Concept ;
         diga_terms:79756218,
         diga_terms:8160970580 ;
     skos:broader diga_terms:406891803 ;
+    skos:closeMatch aat:300265707 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1048587099,
         diga_terms:1624638416,
@@ -4066,6 +4117,7 @@ diga_terms:1512826464 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2423641414 ;
     skos:broader diga_terms:2423641414 ;
+    skos:closeMatch aat:300001699 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "abacus"@en,
         "abaco"@it ;
@@ -4088,6 +4140,7 @@ diga_terms:1517407372 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1602652729 ;
     skos:broader diga_terms:1602652729 ;
+    skos:closeMatch aat:300024919 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "razor blade"@en,
         "rasoio per taglio dei capelli"@it ;
@@ -4153,6 +4206,7 @@ diga_terms:152592182 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2162257450 ;
     skos:broader diga_terms:2162257450 ;
+    skos:closeMatch aat:300003539 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "half round"@en,
         "tondino"@it ;
@@ -4176,6 +4230,7 @@ diga_terms:152688564 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3898664841 ;
     skos:broader diga_terms:3898664841 ;
+    skos:closeMatch aat:300219625 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "farm cart, covered"@en,
         "carro leggero, coperto"@it ;
@@ -4252,6 +4307,7 @@ diga_terms:1536690025 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2228467950 ;
     skos:broader diga_terms:2228467950 ;
+    skos:closeMatch aat:300042539 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "double oboe"@en,
         "oboe doppio"@it ;
@@ -4406,6 +4462,7 @@ diga_terms:1554963759 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1724100955,
         diga_terms:864303630 ;
     skos:broader diga_terms:1294282728 ;
+    skos:closeMatch aat:300123582 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1724100955,
         diga_terms:864303630 ;
@@ -4443,6 +4500,7 @@ diga_terms:1567004410 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2100908533 ;
     skos:broader diga_terms:2100908533 ;
+    skos:closeMatch aat:300024253 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "plumb-bob"@en,
         "filo a piombo"@it ;
@@ -4515,6 +4573,7 @@ diga_terms:1572186154 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2378765278 ;
     skos:broader diga_terms:2378765278 ;
+    skos:closeMatch aat:300375053 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "wing"@en,
         "ala"@it ;
@@ -4551,6 +4610,7 @@ diga_terms:1585905248 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:2071244448,
         diga_terms:2118383685 ;
     skos:broader diga_terms:760167124 ;
+    skos:closeMatch aat:300205326 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2071244448,
         diga_terms:2118383685 ;
@@ -4577,6 +4637,7 @@ diga_terms:1588363877 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
     skos:broader diga_terms:3073799863 ;
+    skos:closeMatch aat:300001780 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "architrave"@en,
         "architrave"@it ;
@@ -4622,6 +4683,7 @@ diga_terms:1593290841 a skos:Concept ;
         diga_terms:3788359990,
         diga_terms:457283766 ;
     skos:broader diga_terms:2896914945 ;
+    skos:closeMatch aat:300009764 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3655878135,
         diga_terms:3788359990,
@@ -4636,6 +4698,7 @@ diga_terms:1594640528 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
     skos:broader diga_terms:3073799863 ;
+    skos:closeMatch aat:300111088 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "spur of tower"@en,
         "sperone di torre"@it ;
@@ -4647,6 +4710,7 @@ diga_terms:1595382875 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2162257450 ;
     skos:broader diga_terms:2162257450 ;
+    skos:closeMatch aat:300389721 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "rebate"@en,
         "risega"@it ;
@@ -4685,6 +4749,7 @@ diga_terms:1597736316 a skos:Concept ;
         diga_terms:921611418,
         diga_terms:99768892 ;
     skos:broader diga_terms:481543985 ;
+    skos:closeMatch aat:300168457 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1030527749,
         diga_terms:1492472258,
@@ -4754,6 +4819,7 @@ diga_terms:1602652729 a skos:Concept ;
         diga_terms:440906796,
         diga_terms:442124243 ;
     skos:broader diga_terms:1022807358 ;
+    skos:closeMatch aat:300434832 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1517407372,
         diga_terms:228131430,
@@ -4785,6 +4851,7 @@ diga_terms:1605160344 a skos:Concept ;
     skos:altLabel "aged silenus"@en,
         "sileno anziano"@it ;
     skos:broader diga_terms:4248524679 ;
+    skos:closeMatch aat:300412120 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "silenus"@en,
         "sileno"@it ;
@@ -4888,6 +4955,7 @@ diga_terms:1616741731 a skos:Concept ;
         diga_terms:3553787664,
         diga_terms:789113240,
         diga_terms:928905638 ;
+    skos:closeMatch aat:300045990 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1326840639,
         diga_terms:257659494,
@@ -4921,6 +4989,7 @@ diga_terms:1621402559 a skos:Concept ;
         diga_terms:3471662989,
         diga_terms:4969261 ;
     skos:broader diga_terms:1390933319 ;
+    skos:closeMatch aat:300001754 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2440649772,
         diga_terms:2513841656,
@@ -5027,6 +5096,7 @@ diga_terms:1624638416 a skos:Concept ;
     skos-thes:narrowerPartitive diga_terms:4041015190 ;
     skos:broader diga_terms:1510769166,
         diga_terms:4095112940 ;
+    skos:closeMatch aat:300250160 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1483637870,
         diga_terms:1700205106,
@@ -5064,6 +5134,7 @@ diga_terms:1629844188 a skos:Concept ;
         diga_terms:2534747475,
         diga_terms:2667838189,
         diga_terms:3073799863 ;
+    skos:closeMatch aat:300263552 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1569179484,
         diga_terms:1912936226,
@@ -5106,6 +5177,7 @@ diga_terms:1634446600 a skos:Concept ;
     dc:identifier "1634446600" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:broader diga_terms:849867655 ;
+    skos:closeMatch aat:300379808 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "archer"@en,
         "arciere"@it ;
@@ -5195,6 +5267,7 @@ diga_terms:164355721 a skos:Concept ;
         diga_terms:462104231,
         diga_terms:572250512 ;
     skos:broader diga_terms:1152735729 ;
+    skos:closeMatch aat:300003604 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1885334734,
         diga_terms:1983323042,
@@ -5277,6 +5350,7 @@ diga_terms:1648002352 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:3030556597 ;
     skos-thes:narrowerGeneric diga_terms:2168281055 ;
     skos:broader diga_terms:3030556597 ;
+    skos:closeMatch aat:300250076 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2168281055 ;
     skos:prefLabel "parrot"@en,
@@ -5346,6 +5420,7 @@ diga_terms:1663570432 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1253760895 ;
     skos:broader diga_terms:1253760895 ;
+    skos:closeMatch aat:300379264 ;
     skos:example "drooping"@en,
         "pointed"@en,
         "straight"@en,
@@ -5421,6 +5496,7 @@ diga_terms:1670517620 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:2144832819,
         diga_terms:2543677346 ;
     skos:broader diga_terms:142687138 ;
+    skos:closeMatch aat:300375726 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2144832819,
         diga_terms:2543677346 ;
@@ -5602,6 +5678,7 @@ diga_terms:1689314004 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:1731838996 ;
     skos:altLabel "mazza a due facce"@it ;
     skos:broader diga_terms:1731838996 ;
+    skos:closeMatch aat:300024823 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "hammer"@en,
         "martello a due facce"@it ;
@@ -5667,6 +5744,7 @@ diga_terms:1699204008 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:418619365 ;
     skos:broader diga_terms:418619365 ;
+    skos:closeMatch aat:300022483 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "stylus"@en,
         "stilo"@it ;
@@ -5871,6 +5949,7 @@ diga_terms:1727009392 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
     skos:broader diga_terms:3237930001 ;
+    skos:closeMatch aat:300400756 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "brow-band"@en,
         "frontale"@it ;
@@ -5911,6 +5990,7 @@ diga_terms:1727859156 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2709765726 ;
     skos:broader diga_terms:2709765726 ;
+    skos:closeMatch aat:300375431 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "mango"@en,
         "mango"@it ;
@@ -5941,6 +6021,7 @@ diga_terms:1729169804 a skos:Concept ;
         "scena di bisboccia"@it,
         "scena festiva"@it ;
     skos:broader diga_terms:715314803 ;
+    skos:closeMatch aat:300380330 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "revelry scene"@en,
         "scena dionisiaca"@it ;
@@ -5982,6 +6063,7 @@ diga_terms:1730014591 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4089326303 ;
     skos:broader diga_terms:4089326303 ;
+    skos:closeMatch aat:300198934 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "two-handled cup"@en,
         "tazza biansata"@it ;
@@ -6096,6 +6178,7 @@ diga_terms:1741358327 a skos:Concept ;
         diga_terms:4063783755,
         diga_terms:418023804 ;
     skos:broader diga_terms:418619365 ;
+    skos:closeMatch aat:300196797 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:4062053867,
         diga_terms:4063783755,
@@ -6182,6 +6265,7 @@ diga_terms:1748566320 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:2163667055,
         diga_terms:3600660368 ;
     skos:broader diga_terms:406891803 ;
+    skos:closeMatch aat:300265956 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2163667055,
         diga_terms:3600660368 ;
@@ -6251,6 +6335,7 @@ diga_terms:1754917951 a skos:Concept ;
         diga_terms:3593458587,
         diga_terms:3794670689 ;
     skos:broader diga_terms:3269212881 ;
+    skos:closeMatch aat:300037058 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1124757375,
         diga_terms:3593458587,
@@ -6334,6 +6419,7 @@ diga_terms:176285216 a skos:Concept ;
     dc:identifier "176285216" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:767185560 ;
+    skos:broadMatch aat:300181491 ;
     skos:broader diga_terms:767185560 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "aedicule-shaped lamp-holder"@en,
@@ -6422,6 +6508,7 @@ diga_terms:1775830788 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1926420766,
         diga_terms:368821738 ;
     skos:broader diga_terms:1510769166 ;
+    skos:closeMatch aat:300250130 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1926420766,
         diga_terms:368821738 ;
@@ -6439,6 +6526,7 @@ diga_terms:1775892328 a skos:Concept ;
     skos:altLabel "triśūla"@en,
         "triśūla"@it ;
     skos:broader diga_terms:3269212881 ;
+    skos:closeMatch aat:300379353 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3323433262,
         diga_terms:3989764729 ;
@@ -6541,6 +6629,7 @@ diga_terms:1787652359 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2162257450 ;
     skos:broader diga_terms:2162257450 ;
+    skos:closeMatch aat:300001750 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "scotia"@en,
         "scozia"@it ;
@@ -6821,6 +6910,7 @@ diga_terms:1817294312 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:1246295649 ;
     skos:altLabel "hook clamp"@en ;
     skos:broader diga_terms:1246295649 ;
+    skos:closeMatch aat:300024736 ;
     skos:example "cramp with rectangular uniform width"@en,
         "straight cramp"@en,
         "grappa a sezione rettangolare"@it,
@@ -6843,6 +6933,7 @@ diga_terms:1821875508 a skos:Concept ;
     skos:altLabel "kamaṇḍalu"@en,
         "kamaṇḍalu"@it ;
     skos:broader diga_terms:3066298879 ;
+    skos:closeMatch aat:300045671 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3617860408,
         diga_terms:3768116399,
@@ -6971,6 +7062,7 @@ diga_terms:1831485914 a skos:Concept ;
         diga_terms:666573358 ;
     skos:altLabel "asta cerimoniale"@it ;
     skos:broader diga_terms:3066298879 ;
+    skos:closeMatch aat:300262871 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3851022161,
         diga_terms:666573358 ;
@@ -6996,6 +7088,7 @@ diga_terms:1834078249 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1199973794 ;
     skos:broader diga_terms:1199973794 ;
+    skos:closeMatch aat:300046173 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "legging"@en,
         "gambale"@it ;
@@ -7099,6 +7192,7 @@ diga_terms:1842876919 a skos:Concept ;
     skos-thes:narrowerPartitive diga_terms:1708624602,
         diga_terms:59507182 ;
     skos:broader diga_terms:1020532692 ;
+    skos:closeMatch aat:300022376 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1708624602,
         diga_terms:59507182 ;
@@ -7113,6 +7207,7 @@ diga_terms:1843562663 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4089326303 ;
     skos:broader diga_terms:4089326303 ;
+    skos:closeMatch aat:300043229 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "drinking horn (rhyton)"@en,
         "corno potorio (rhyton)"@it ;
@@ -7170,6 +7265,7 @@ diga_terms:1845428737 a skos:Concept ;
         diga_terms:3999131739,
         diga_terms:400453203 ;
     skos:broader diga_terms:2824007492 ;
+    skos:closeMatch aat:300010212 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1805298157,
         diga_terms:3443549289,
@@ -7584,6 +7680,7 @@ diga_terms:1900316631 a skos:Concept ;
         diga_terms:2745856219,
         diga_terms:2952603567,
         diga_terms:762298113 ;
+    skos:closeMatch aat:300210776 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "Phrygian cap"@en,
         "berretto frigio"@it ;
@@ -7989,6 +8086,7 @@ diga_terms:19497046 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:603997620 ;
     skos:altLabel "bow"@en ;
     skos:broader diga_terms:603997620 ;
+    skos:closeMatch aat:300248152 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "prow"@en,
         "prua"@it ;
@@ -8124,6 +8222,7 @@ diga_terms:1969486271 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "row of chevrons"@en,
         "fila di angoli sdraiati"@it ;
+    skos:relatedMatch aat:300009766 ;
     skosxl:prefLabel diga_terms:109583353,
         diga_terms:4164738475 ;
     foaf:depiction <https://w3id.org/diga/illustrations/1969486271> .
@@ -8134,6 +8233,7 @@ diga_terms:1971313817 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:360121625 ;
     skos-thes:narrowerGeneric diga_terms:1826985674 ;
     skos:broader diga_terms:360121625 ;
+    skos:closeMatch aat:300164902 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1826985674 ;
     skos:prefLabel "acanthus"@en,
@@ -8249,6 +8349,7 @@ diga_terms:1982488836 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3898664841 ;
     skos:broader diga_terms:3898664841 ;
+    skos:closeMatch aat:300219625 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "farm cart, open"@en,
         "carro leggero, scoperto"@it ;
@@ -8311,6 +8412,7 @@ diga_terms:1989192869 a skos:Concept ;
         diga_terms:817744727 ;
     skos:broader diga_terms:1199973794,
         diga_terms:3269212881 ;
+    skos:closeMatch aat:300046143 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:125142965,
         diga_terms:1307054839,
@@ -8405,6 +8507,7 @@ diga_terms:1999355705 a skos:Concept ;
     skos:broader diga_terms:1293744608,
         diga_terms:3269212881,
         diga_terms:3844885247 ;
+    skos:closeMatch aat:300037038 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "spear"@en,
         "lancia"@it ;
@@ -8424,6 +8527,7 @@ diga_terms:2003709673 a skos:Concept ;
         diga_terms:3820977482,
         diga_terms:503993573 ;
     skos:broader diga_terms:3073799863 ;
+    skos:closeMatch aat:300003018 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1247227586,
         diga_terms:234364800,
@@ -8443,6 +8547,7 @@ diga_terms:2004519371 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:4274303633 ;
     skos-thes:narrowerPartitive diga_terms:3622536210 ;
     skos:broader diga_terms:4274303633 ;
+    skos:closeMatch aat:300003725 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3622536210 ;
     skos:prefLabel "altar"@en,
@@ -8660,6 +8765,7 @@ diga_terms:2033636798 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:2438448679 ;
     skos:broader diga_terms:1199973794,
         diga_terms:2438448679 ;
+    skos:closeMatch aat:300209932 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "skirt"@en,
         "gonnellino"@it ;
@@ -8777,6 +8883,7 @@ diga_terms:2041978026 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3269212881 ;
     skos:broader diga_terms:3269212881 ;
+    skos:closeMatch aat:300037214 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "mace"@en,
         "mazza"@it ;
@@ -8894,6 +9001,7 @@ diga_terms:2054426851 a skos:Concept ;
         diga_terms:2418422748,
         diga_terms:4085526670,
         diga_terms:760167124 ;
+    skos:closeMatch aat:300041620 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2228467950,
         diga_terms:2418422748,
@@ -8910,6 +9018,7 @@ diga_terms:2054561957 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
     skos:broader diga_terms:3237930001 ;
+    skos:closeMatch aat:300212972 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "saddle"@en,
         "sella"@it ;
@@ -9022,6 +9131,7 @@ diga_terms:2067427685 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1253760895 ;
     skos:broader diga_terms:1253760895 ;
+    skos:closeMatch aat:300400468 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "hair"@en,
         "capelli"@it ;
@@ -9072,6 +9182,7 @@ diga_terms:2071379191 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2162257450 ;
     skos:broader diga_terms:2162257450 ;
+    skos:closeMatch aat:300003513 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "cavetto"@en,
         "guscio"@it ;
@@ -9107,6 +9218,7 @@ diga_terms:2082243019 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4235579774 ;
     skos:broader diga_terms:4235579774 ;
+    skos:closeMatch aat:300024818 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "rasp"@en,
         "raspa"@it ;
@@ -9230,6 +9342,7 @@ diga_terms:2091634236 a skos:Concept ;
         diga_terms:738233804 ;
     skos:prefLabel "therioanthropic figures"@en,
         "figure terioantropomorfe"@it ;
+    skos:relatedMatch aat:300254129 ;
     skosxl:prefLabel diga_terms:2996133551,
         diga_terms:xl_it_1ea94648 .
 
@@ -9365,6 +9478,7 @@ diga_terms:2100908533 a skos:Concept ;
         diga_terms:3837898119,
         diga_terms:4031291621 ;
     skos:broader diga_terms:2838159259 ;
+    skos:closeMatch aat:300207870 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1567004410,
         diga_terms:2262148490,
@@ -9427,6 +9541,7 @@ diga_terms:2101537796 a skos:Concept ;
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:715314803 ;
     skos:broader diga_terms:715314803 ;
+    skos:closeMatch aat:300028882 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "erotic scene"@en,
         "scena erotica"@it ;
@@ -9549,6 +9664,7 @@ diga_terms:2119605152 a skos:Concept ;
     skos:broader diga_terms:2963759628,
         diga_terms:3262684865,
         diga_terms:4144698813 ;
+    skos:closeMatch aat:300221444 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "staff"@en,
         "bastone"@it ;
@@ -9586,6 +9702,7 @@ diga_terms:2122714914 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2162257450 ;
     skos:broader diga_terms:2162257450 ;
+    skos:closeMatch aat:300003524 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "cyma reversa"@en,
         "gola rovescia"@it ;
@@ -9635,6 +9752,7 @@ diga_terms:2125607802 a skos:Concept ;
         diga_terms:3191115357,
         diga_terms:3321693847 ;
     skos:broader diga_terms:3030556597 ;
+    skos:closeMatch aat:300250063 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:125777748,
         diga_terms:3191115357,
@@ -9730,6 +9848,7 @@ diga_terms:2137397505 a skos:Concept ;
     skos:broader diga_terms:2214199931,
         diga_terms:789113240,
         diga_terms:928905638 ;
+    skos:closeMatch aat:300045991 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:193236731 ;
     skos:prefLabel "bracelet"@en,
@@ -9887,6 +10006,7 @@ diga_terms:2162257450 a skos:Concept ;
         diga_terms:3738559474,
         diga_terms:3784106304 ;
     skos:broader diga_terms:2667838189 ;
+    skos:closeMatch aat:300003429 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1035523561,
         diga_terms:138477585,
@@ -9934,6 +10054,7 @@ diga_terms:2163667055 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:1748566320 ;
     skos-thes:narrowerGeneric diga_terms:238849423 ;
     skos:broader diga_terms:1748566320 ;
+    skos:closeMatch aat:300310264 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:238849423 ;
     skos:prefLabel "turtle"@en,
@@ -10216,6 +10337,7 @@ diga_terms:2199920141 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
     skos:broader diga_terms:2483270731 ;
+    skos:closeMatch aat:300310189 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "ankle"@en,
         "caviglia"@it ;
@@ -10284,6 +10406,7 @@ diga_terms:220949503 a skos:Concept ;
     skos:altLabel "frontalis muscle"@en,
         "muscoli frontali"@it ;
     skos:broader diga_terms:1253760895 ;
+    skos:closeMatch aat:300404717 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "forehead"@en,
         "fronte"@it ;
@@ -10452,6 +10575,7 @@ diga_terms:2228090298 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1495185932 ;
     skos:broader diga_terms:1495185932 ;
+    skos:closeMatch aat:300303413 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "cornucopia"@en,
         "cornucopia"@it ;
@@ -10468,6 +10592,7 @@ diga_terms:2228467950 a skos:Concept ;
         diga_terms:2487871423,
         diga_terms:3785088996 ;
     skos:broader diga_terms:2054426851 ;
+    skos:closeMatch aat:300041622 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1399555335,
         diga_terms:1536690025,
@@ -10615,6 +10740,7 @@ diga_terms:2249846779 a skos:Concept ;
     skos:broader diga_terms:1293744608,
         diga_terms:1714708293,
         diga_terms:2716416682 ;
+    skos:closeMatch aat:300046057 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "boot"@en,
         "stivaletto"@it ;
@@ -10641,6 +10767,7 @@ diga_terms:2251868554 a skos:Concept ;
         diga_terms:3898664841,
         diga_terms:4083475564,
         diga_terms:4095112940 ;
+    skos:closeMatch aat:300219258 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1010407745,
         diga_terms:1443780080,
@@ -10689,6 +10816,7 @@ diga_terms:2257989562 a skos:Concept ;
         diga_terms:3937137535,
         diga_terms:4130977338 ;
     skos:broader diga_terms:289569947 ;
+    skos:closeMatch aat:300047600 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1036537964,
         diga_terms:1215741717,
@@ -10769,6 +10897,7 @@ diga_terms:2262148490 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2100908533 ;
     skos:broader diga_terms:2100908533 ;
+    skos:closeMatch aat:300022536 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "set square"@en,
         "squadra"@it ;
@@ -10914,6 +11043,7 @@ diga_terms:228131430 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1602652729 ;
     skos:broader diga_terms:1602652729 ;
+    skos:closeMatch aat:300236397 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "hair comb"@en,
         "pettine per capelli"@it ;
@@ -11076,6 +11206,7 @@ diga_terms:2295534461 a skos:Concept ;
         diga_terms:4187838859,
         diga_terms:471145664 ;
     skos:broader diga_terms:2483270731 ;
+    skos:closeMatch aat:300310200 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1954113910,
         diga_terms:2005214624,
@@ -11150,6 +11281,7 @@ diga_terms:2301477931 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:altLabel "suonatore"@it ;
     skos:broader diga_terms:849867655 ;
+    skos:closeMatch aat:300025666 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "musician"@en,
         "musico"@it ;
@@ -11219,6 +11351,7 @@ diga_terms:2311845486 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
     skos:broader diga_terms:3066298879 ;
+    skos:closeMatch aat:300190801 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "votive lamp"@en,
         "lucerna votiva"@it ;
@@ -11267,6 +11400,7 @@ diga_terms:2320100902 a skos:Concept ;
         diga_terms:4046171316 ;
     skos:altLabel "robe"@en,
         "veste"@it ;
+    skos:broadMatch aat:300390928 ;
     skos:broader diga_terms:3007921346,
         diga_terms:3906619880 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -11342,6 +11476,7 @@ diga_terms:2327276189 a skos:Concept ;
         diga_terms:4109259957,
         diga_terms:763761960 ;
     skos:broader diga_terms:1390933319 ;
+    skos:closeMatch aat:300001662 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1278850118,
         diga_terms:1710098582,
@@ -11445,6 +11580,7 @@ diga_terms:2335217424 a skos:Concept ;
         diga_terms:3738322359,
         diga_terms:939737644 ;
     skos:broader diga_terms:3725270573 ;
+    skos:closeMatch aat:300264360 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1225889648,
         diga_terms:1237683649,
@@ -11476,6 +11612,7 @@ diga_terms:2335901934 a skos:Concept ;
         diga_terms:3126905492,
         diga_terms:647674876,
         diga_terms:673626200 ;
+    skos:closeMatch aat:300210530 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "sleeve"@en,
         "manica"@it ;
@@ -11583,6 +11720,7 @@ diga_terms:2361120004 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:2722247433 ;
     skos:altLabel "grip"@en ;
     skos:broader diga_terms:2722247433 ;
+    skos:closeMatch aat:300037119 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "hilt"@en,
         "impugnatura"@it ;
@@ -11768,6 +11906,7 @@ diga_terms:2379796937 a skos:Concept ;
         diga_terms:574935704,
         diga_terms:992955018 ;
     skos:broader diga_terms:2667838189 ;
+    skos:closeMatch aat:300002018 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:4195473341,
         diga_terms:574935704,
@@ -11928,6 +12067,7 @@ diga_terms:2401980690 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2722247433 ;
     skos:broader diga_terms:2722247433 ;
+    skos:closeMatch aat:300037139 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "scabbard"@en,
         "fodero"@it ;
@@ -11939,6 +12079,7 @@ diga_terms:2405207229 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4235579774 ;
     skos:broader diga_terms:4235579774 ;
+    skos:closeMatch aat:300024671 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "saw"@en,
         "sega a telaio"@it ;
@@ -12059,6 +12200,7 @@ diga_terms:2418422748 a skos:Concept ;
         diga_terms:3508558499,
         diga_terms:3946259546 ;
     skos:broader diga_terms:2054426851 ;
+    skos:closeMatch aat:300041641 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1189279913,
         diga_terms:3427747245,
@@ -12252,6 +12394,7 @@ diga_terms:2435617812 a skos:Concept ;
     skos-thes:narrowerPartitive diga_terms:1656620560,
         diga_terms:610917503 ;
     skos:broader diga_terms:1569179484 ;
+    skos:closeMatch aat:300006179 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1656620560,
         diga_terms:610917503 ;
@@ -12266,6 +12409,7 @@ diga_terms:2438197273 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
     skos:broader diga_terms:3073799863 ;
+    skos:closeMatch aat:300002601 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "merlon"@en,
         "merlo"@it ;
@@ -12451,6 +12595,7 @@ diga_terms:245536511 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:2849434620,
         diga_terms:3252838501 ;
     skos:broader diga_terms:360121625 ;
+    skos:closeMatch aat:300400479 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2849434620,
         diga_terms:3252838501 ;
@@ -12615,6 +12760,7 @@ diga_terms:2471177122 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4085526670 ;
     skos:broader diga_terms:4085526670 ;
+    skos:closeMatch aat:300041976 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "xylophone"@en,
         "xilofono"@it ;
@@ -12626,6 +12772,7 @@ diga_terms:2472495753 a skos:Concept ;
     dc:identifier "2472495753" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:863907056 ;
+    skos:broadMatch aat:300430539 ;
     skos:broader diga_terms:863907056 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "point chisel with rectangular shaft"@en,
@@ -12676,6 +12823,7 @@ diga_terms:2477530233 a skos:Concept ;
         diga_terms:949640700 ;
     skos:altLabel "chair"@en ;
     skos:broader diga_terms:573338218 ;
+    skos:closeMatch aat:300041116 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1815280000,
         diga_terms:3262876746,
@@ -12755,6 +12903,7 @@ diga_terms:2483270731 a skos:Concept ;
         diga_terms:812736555,
         diga_terms:957673763 ;
     skos:broader diga_terms:2269992085 ;
+    skos:closeMatch aat:300419454 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1011844052,
         diga_terms:1103649430,
@@ -12834,6 +12983,7 @@ diga_terms:2487871423 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2228467950 ;
     skos:broader diga_terms:2228467950 ;
+    skos:closeMatch aat:300042539 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "oboe"@en,
         "oboe"@it ;
@@ -12943,6 +13093,7 @@ diga_terms:2498849496 a skos:Concept ;
         diga_terms:916793808,
         diga_terms:938984058 ;
     skos:broader diga_terms:3725270573 ;
+    skos:closeMatch aat:300024979 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1134178852,
         diga_terms:1178944365,
@@ -13139,6 +13290,7 @@ diga_terms:252269757 a skos:Concept ;
         diga_terms:4095100333,
         diga_terms:89437794 ;
     skos:broader diga_terms:1629844188 ;
+    skos:closeMatch aat:300120364 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2922267194,
         diga_terms:3327345101,
@@ -13156,6 +13308,7 @@ diga_terms:252491446 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:678702193 ;
     skos:broader diga_terms:678702193 ;
+    skos:closeMatch aat:300262585 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "drape"@en,
         "drappo"@it ;
@@ -13221,6 +13374,7 @@ diga_terms:2528292753 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1750101068,
         diga_terms:220822324 ;
     skos:broader diga_terms:3030556597 ;
+    skos:closeMatch aat:300250082 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1750101068,
         diga_terms:220822324 ;
@@ -13258,6 +13412,7 @@ diga_terms:2530432611 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:2126636278,
         diga_terms:4193610319 ;
     skos:broader diga_terms:1510769166 ;
+    skos:closeMatch aat:300250114 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2126636278,
         diga_terms:4193610319 ;
@@ -13286,6 +13441,7 @@ diga_terms:2534747475 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:1629844188 ;
     skos-thes:narrowerGeneric diga_terms:3323510573 ;
     skos:broader diga_terms:1629844188 ;
+    skos:closeMatch aat:300005866 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3323510573 ;
     skos:prefLabel "funerary architecture"@en,
@@ -13344,6 +13500,7 @@ diga_terms:2539896623 a skos:Concept ;
         diga_terms:4041015190,
         diga_terms:50583640 ;
     skos:broader diga_terms:573338218 ;
+    skos:closeMatch aat:300038141 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1858908123,
         diga_terms:2246051536,
@@ -13511,6 +13668,7 @@ diga_terms:2547733684 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1495185932 ;
     skos:broader diga_terms:1495185932 ;
+    skos:closeMatch aat:300011868 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "fruits"@en,
         "frutti"@it ;
@@ -13569,6 +13727,7 @@ diga_terms:2550564563 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1115524268,
         diga_terms:3450847079,
         diga_terms:833126424 ;
+    skos:closeMatch aat:300185346 ;
     skos:narrower diga_terms:1115524268,
         diga_terms:3450847079,
         diga_terms:833126424 ;
@@ -13641,6 +13800,7 @@ diga_terms:2561944534 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:678702193 ;
     skos:broader diga_terms:678702193 ;
+    skos:closeMatch aat:300204598 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "sheet"@en,
         "lenzuolo"@it ;
@@ -13668,6 +13828,7 @@ diga_terms:2562508803 a skos:Concept ;
         "padmāsana"@it,
         "seduto nella posizione del loto"@it ;
     skos:broader diga_terms:3561542339 ;
+    skos:closeMatch aat:300419288 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "seated in meditative position"@en,
         "seduto in meditazione"@it ;
@@ -13707,6 +13868,7 @@ diga_terms:2567284667 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
     skos:broader diga_terms:3073799863 ;
+    skos:closeMatch aat:300004847 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "tower"@en,
         "torre"@it ;
@@ -13759,6 +13921,7 @@ diga_terms:2579616314 a skos:Concept ;
         diga_terms:3528407314,
         diga_terms:722563615 ;
     skos:broader diga_terms:1022807358 ;
+    skos:closeMatch aat:300233315 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2378872494,
         diga_terms:3528407314,
@@ -14077,6 +14240,7 @@ diga_terms:2630457205 a skos:Concept ;
     dc:identifier "2630457205" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:broader diga_terms:849867655 ;
+    skos:closeMatch aat:300025409 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "jeweller"@en,
         "gioielliere"@it ;
@@ -14090,6 +14254,7 @@ diga_terms:2631050290 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1504922116,
         diga_terms:2749479715 ;
     skos:broader diga_terms:3269212881 ;
+    skos:closeMatch aat:300037019 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1504922116,
         diga_terms:2749479715 ;
@@ -14307,6 +14472,7 @@ diga_terms:2654072981 a skos:Concept ;
         diga_terms:516995950,
         diga_terms:968329686 ;
     skos:broader diga_terms:360121625 ;
+    skos:closeMatch aat:300009995 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3807335629,
         diga_terms:4107222447,
@@ -14398,6 +14564,7 @@ diga_terms:2667838189 a skos:Concept ;
         diga_terms:292026662,
         diga_terms:2966956410 ;
     skos:broader diga_terms:1629844188 ;
+    skos:closeMatch aat:300000885 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1152735729,
         diga_terms:2162257450,
@@ -14465,6 +14632,7 @@ diga_terms:2675230209 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1250872971 ;
     skos:broader diga_terms:1250872971 ;
+    skos:closeMatch aat:300395464 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "buddha's footprints"@en,
         "impronte dei piedi del buddha"@it ;
@@ -14704,6 +14872,7 @@ diga_terms:2716416682 a skos:Concept ;
         diga_terms:4020639112 ;
     skos:broader diga_terms:1199973794,
         diga_terms:1668278526 ;
+    skos:closeMatch aat:300209280 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2249846779,
         diga_terms:2648367374,
@@ -14888,6 +15057,7 @@ diga_terms:2735945589 a skos:Concept ;
         diga_terms:1940501973,
         diga_terms:889552373 ;
     skos:broader diga_terms:2896914945 ;
+    skos:closeMatch aat:300164598 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1133034121,
         diga_terms:1748783110,
@@ -14996,6 +15166,7 @@ diga_terms:2747531260 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "standing position"@en,
         "posizione stante"@it ;
+    skos:relatedMatch aat:300239500 ;
     skosxl:prefLabel diga_terms:3042865408,
         diga_terms:3647422842 .
 
@@ -15150,6 +15321,7 @@ diga_terms:2763341675 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1845418774 ;
     skos:broader diga_terms:1510769166,
         diga_terms:4095112940 ;
+    skos:closeMatch aat:300250139 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1845418774 ;
     skos:prefLabel "camel"@en,
@@ -15211,6 +15383,7 @@ diga_terms:2771162323 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1534254414 ;
     skos:broader diga_terms:1534254414 ;
+    skos:closeMatch aat:300024682 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "bow drill"@en,
         "trapano ad arco"@it ;
@@ -15256,6 +15429,7 @@ diga_terms:2780874543 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
     skos:broader diga_terms:3073799863 ;
+    skos:closeMatch aat:300001788 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "cornice"@en,
         "cornice"@it ;
@@ -15334,6 +15508,7 @@ diga_terms:2793930350 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
     skos:broader diga_terms:3237930001 ;
+    skos:closeMatch aat:300400752 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "reins"@en,
         "redini"@it ;
@@ -15419,6 +15594,7 @@ diga_terms:2807695186 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2716416682 ;
     skos:broader diga_terms:2716416682 ;
+    skos:closeMatch aat:300046077 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "sandal"@en,
         "sandalo"@it ;
@@ -15654,6 +15830,7 @@ diga_terms:2838159259 a skos:Concept ;
         diga_terms:4235579774,
         diga_terms:863907056 ;
     skos:broader diga_terms:2642759048 ;
+    skos:closeMatch aat:300234127 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1534254414,
         diga_terms:1731838996,
@@ -15741,6 +15918,7 @@ diga_terms:284624605 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1145318320,
         diga_terms:3730993343,
         diga_terms:897656515 ;
+    skos:broadMatch aat:300426445 ;
     skos:broader diga_terms:3066298879 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1145318320,
@@ -15797,6 +15975,7 @@ diga_terms:2852438881 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3263162084 ;
     skos:broader diga_terms:3263162084 ;
+    skos:closeMatch aat:300045998 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "earrings"@en,
         "orecchini"@it ;
@@ -15897,6 +16076,7 @@ diga_terms:2863313669 a skos:Concept ;
     dc:identifier "2863313669" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:broader diga_terms:849867655 ;
+    skos:closeMatch aat:300263157 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "acrobat"@en,
         "acrobata"@it ;
@@ -15907,6 +16087,7 @@ diga_terms:2866633434 a skos:Concept ;
     dc:identifier "2866633434" ;
     skos-thes:broaderGeneric diga_terms:1597736316 ;
     skos:broader diga_terms:1597736316 ;
+    skos:closeMatch aat:300404332 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "deva"@en,
         "deva"@it,
@@ -15967,6 +16148,7 @@ diga_terms:2881287048 a skos:Concept ;
     skos:broader diga_terms:4108713248,
         diga_terms:986724577,
         diga_terms:995615797 ;
+    skos:closeMatch aat:300002736 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "tympanum"@en,
         "timpano"@it ;
@@ -15989,6 +16171,7 @@ diga_terms:2884523639 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
     skos:broader diga_terms:3237930001 ;
+    skos:closeMatch aat:300400758 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "nose band"@en,
         "museruola"@it ;
@@ -16096,6 +16279,7 @@ diga_terms:2890760924 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1246562034,
         diga_terms:3260772381 ;
     skos:broader diga_terms:1510769166 ;
+    skos:closeMatch aat:300250287 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1246562034,
         diga_terms:3260772381 ;
@@ -16156,6 +16340,7 @@ diga_terms:2896914945 a skos:Concept ;
         diga_terms:2735945589,
         diga_terms:2824007492,
         diga_terms:3707917847 ;
+    skos:closeMatch aat:300009700 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1593290841,
         diga_terms:2735945589,
@@ -16261,6 +16446,7 @@ diga_terms:2911881140 a skos:Concept ;
     skos-thes:narrowerPartitive diga_terms:2431934768,
         diga_terms:3782651737 ;
     skos:broader diga_terms:2091634236 ;
+    skos:closeMatch aat:300379733 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2431934768,
         diga_terms:3782651737 ;
@@ -16322,6 +16508,7 @@ diga_terms:2919036229 a skos:Concept ;
     dc:identifier "2919036229" ;
     skos-thes:broaderGeneric diga_terms:2091634236 ;
     skos:broader diga_terms:2091634236 ;
+    skos:closeMatch aat:300379740 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "centaur"@en,
         "centauro"@it ;
@@ -16366,6 +16553,7 @@ diga_terms:2922267194 a skos:Concept ;
         diga_terms:484583540,
         diga_terms:999104243 ;
     skos:broader diga_terms:252269757 ;
+    skos:closeMatch aat:300007576 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1130262996,
         diga_terms:1250940729,
@@ -16499,6 +16687,7 @@ diga_terms:2939079382 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1010407745 ;
     skos:broader diga_terms:1010407745 ;
+    skos:closeMatch aat:300038220 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "sedan chair"@en,
         "portantina a sedia"@it ;
@@ -16548,6 +16737,7 @@ diga_terms:2951403238 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
     skos:broader diga_terms:2483270731 ;
+    skos:closeMatch aat:300310203 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "wrist"@en,
         "polso"@it ;
@@ -16743,6 +16933,7 @@ diga_terms:2966956410 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:2503427128,
         diga_terms:2776284763 ;
     skos:broader diga_terms:2667838189 ;
+    skos:closeMatch aat:300002803 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2503427128,
         diga_terms:2776284763 ;
@@ -16853,6 +17044,7 @@ diga_terms:2985326150 a skos:Concept ;
     skos:broader diga_terms:1199973794,
         diga_terms:2205794341,
         diga_terms:2480491321 ;
+    skos:closeMatch aat:300209991 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "shawl"@en,
         "sciarpa"@it ;
@@ -16864,6 +17056,7 @@ diga_terms:2985624710 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1569179484 ;
     skos:broader diga_terms:1569179484 ;
+    skos:closeMatch aat:300004824 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "hut"@en,
         "capanna"@it ;
@@ -16955,6 +17148,7 @@ diga_terms:3000500502 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:1022807358 ;
     skos-thes:narrowerGeneric diga_terms:1070667108,
         diga_terms:1412175229 ;
+    skos:broadMatch aat:300256964 ;
     skos:broader diga_terms:1022807358 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1070667108,
@@ -16995,6 +17189,7 @@ diga_terms:3007921346 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:2320100902,
         diga_terms:545163129 ;
     skos:broader diga_terms:849867655 ;
+    skos:closeMatch aat:300025765 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2320100902,
         diga_terms:545163129 ;
@@ -17010,6 +17205,7 @@ diga_terms:3007935140 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:1510769166 ;
     skos-thes:narrowerGeneric diga_terms:3748453851 ;
     skos:broader diga_terms:1510769166 ;
+    skos:closeMatch aat:300250112 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3748453851 ;
     skos:prefLabel "wild boar"@en,
@@ -17068,6 +17264,7 @@ diga_terms:3016334302 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2162257450 ;
     skos:broader diga_terms:2162257450 ;
+    skos:closeMatch aat:300003522 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "cyma recta"@en,
         "gola dritta"@it ;
@@ -17111,6 +17308,7 @@ diga_terms:3020942827 a skos:Concept ;
         diga_terms:330181459,
         diga_terms:3987426471 ;
     skos:broader diga_terms:360121625 ;
+    skos:closeMatch aat:300165258 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1382502833,
         diga_terms:1939804642,
@@ -17136,6 +17334,7 @@ diga_terms:302342098 a skos:Concept ;
         diga_terms:229281234,
         diga_terms:2303783984,
         diga_terms:3480180553 ;
+    skos:closeMatch aat:300209869 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "tunic"@en,
         "tunica"@it ;
@@ -17222,6 +17421,7 @@ diga_terms:3030556597 a skos:Concept ;
         diga_terms:285376255,
         diga_terms:3887182667 ;
     skos:broader diga_terms:406891803 ;
+    skos:closeMatch aat:300375751 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1648002352,
         diga_terms:2125607802,
@@ -17419,6 +17619,7 @@ diga_terms:3057133484 a skos:Concept ;
     skos:broader diga_terms:1909496019,
         diga_terms:2269992085,
         diga_terms:921065471 ;
+    skos:closeMatch aat:300404639 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2240917867,
         diga_terms:2747531260,
@@ -17435,6 +17636,7 @@ diga_terms:3062948492 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
     skos:broader diga_terms:2483270731 ;
+    skos:closeMatch aat:300310201 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "arm"@en,
         "braccio"@it ;
@@ -17495,6 +17697,7 @@ diga_terms:3066298879 a skos:Concept ;
         diga_terms:42039075,
         diga_terms:4274303633,
         diga_terms:936168583 ;
+    skos:closeMatch aat:300234117 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1153070907,
         diga_terms:1168066149,
@@ -17538,6 +17741,7 @@ diga_terms:3070626738 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2091634236 ;
     skos:broader diga_terms:2091634236 ;
+    skos:closeMatch aat:300395659 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "nāga/nāginī"@en,
         "nāga/nāginī"@it ;
@@ -17575,6 +17779,7 @@ diga_terms:3073799863 a skos:Concept ;
         diga_terms:594478313,
         diga_terms:852012132 ;
     skos:broader diga_terms:1629844188 ;
+    skos:closeMatch aat:300005072 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1260251534,
         diga_terms:1465041250,
@@ -17906,6 +18111,7 @@ diga_terms:3106078096 a skos:Concept ;
         diga_terms:4197910090 ;
     skos:altLabel "mudrā"@en,
         "mudrā"@it ;
+    skos:broadMatch aat:300056179 ;
     skos:broader diga_terms:2269992085 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1398184814,
@@ -17923,6 +18129,7 @@ diga_terms:310648897 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1061008139 ;
     skos:broader diga_terms:1061008139 ;
+    skos:closeMatch aat:300039548 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "table"@en,
         "tavolo"@it ;
@@ -18091,6 +18298,7 @@ diga_terms:3127444423 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:3269212881 ;
     skos-thes:narrowerGeneric diga_terms:881500076 ;
     skos:broader diga_terms:3269212881 ;
+    skos:closeMatch aat:300036999 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:881500076 ;
     skos:prefLabel "bow"@en,
@@ -18141,6 +18349,7 @@ diga_terms:3140348735 a skos:Concept ;
     dc:identifier "3140348735" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:broader diga_terms:849867655 ;
+    skos:closeMatch aat:300188618 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "beggar"@en,
         "mendicante"@it ;
@@ -18152,6 +18361,7 @@ diga_terms:3145060749 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3354838280 ;
     skos:broader diga_terms:3354838280 ;
+    skos:closeMatch aat:300404716 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "ūrṇā"@en,
         "ūrṇā"@it ;
@@ -18261,6 +18471,7 @@ diga_terms:3161598583 a skos:Concept ;
     skos:broader diga_terms:1293744608,
         diga_terms:255219621,
         diga_terms:3269212881 ;
+    skos:closeMatch aat:300036869 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:130039487,
         diga_terms:1923440886,
@@ -18330,6 +18541,7 @@ diga_terms:3164652838 a skos:Concept ;
         diga_terms:673626200,
         diga_terms:753986135,
         diga_terms:973978663 ;
+    skos:closeMatch aat:300220741 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "girdle"@en,
         "cinghia"@it ;
@@ -18340,6 +18552,7 @@ diga_terms:3164738198 a skos:Concept ;
     dc:identifier "3164738198" ;
     skos-thes:broaderGeneric diga_terms:1597736316 ;
     skos:broader diga_terms:1597736316 ;
+    skos:closeMatch aat:300404703 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "lokapāla"@en,
         "lokapāla"@it,
@@ -18359,6 +18572,7 @@ diga_terms:3167301581 a skos:Concept ;
         diga_terms:3499411545,
         diga_terms:3528407314,
         diga_terms:464646625 ;
+    skos:closeMatch aat:300255560 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "yoke"@en,
         "giogo"@it ;
@@ -18430,6 +18644,7 @@ diga_terms:318059664 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1724048595,
         diga_terms:3117953507 ;
     skos:broader diga_terms:1597736316 ;
+    skos:closeMatch aat:300412118 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1724048595,
         diga_terms:3117953507 ;
@@ -18472,6 +18687,7 @@ diga_terms:3187904559 a skos:Concept ;
         diga_terms:2689251897,
         diga_terms:3269212881,
         diga_terms:3844885247 ;
+    skos:closeMatch aat:300036794 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1430105349,
         diga_terms:1722021234,
@@ -18614,6 +18830,7 @@ diga_terms:321993497 a skos:Concept ;
         diga_terms:2369515788,
         diga_terms:969960489 ;
     skos:broader diga_terms:1510769166 ;
+    skos:closeMatch aat:300310388 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1480001991,
         diga_terms:182427892,
@@ -18837,6 +19054,7 @@ diga_terms:3237930001 a skos:Concept ;
         diga_terms:49075554,
         diga_terms:867259720 ;
     skos:broader diga_terms:2251868554 ;
+    skos:closeMatch aat:300426218 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1280951326,
         diga_terms:1323731446,
@@ -19096,6 +19314,7 @@ diga_terms:3262876746 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1257469127,
         diga_terms:3228186829 ;
     skos:broader diga_terms:2477530233 ;
+    skos:closeMatch aat:300038418 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1257469127,
         diga_terms:3228186829 ;
@@ -19240,6 +19459,7 @@ diga_terms:3268541212 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
     skos:altLabel "haunch"@en ;
     skos:broader diga_terms:2483270731 ;
+    skos:closeMatch aat:300310191 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "hip"@en,
         "anca"@it ;
@@ -19268,6 +19488,7 @@ diga_terms:3269212881 a skos:Concept ;
         diga_terms:900580374 ;
     skos:altLabel "panoply"@en,
         "panoplia"@it ;
+    skos:closeMatch aat:300036926 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1107648326,
         diga_terms:1754917951,
@@ -19360,6 +19581,7 @@ diga_terms:3286308534 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
     skos:broader diga_terms:3237930001 ;
+    skos:closeMatch aat:300400761 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "throat-band"@en,
         "sottogola"@it ;
@@ -19569,6 +19791,7 @@ diga_terms:3313765593 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3286774910 ;
     skos:broader diga_terms:3286774910 ;
+    skos:closeMatch aat:300043202 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "cup"@en,
         "coppa"@it ;
@@ -19624,6 +19847,7 @@ diga_terms:3323510573 a skos:Concept ;
         diga_terms:3263558770,
         diga_terms:672076886 ;
     skos:broader diga_terms:2534747475 ;
+    skos:closeMatch aat:300005909 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1290839611,
         diga_terms:1681753865,
@@ -19798,6 +20022,7 @@ diga_terms:3339255784 a skos:Concept ;
     dc:identifier "3339255784" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:broader diga_terms:849867655 ;
+    skos:closeMatch aat:300386642 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "sailor"@en,
         "marinaio"@it ;
@@ -19895,6 +20120,7 @@ diga_terms:3361798727 a skos:Concept ;
     dc:identifier "3361798727" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1443780080 ;
+    skos:broadMatch aat:300212841 ;
     skos:broader diga_terms:1443780080 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "side rudder"@en,
@@ -19917,6 +20143,7 @@ diga_terms:3366168681 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
     skos:broader diga_terms:2483270731 ;
+    skos:closeMatch aat:300310190 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "knee"@en,
         "ginocchio"@it ;
@@ -20091,6 +20318,7 @@ diga_terms:3397648348 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "zoomorphic figures"@en,
         "elementi zoomorfi"@it ;
+    skos:relatedMatch aat:300010338 ;
     skosxl:altLabel diga_terms:1304359723,
         diga_terms:1636443412 ;
     skosxl:prefLabel diga_terms:2069167659,
@@ -20114,6 +20342,7 @@ diga_terms:340402200 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos-thes:narrowerPartitive diga_terms:3721602185 ;
     skos:broader diga_terms:849867655 ;
+    skos:closeMatch aat:300261945 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3721602185 ;
     skos:prefLabel "warrior"@en,
@@ -20262,6 +20491,7 @@ diga_terms:3427747245 a skos:Concept ;
     dc:identifier "3427747245" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2418422748 ;
+    skos:broadMatch aat:300205139 ;
     skos:broader diga_terms:2418422748 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "vertical angular harp"@en,
@@ -20287,6 +20517,7 @@ diga_terms:3432778081 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2295534461 ;
     skos:broader diga_terms:2295534461 ;
+    skos:closeMatch aat:300310188 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "toes"@en,
         "dita"@it ;
@@ -20353,6 +20584,7 @@ diga_terms:3446105369 a skos:Concept ;
         diga_terms:2125510282,
         diga_terms:599084705,
         diga_terms:973978663 ;
+    skos:closeMatch aat:300232185 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "tassel"@en,
         "fiocco"@it ;
@@ -20370,6 +20602,7 @@ diga_terms:344645747 a skos:Concept ;
         diga_terms:3512071419,
         diga_terms:4089500820 ;
     skos:broader diga_terms:3066298879 ;
+    skos:closeMatch aat:300187549 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1354427253,
         diga_terms:2147498070,
@@ -20388,6 +20621,7 @@ diga_terms:3446525055 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
     skos-thes:narrowerGeneric diga_terms:489703112 ;
     skos:broader diga_terms:3066298879 ;
+    skos:closeMatch aat:300005947 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:489703112 ;
     skos:prefLabel "sarcophagus"@en,
@@ -20443,6 +20677,7 @@ diga_terms:3450847079 a skos:Concept ;
         diga_terms:3265678001,
         diga_terms:715314803,
         diga_terms:966828572 ;
+    skos:broadMatch aat:300264666 ;
     skos:broader diga_terms:2550564563 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1608909719,
@@ -20568,6 +20803,7 @@ diga_terms:3469675553 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
     skos:broader diga_terms:2483270731 ;
+    skos:closeMatch aat:300310192 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "leg"@en,
         "gamba"@it ;
@@ -20783,6 +21019,7 @@ diga_terms:3497837747 a skos:Concept ;
         diga_terms:329343490 ;
     skos:broader diga_terms:789113240,
         diga_terms:928905638 ;
+    skos:closeMatch aat:300045998 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1052183889,
         diga_terms:2020081752,
@@ -20872,6 +21109,7 @@ diga_terms:3504984198 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1388835177 ;
     skos:broader diga_terms:1388835177 ;
+    skos:closeMatch aat:300191303 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "clapper"@en,
         "battaglio"@it ;
@@ -20886,6 +21124,7 @@ diga_terms:350576088 a skos:Concept ;
         diga_terms:2263789582,
         diga_terms:3825224974 ;
     skos:broader diga_terms:1022807358 ;
+    skos:closeMatch aat:300433638 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1758990784,
         diga_terms:2263789582,
@@ -20930,6 +21169,7 @@ diga_terms:3508558499 a skos:Concept ;
         diga_terms:4087324621,
         diga_terms:515477100 ;
     skos:broader diga_terms:2418422748 ;
+    skos:closeMatch aat:300042101 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2648878594,
         diga_terms:4087324621,
@@ -21027,6 +21267,7 @@ diga_terms:3528407314 a skos:Concept ;
         diga_terms:2068613033,
         diga_terms:3167301581 ;
     skos:broader diga_terms:2579616314 ;
+    skos:closeMatch aat:300233317 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2043824887,
         diga_terms:204910399,
@@ -21082,6 +21323,7 @@ diga_terms:3536654356 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:2100908533 ;
     skos:altLabel "modulo"@it ;
     skos:broader diga_terms:2100908533 ;
+    skos:closeMatch aat:300266529 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "ruler"@en,
         "regolo misuratore"@it ;
@@ -21277,6 +21519,7 @@ diga_terms:3561542339 a skos:Concept ;
         diga_terms:4256946392 ;
     skos:prefLabel "seated position"@en,
         "posizione assisa"@it ;
+    skos:relatedMatch aat:300263970 ;
     skosxl:prefLabel diga_terms:1955049338,
         diga_terms:3514250391 .
 
@@ -21367,6 +21610,7 @@ diga_terms:358097268 a skos:Concept ;
     skos:broader diga_terms:1390933319,
         diga_terms:1645388688,
         diga_terms:646227285 ;
+    skos:closeMatch aat:300001811 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "modillion"@en,
         "mensolone"@it ;
@@ -21437,6 +21681,7 @@ diga_terms:3590021566 a skos:Concept ;
         diga_terms:681183763,
         diga_terms:878667828 ;
     skos:broader diga_terms:1510769166 ;
+    skos:closeMatch aat:300250022 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:4090630301,
         diga_terms:681183763,
@@ -21490,6 +21735,7 @@ diga_terms:3600487553 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1246295649 ;
     skos:broader diga_terms:1246295649 ;
+    skos:closeMatch aat:300266475 ;
     skos:editorialNote "placed at the center of the slab and parallel to the front face"@en,
         "posizionato al centro dello spessore della lastra e parallelamente alla faccia ant."@it ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -21521,6 +21767,7 @@ diga_terms:3600660368 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1217020261,
         diga_terms:837944409 ;
     skos:broader diga_terms:1748566320 ;
+    skos:closeMatch aat:300250870 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1217020261,
         diga_terms:837944409 ;
@@ -21632,6 +21879,7 @@ diga_terms:3607935642 a skos:Concept ;
         diga_terms:614940407,
         diga_terms:815438250 ;
     skos:broader diga_terms:2412577815 ;
+    skos:closeMatch aat:300000994 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1183107949,
         diga_terms:1881114979,
@@ -21752,6 +22000,7 @@ diga_terms:3622536210 a skos:Concept ;
         diga_terms:3828765841 ;
     skos:broader diga_terms:2004519371,
         diga_terms:995615797 ;
+    skos:closeMatch aat:300002214 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1810140875,
         diga_terms:3828765841 ;
@@ -22004,6 +22253,7 @@ diga_terms:3663796683 a skos:Concept ;
         "caftano"@it ;
     skos:broader diga_terms:1199973794,
         diga_terms:680026760 ;
+    skos:closeMatch aat:300046143 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "sleeved coat"@en,
         "cappotto manicato"@it ;
@@ -22076,6 +22326,7 @@ diga_terms:3675916508 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:760167124 ;
     skos:altLabel "tamburine"@en ;
     skos:broader diga_terms:760167124 ;
+    skos:closeMatch aat:300194204 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "frame drum"@en,
         "tamburello a cornice"@it ;
@@ -22137,6 +22388,7 @@ diga_terms:3683215874 a skos:Concept ;
         diga_terms:368752832,
         diga_terms:949143619 ;
     skos:broader diga_terms:473170543 ;
+    skos:closeMatch aat:300379807 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:109318726,
         diga_terms:368752832,
@@ -22167,6 +22419,7 @@ diga_terms:3687310644 a skos:Concept ;
         diga_terms:2935464660,
         diga_terms:799537248 ;
     skos:broader diga_terms:4085526670 ;
+    skos:closeMatch aat:300041897 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:183376918,
         diga_terms:2935464660,
@@ -22249,6 +22502,7 @@ diga_terms:3696087783 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:760167124 ;
     skos:broader diga_terms:760167124 ;
+    skos:closeMatch aat:300041741 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "kettle drum"@en,
         "tamburo a caldaia"@it ;
@@ -22271,6 +22525,7 @@ diga_terms:3698795205 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1731838996 ;
     skos:broader diga_terms:1731838996 ;
+    skos:closeMatch aat:300423650 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "double-pointed pick"@en,
         "picco a due punte"@it ;
@@ -22326,6 +22581,7 @@ diga_terms:3703895338 a skos:Concept ;
         diga_terms:4149911257 ;
     skos-thes:narrowerPartitive diga_terms:3586984831 ;
     skos:broader diga_terms:473170543 ;
+    skos:closeMatch aat:300132410 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1349995160,
         diga_terms:2709765726,
@@ -22363,6 +22619,7 @@ diga_terms:3705676645 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3088840584 ;
     skos:broader diga_terms:3088840584 ;
+    skos:closeMatch aat:300123316 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "flap"@en,
         "falda"@it ;
@@ -22375,6 +22632,7 @@ diga_terms:3707461682 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
     skos:altLabel "freno?"@it ;
     skos:broader diga_terms:3237930001 ;
+    skos:closeMatch aat:300400752 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "check rein"@en,
         "false redini"@it ;
@@ -22394,6 +22652,7 @@ diga_terms:3707917847 a skos:Concept ;
         diga_terms:3448260243,
         diga_terms:360121625 ;
     skos:broader diga_terms:2896914945 ;
+    skos:closeMatch aat:300164599 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1939979,
         diga_terms:2176810091,
@@ -22554,6 +22813,7 @@ diga_terms:3725792072 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1319266649 ;
     skos:broader diga_terms:1319266649 ;
+    skos:closeMatch aat:300076157 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "cymatium"@en,
         "cimasa"@it ;
@@ -22652,6 +22912,7 @@ diga_terms:3740833293 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1020532692 ;
     skos:broader diga_terms:1020532692 ;
+    skos:closeMatch aat:300024668 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "knife"@en,
         "coltello"@it ;
@@ -22671,6 +22932,7 @@ diga_terms:3742487414 a skos:Concept ;
         diga_terms:3524331071,
         diga_terms:647329180 ;
     skos:broader diga_terms:252269757 ;
+    skos:closeMatch aat:300002574 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1878016304,
         diga_terms:195561571,
@@ -23020,6 +23282,7 @@ diga_terms:3785088996 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2228467950 ;
     skos:broader diga_terms:2228467950 ;
+    skos:closeMatch aat:300201259 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "horizontal flute"@en,
         "flauto traverso"@it ;
@@ -23049,6 +23312,7 @@ diga_terms:3788997609 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2423641414 ;
     skos:broader diga_terms:2423641414 ;
+    skos:closeMatch aat:300001703 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "balteus"@en,
         "balteo"@it ;
@@ -23228,6 +23492,7 @@ diga_terms:3825224974 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:350576088 ;
     skos:broader diga_terms:350576088 ;
+    skos:closeMatch aat:300420286 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "target for archery"@en,
         "bersaglio per tiro dell'arco"@it ;
@@ -23327,6 +23592,7 @@ diga_terms:383723673 a skos:Concept ;
     skos:altLabel "fixed podium"@en,
         "podio stabile"@it ;
     skos:broader diga_terms:573338218 ;
+    skos:closeMatch aat:300430533 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3852099969,
         diga_terms:452228668 ;
@@ -23343,6 +23609,7 @@ diga_terms:3837898119 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2100908533 ;
     skos:broader diga_terms:2100908533 ;
+    skos:closeMatch aat:300430508 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "plumb-level"@en,
         "livella, archipendolo"@it ;
@@ -23430,6 +23697,7 @@ diga_terms:385572195 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
     skos:broader diga_terms:3237930001 ;
+    skos:closeMatch aat:300400762 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "headpiece"@en,
         "testiera"@it ;
@@ -23440,6 +23708,7 @@ diga_terms:3860640450 a skos:Concept ;
     dc:identifier "3860640450" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4085526670 ;
+    skos:broadMatch aat:300195372 ;
     skos:broader diga_terms:4085526670 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "double stick"@en,
@@ -23509,6 +23778,7 @@ diga_terms:387838393 a skos:Concept ;
     skos-thes:narrowerPartitive diga_terms:3692365086 ;
     skos:broader diga_terms:2716416682,
         diga_terms:3553787664 ;
+    skos:closeMatch aat:300046080 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3692365086 ;
     skos:prefLabel "thong sandal"@en,
@@ -23578,6 +23848,7 @@ diga_terms:3887182667 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:3030556597 ;
     skos-thes:narrowerGeneric diga_terms:3305744078 ;
     skos:broader diga_terms:3030556597 ;
+    skos:closeMatch aat:300310557 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3305744078 ;
     skos:prefLabel "pigeon"@en,
@@ -23704,6 +23975,7 @@ diga_terms:3906619880 a skos:Concept ;
         diga_terms:4144698813,
         diga_terms:444571792 ;
     skos:broader diga_terms:2269992085 ;
+    skos:closeMatch aat:300266639 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1313240541,
         diga_terms:1357447984,
@@ -23892,6 +24164,7 @@ diga_terms:3946259546 a skos:Concept ;
     dc:identifier "3946259546" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2418422748 ;
+    skos:broadMatch aat:300042053 ;
     skos:broader diga_terms:2418422748 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "horizontal arched harp"@en,
@@ -23917,6 +24190,7 @@ diga_terms:3949443794 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
     skos:broader diga_terms:3066298879 ;
+    skos:closeMatch aat:300178234 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "triptych"@en,
         "trittico"@it ;
@@ -24123,6 +24397,7 @@ diga_terms:398064358 a skos:Concept ;
     dc:identifier "398064358" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:broader diga_terms:849867655 ;
+    skos:closeMatch aat:300025653 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "dancer"@en,
         "danzatore"@it ;
@@ -24278,6 +24553,7 @@ diga_terms:4001952184 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:4216783392,
         diga_terms:4256610715 ;
     skos:broader diga_terms:360121625 ;
+    skos:closeMatch aat:300379798 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:4216783392,
         diga_terms:4256610715 ;
@@ -24417,6 +24693,7 @@ diga_terms:4020639112 a skos:Concept ;
         diga_terms:3603651106,
         diga_terms:3638812229,
         diga_terms:680026760 ;
+    skos:closeMatch aat:300046065 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "shoes"@en,
         "calzari"@it ;
@@ -24469,6 +24746,7 @@ diga_terms:4030638624 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
     skos:broader diga_terms:3237930001 ;
+    skos:closeMatch aat:300400787 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "martingale"@en,
         "martingala"@it ;
@@ -24480,6 +24758,7 @@ diga_terms:4031291621 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2100908533 ;
     skos:broader diga_terms:2100908533 ;
+    skos:closeMatch aat:300195885 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "calipers"@en,
         "compasso"@it ;
@@ -24619,6 +24898,7 @@ diga_terms:4050802417 a skos:Concept ;
         diga_terms:3070683560,
         diga_terms:584759062 ;
     skos:broader diga_terms:1510769166 ;
+    skos:closeMatch aat:300250148 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2037117253,
         diga_terms:3070683560,
@@ -24772,6 +25052,7 @@ diga_terms:4068645639 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1245292139,
         diga_terms:2260314439,
         diga_terms:3101510103 ;
+    skos:broadMatch aat:300041729 ;
     skos:broader diga_terms:760167124 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1245292139,
@@ -24793,6 +25074,7 @@ diga_terms:406891803 a skos:Concept ;
         diga_terms:3030556597 ;
     skos:altLabel "fauna"@en,
         "fauna"@it ;
+    skos:closeMatch aat:300249525 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1364272679,
         diga_terms:142687138,
@@ -24831,6 +25113,7 @@ diga_terms:4073254187 a skos:Concept ;
         diga_terms:2963759628,
         diga_terms:3262684865,
         diga_terms:4144698813 ;
+    skos:closeMatch aat:300209923 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3782651737 ;
     skos:prefLabel "loincloth"@en,
@@ -24888,6 +25171,7 @@ diga_terms:4082339582 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3869164083 ;
     skos:broader diga_terms:3869164083 ;
+    skos:closeMatch aat:300010082 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "swastika"@en,
         "svastica"@it ;
@@ -24900,6 +25184,7 @@ diga_terms:4083475564 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:2251868554 ;
     skos-thes:narrowerGeneric diga_terms:2058223302 ;
     skos:broader diga_terms:2251868554 ;
+    skos:closeMatch aat:300178749 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2058223302 ;
     skos:prefLabel "boat"@en,
@@ -24944,6 +25229,7 @@ diga_terms:4085526670 a skos:Concept ;
         diga_terms:3687310644,
         diga_terms:3860640450 ;
     skos:broader diga_terms:2054426851 ;
+    skos:closeMatch aat:300041646 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1388835177,
         diga_terms:2471177122,
@@ -24989,6 +25275,7 @@ diga_terms:408751725 a skos:Concept ;
         diga_terms:2059185355,
         diga_terms:3603651106,
         diga_terms:3638812229 ;
+    skos:closeMatch aat:300391016 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "overtrousers"@en,
         "soprapantaloni"@it ;
@@ -25148,6 +25435,7 @@ diga_terms:4108258719 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:678702193 ;
     skos:broader diga_terms:678702193 ;
+    skos:closeMatch aat:300236074 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "pillow"@en,
         "cuscino"@it ;
@@ -25279,6 +25567,7 @@ diga_terms:4122785922 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2722247433 ;
     skos:broader diga_terms:2722247433 ;
+    skos:closeMatch aat:300037126 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "pommel"@en,
         "pomo"@it ;
@@ -25324,6 +25613,7 @@ diga_terms:4132643010 a skos:Concept ;
     dc:identifier "4132643010" ;
     skos-thes:broaderGeneric diga_terms:715314803 ;
     skos:broader diga_terms:715314803 ;
+    skos:closeMatch aat:300185692 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "battle scene"@en,
         "scena di battaglia"@it ;
@@ -25352,6 +25642,7 @@ diga_terms:4136788985 a skos:Concept ;
         diga_terms:647674876,
         diga_terms:673626200,
         diga_terms:862815569 ;
+    skos:closeMatch aat:300217610 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "mantle (himation)"@en,
         "mantello (himation)"@it ;
@@ -25435,6 +25726,7 @@ diga_terms:4149911257 a skos:Concept ;
         diga_terms:2162260406,
         diga_terms:2452730616 ;
     skos:broader diga_terms:3703895338 ;
+    skos:closeMatch aat:300132406 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1140398037,
         diga_terms:2162260406,
@@ -25448,6 +25740,7 @@ diga_terms:4151523512 a skos:Concept ;
     dc:identifier "4151523512" ;
     skos-thes:broaderGeneric diga_terms:481543985 ;
     skos:broader diga_terms:481543985 ;
+    skos:closeMatch aat:300386296 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "historical persons"@en,
         "personaggi storici"@it ;
@@ -25476,6 +25769,7 @@ diga_terms:4159501852 a skos:Concept ;
         diga_terms:3306356830 ;
     skos:broader diga_terms:1199973794,
         diga_terms:233246311 ;
+    skos:closeMatch aat:300209874 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:140596897,
         diga_terms:3306356830 ;
@@ -25582,6 +25876,7 @@ diga_terms:4172594730 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2440649772 ;
     skos:broader diga_terms:2440649772 ;
+    skos:closeMatch aat:300003444 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "bead-and-reel row"@en,
         "astragalo"@it ;
@@ -25684,6 +25979,7 @@ diga_terms:4183492946 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2423641414 ;
     skos:broader diga_terms:2423641414 ;
+    skos:closeMatch aat:300001729 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "volute"@en,
         "voluta"@it ;
@@ -25729,6 +26025,7 @@ diga_terms:418619365 a skos:Concept ;
         diga_terms:2109794799,
         diga_terms:394971561 ;
     skos:broader diga_terms:1022807358 ;
+    skos:closeMatch aat:300404590 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1495809523,
         diga_terms:1699204008,
@@ -25898,6 +26195,7 @@ diga_terms:42039075 a skos:Concept ;
         diga_terms:2904562198,
         diga_terms:936168583 ;
     skos:broader diga_terms:3066298879 ;
+    skos:closeMatch aat:300432895 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1634036449,
         diga_terms:1650169292,
@@ -25990,6 +26288,7 @@ diga_terms:4209699013 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:560059466 ;
     skos:broader diga_terms:560059466 ;
+    skos:closeMatch aat:300250159 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "dolphin"@en,
         "delfino"@it ;
@@ -26025,6 +26324,7 @@ diga_terms:421568728 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
     skos:broader diga_terms:3237930001 ;
+    skos:closeMatch aat:300421085 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "breast collar"@en,
         "pettorale"@it ;
@@ -26176,6 +26476,7 @@ diga_terms:4237203445 a skos:Concept ;
         diga_terms:741476828,
         diga_terms:921065471 ;
     skos:broader diga_terms:3725270573 ;
+    skos:closeMatch aat:300404698 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1777814046,
         diga_terms:1859713301,
@@ -26485,6 +26786,7 @@ diga_terms:4255182947 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:4040113531 ;
     skos:broader diga_terms:4040113531 ;
+    skos:closeMatch aat:300024743 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "pincers"@en,
         "tenaglie"@it ;
@@ -26611,6 +26913,7 @@ diga_terms:4270216435 a skos:Concept ;
     dc:identifier "4270216435" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:broader diga_terms:849867655 ;
+    skos:closeMatch aat:300185678 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "soldier"@en,
         "soldato"@it ;
@@ -26747,6 +27050,7 @@ diga_terms:4285866280 a skos:Concept ;
         diga_terms:4144698813,
         diga_terms:4234043111,
         diga_terms:4265586120 ;
+    skos:closeMatch aat:300212298 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "mantle"@en,
         "mantello"@it ;
@@ -26775,6 +27079,7 @@ diga_terms:4289657625 a skos:Concept ;
         diga_terms:928905638 ;
     skos:broader diga_terms:3553787664,
         diga_terms:928905638 ;
+    skos:closeMatch aat:300256830 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "wristlet"@en,
         "braccialetto"@it ;
@@ -26918,6 +27223,7 @@ diga_terms:44837138 a skos:Concept ;
         diga_terms:359910627,
         diga_terms:3820600268 ;
     skos:broader diga_terms:810895029 ;
+    skos:closeMatch aat:300195805 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1291153292,
         diga_terms:1478772345,
@@ -27205,6 +27511,7 @@ diga_terms:465678417 a skos:Concept ;
         diga_terms:2689251897,
         diga_terms:599084705,
         diga_terms:973978663 ;
+    skos:closeMatch aat:300046127 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1697476285,
         diga_terms:1813764986,
@@ -27255,6 +27562,7 @@ diga_terms:473170543 a skos:Concept ;
     skos:altLabel "vegetation"@en,
         "vegetazione"@it ;
     skos:broader diga_terms:8285220534 ;
+    skos:closeMatch aat:300266061 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3683215874,
         diga_terms:3703895338,
@@ -27322,6 +27630,7 @@ diga_terms:478032090 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:3701583085,
         diga_terms:77254095 ;
     skos:broader diga_terms:863907056 ;
+    skos:closeMatch aat:300235475 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3701583085,
         diga_terms:77254095 ;
@@ -27338,6 +27647,7 @@ diga_terms:481543985 a skos:Concept ;
         diga_terms:4151523512,
         diga_terms:849867655 ;
     skos:altLabel "personaggi"@it ;
+    skos:closeMatch aat:300189808 ;
     skos:narrower diga_terms:1597736316,
         diga_terms:3725270573,
         diga_terms:4151523512,
@@ -27438,6 +27748,7 @@ diga_terms:49457987 a skos:Concept ;
     skos-thes:narrowerPartitive diga_terms:4208824949,
         diga_terms:724064907 ;
     skos:broader diga_terms:715314803 ;
+    skos:closeMatch aat:300239666 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:4208824949,
         diga_terms:724064907 ;
@@ -27525,6 +27836,7 @@ diga_terms:511380959 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:2922267194 ;
     skos-thes:narrowerGeneric diga_terms:2198114569 ;
     skos:broader diga_terms:2922267194 ;
+    skos:closeMatch aat:300386175 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2198114569 ;
     skos:prefLabel "harmikā"@en,
@@ -27724,6 +28036,7 @@ diga_terms:547547997 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:762298113 ;
     skos:broader diga_terms:1199973794,
         diga_terms:762298113 ;
+    skos:closeMatch aat:300209930 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "shorts"@en,
         "calzoncini corti"@it ;
@@ -27961,6 +28274,7 @@ diga_terms:573338218 a skos:Concept ;
         diga_terms:383723673,
         diga_terms:678702193,
         diga_terms:771660887 ;
+    skos:closeMatch aat:300037680 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1061008139,
         diga_terms:2477530233,
@@ -28007,6 +28321,7 @@ diga_terms:579472197 a skos:Concept ;
         diga_terms:2681315340,
         diga_terms:3272464183 ;
     skos:broader diga_terms:2922267194 ;
+    skos:closeMatch aat:300001280 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1706840510,
         diga_terms:2681315340,
@@ -28022,6 +28337,7 @@ diga_terms:580305555 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos-thes:narrowerGeneric diga_terms:3088840584 ;
     skos:broader diga_terms:849867655 ;
+    skos:closeMatch aat:300025619 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3088840584 ;
     skos:prefLabel "hunter"@en,
@@ -28036,6 +28352,7 @@ diga_terms:584627584 a skos:Concept ;
         diga_terms:4095112940 ;
     skos:broader diga_terms:1510769166,
         diga_terms:4095112940 ;
+    skos:closeMatch aat:300250277 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "mule"@en,
         "mulo"@it ;
@@ -28089,6 +28406,7 @@ diga_terms:594478313 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
     skos:broader diga_terms:3073799863 ;
+    skos:closeMatch aat:300002504 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "curtain"@en,
         "cortina"@it ;
@@ -28134,6 +28452,7 @@ diga_terms:603559952 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:40065381,
         diga_terms:4239748425 ;
     skos:broader diga_terms:3269212881 ;
+    skos:closeMatch aat:300036976 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:40065381,
         diga_terms:4239748425 ;
@@ -28151,6 +28470,7 @@ diga_terms:603997620 a skos:Concept ;
         diga_terms:19497046,
         diga_terms:702506325 ;
     skos:broader diga_terms:1443780080 ;
+    skos:closeMatch aat:300213040 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:0870424981,
         diga_terms:19497046,
@@ -28252,6 +28572,7 @@ diga_terms:631764984 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:767185560 ;
     skos:broader diga_terms:767185560 ;
+    skos:closeMatch aat:300258480 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "fly-whisk"@en,
         "scacciamosche"@it ;
@@ -28401,6 +28722,7 @@ diga_terms:645448160 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1569179484 ;
     skos:broader diga_terms:1569179484 ;
+    skos:closeMatch aat:300006207 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "well"@en,
         "pozzo"@it ;
@@ -28506,6 +28828,7 @@ diga_terms:654331325 a skos:Concept ;
         "anello"@it ;
     skos:broader diga_terms:3553787664,
         diga_terms:928905638 ;
+    skos:closeMatch aat:300046012 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1612557557,
         diga_terms:1921713719 ;
@@ -28525,6 +28848,7 @@ diga_terms:657389733 a skos:Concept ;
         diga_terms:3757161085,
         diga_terms:4089326303 ;
     skos:broader diga_terms:1022807358 ;
+    skos:closeMatch aat:300132254 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3037682001,
         diga_terms:3757161085,
@@ -28624,6 +28948,7 @@ diga_terms:668408341 a skos:Concept ;
     skos:altLabel "eyeball inserted in the orbit"@en,
         "bulbo oculare inserito nell'orbita"@it ;
     skos:broader diga_terms:1253760895 ;
+    skos:closeMatch aat:300400484 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1300448587,
         diga_terms:1353268269,
@@ -28729,6 +29054,7 @@ diga_terms:678702193 a skos:Concept ;
         diga_terms:4108258719,
         diga_terms:824889805 ;
     skos:broader diga_terms:573338218 ;
+    skos:closeMatch aat:300038697 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1955745267,
         diga_terms:252491446,
@@ -28753,6 +29079,7 @@ diga_terms:679290142 a skos:Concept ;
         diga_terms:332029559,
         diga_terms:855444887 ;
     skos:broader diga_terms:2483270731 ;
+    skos:closeMatch aat:300310193 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1005968134,
         diga_terms:1508321537,
@@ -28776,6 +29103,7 @@ diga_terms:6796578 a skos:Concept ;
         diga_terms:3130224643,
         diga_terms:395648273 ;
     skos:broader diga_terms:473170543 ;
+    skos:closeMatch aat:300132397 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2141489290,
         diga_terms:2750243747,
@@ -28838,6 +29166,7 @@ diga_terms:681758381 a skos:Concept ;
     dc:identifier "681758381" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
     skos:broader diga_terms:849867655 ;
+    skos:closeMatch aat:300379217 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "couple"@en,
         "coppia"@it ;
@@ -28925,6 +29254,7 @@ diga_terms:697228354 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1731838996 ;
     skos:broader diga_terms:1731838996 ;
+    skos:closeMatch aat:300024830 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "pick"@en,
         "picco a una punta"@it ;
@@ -29084,6 +29414,7 @@ diga_terms:722563615 a skos:Concept ;
     skos:altLabel "sickle"@en,
         "falcetto"@it ;
     skos:broader diga_terms:2579616314 ;
+    skos:closeMatch aat:300430897 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "pruning-hook"@en,
         "roncola"@it ;
@@ -29143,6 +29474,7 @@ diga_terms:730172965 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:407944529 ;
     skos:broader diga_terms:407944529 ;
+    skos:closeMatch aat:300002280 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "finial"@en,
         "puntale"@it ;
@@ -29288,6 +29620,7 @@ diga_terms:752612554 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:324926850 ;
     skos:broader diga_terms:324926850 ;
+    skos:closeMatch aat:300037206 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "club"@en,
         "clava"@it ;
@@ -29321,6 +29654,7 @@ diga_terms:753986135 a skos:Concept ;
         diga_terms:1949528160,
         diga_terms:2214199931,
         diga_terms:2623020308 ;
+    skos:closeMatch aat:300210002 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2891901609,
         diga_terms:3164652838 ;
@@ -29363,6 +29697,7 @@ diga_terms:760167124 a skos:Concept ;
         diga_terms:4180377210,
         diga_terms:933490939 ;
     skos:broader diga_terms:2054426851 ;
+    skos:closeMatch aat:300041661 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1585905248,
         diga_terms:3053207960,
@@ -29398,6 +29733,7 @@ diga_terms:762866568 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1253760895 ;
     skos:broader diga_terms:1253760895 ;
+    skos:closeMatch aat:300007595 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "temple"@en,
         "tempia"@it ;
@@ -29494,6 +29830,7 @@ diga_terms:771660887 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:241652118,
         diga_terms:965399602 ;
     skos:broader diga_terms:573338218 ;
+    skos:closeMatch aat:300204928 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:241652118,
         diga_terms:965399602 ;
@@ -29650,6 +29987,7 @@ diga_terms:793357615 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4235579774 ;
     skos:broader diga_terms:4235579774 ;
+    skos:closeMatch aat:300024836 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "scraper"@en,
         "raschiatoio"@it ;
@@ -29663,6 +30001,7 @@ diga_terms:79756218 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:1510769166 ;
     skos-thes:narrowerGeneric diga_terms:3092069322 ;
     skos:broader diga_terms:1510769166 ;
+    skos:closeMatch aat:300250124 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:3092069322 ;
     skos:prefLabel "ibex"@en,
@@ -29826,6 +30165,7 @@ diga_terms:810895029 a skos:Concept ;
         diga_terms:359910627,
         diga_terms:3820600268 ;
     skos:broader diga_terms:1020532692 ;
+    skos:closeMatch aat:300196293 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1291153292,
         diga_terms:1478772345,
@@ -29867,6 +30207,7 @@ diga_terms:811760341 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1625914630,
         diga_terms:2205794341 ;
     skos:broader diga_terms:849867655 ;
+    skos:closeMatch aat:300025770 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1625914630,
         diga_terms:2205794341 ;
@@ -29881,6 +30222,7 @@ diga_terms:812736555 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
     skos:broader diga_terms:2483270731 ;
+    skos:closeMatch aat:300310195 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "elbow"@en,
         "gomito"@it ;
@@ -29934,6 +30276,7 @@ diga_terms:8160970580 a skos:Concept ;
     dc:identifier "8160970580" ;
     skos-thes:broaderGeneric diga_terms:1510769166 ;
     skos:broader diga_terms:1510769166 ;
+    skos:closeMatch aat:300250108 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "buffalo"@en,
         "bufalo"@it ;
@@ -29987,6 +30330,7 @@ diga_terms:824889805 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:678702193 ;
     skos:broader diga_terms:678702193 ;
+    skos:closeMatch aat:300040450 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "mattress"@en,
         "materasso"@it ;
@@ -30105,6 +30449,7 @@ diga_terms:8446195989 a skos:Concept ;
         diga_terms:2425818388,
         diga_terms:646227285 ;
     skos:broader diga_terms:292026662 ;
+    skos:closeMatch aat:300001638 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1645388688,
         diga_terms:2425818388,
@@ -30387,6 +30732,7 @@ diga_terms:867259720 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
     skos:broader diga_terms:3237930001 ;
+    skos:closeMatch aat:300400751 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "rein terret"@en,
         "dorsale"@it ;
@@ -30466,6 +30812,7 @@ diga_terms:880247531 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:1061008139 ;
     skos-thes:narrowerPartitive diga_terms:1141151031 ;
     skos:broader diga_terms:1061008139 ;
+    skos:closeMatch aat:300039767 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1141151031 ;
     skos:prefLabel "stand"@en,
@@ -30540,6 +30887,7 @@ diga_terms:893963818 a skos:Concept ;
         diga_terms:2873597211,
         diga_terms:4284327986 ;
     skos:broader diga_terms:3269212881 ;
+    skos:closeMatch aat:300036930 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:2217454042,
         diga_terms:2873597211,
@@ -30589,6 +30937,7 @@ diga_terms:898099937 a skos:Concept ;
         diga_terms:680026760 ;
     skos-thes:narrowerGeneric diga_terms:350360457,
         diga_terms:3605740580 ;
+    skos:broadMatch aat:300209869 ;
     skos:broader diga_terms:1199973794,
         diga_terms:2088063337,
         diga_terms:4172804394,
@@ -30626,6 +30975,7 @@ diga_terms:900580374 a skos:Concept ;
         diga_terms:3269212881 ;
     skos:broader diga_terms:1731838996,
         diga_terms:3269212881 ;
+    skos:closeMatch aat:300036983 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "axe"@en,
         "ascia"@it ;
@@ -30692,6 +31042,7 @@ diga_terms:907509253 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2844951834 ;
     skos:broader diga_terms:2844951834 ;
+    skos:closeMatch aat:300404713 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "knot"@en,
         "ciuffo annodato"@it ;
@@ -30871,6 +31222,7 @@ diga_terms:928905638 a skos:Concept ;
         diga_terms:559527464,
         diga_terms:654331325 ;
     skos:broader diga_terms:2269992085 ;
+    skos:closeMatch aat:300209286 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1131561900,
         diga_terms:1134680910,
@@ -30965,6 +31317,7 @@ diga_terms:932459847 a skos:Concept ;
         diga_terms:1991128929,
         diga_terms:3052270378 ;
     skos:broader diga_terms:1194521837 ;
+    skos:closeMatch aat:300375684 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1241162664,
         diga_terms:1514368363,
@@ -31014,6 +31367,7 @@ diga_terms:933490939 a skos:Concept ;
     skos-thes:narrowerGeneric diga_terms:1103780412,
         diga_terms:349067671 ;
     skos:broader diga_terms:760167124 ;
+    skos:closeMatch aat:300195668 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1103780412,
         diga_terms:349067671 ;
@@ -31173,6 +31527,7 @@ diga_terms:949640700 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2477530233 ;
     skos:broader diga_terms:2477530233 ;
+    skos:closeMatch aat:300139435 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "curved chair of curule type"@en,
         "sedia arcuata di tipo curule"@it ;
@@ -31410,6 +31765,7 @@ diga_terms:969213074 a skos:Concept ;
         diga_terms:3138608383,
         diga_terms:3970824448 ;
     skos:broader diga_terms:1022807358 ;
+    skos:closeMatch aat:300162391 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:193203856,
         diga_terms:1979299580,
@@ -31557,6 +31913,7 @@ diga_terms:986724577 a skos:Concept ;
         diga_terms:2881287048,
         diga_terms:364496503 ;
     skos:broader diga_terms:2412577815 ;
+    skos:closeMatch aat:300002726 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1382175042,
         diga_terms:2796006516,
@@ -31648,6 +32005,7 @@ diga_terms:99768892 a skos:Concept ;
     dc:identifier "99768892" ;
     skos-thes:broaderGeneric diga_terms:1597736316 ;
     skos:broader diga_terms:1597736316 ;
+    skos:closeMatch aat:300417635 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:prefLabel "genius"@en,
         "genio"@it ;
@@ -50566,4 +50924,6 @@ skos-thes:broaderPartitive rdfs:subPropertyOf skos:broader .
 skos-thes:narrowerGeneric rdfs:subPropertyOf skos:narrower .
 
 skos-thes:narrowerPartitive rdfs:subPropertyOf skos:narrower .
+
+diga_terms:4034227742 skos:closeMatch aat:300379740 .
 

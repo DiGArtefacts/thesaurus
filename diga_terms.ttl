@@ -1,3 +1,4 @@
+@prefix aat: <http://vocab.getty.edu/aat/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix diga_terms: <https://w3id.org/diga/terms/> .
@@ -48,6 +49,7 @@ diga_terms:0870424981 a skos:Concept ;
     dc:identifier "0870424981" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:603997620 ;
+    skos:closeMatch aat:300262678 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_724474e3,
         diga_terms:xl_it_1ed808d8 .
@@ -86,6 +88,7 @@ diga_terms:1007154041 a skos:Concept ;
     dc:identifier "1007154041" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:863907056 ;
+    skos:broadMatch aat:300430539 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1098515620,
@@ -97,6 +100,7 @@ diga_terms:1010407745 a skos:Concept ;
     dc:identifier "1010407745" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2251868554 ;
+    skos:closeMatch aat:300038220 ;
     skos:editorialNote "Figure label in repertorio: 12.5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:12008873,
@@ -147,6 +151,7 @@ diga_terms:1020532692 a skos:Concept ;
     dc:identifier "1020532692" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1022807358 ;
+    skos:closeMatch aat:300404585 ;
     skos:editorialNote "Figure label in repertorio: 10.8"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3065632841,
@@ -187,6 +192,7 @@ diga_terms:1022713674 a skos:Concept ;
 diga_terms:1022807358 a skos:Concept ;
     dc:identifier "1022807358" ;
     dct:source source:repertorio ;
+    skos:closeMatch aat:300404591 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:topConceptOf <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_46110ed4,
@@ -195,6 +201,7 @@ diga_terms:1022807358 a skos:Concept ;
 diga_terms:1030527749 a skos:Concept ;
     dc:identifier "1030527749" ;
     skos-thes:broaderGeneric diga_terms:1597736316 ;
+    skos:closeMatch aat:300379730 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3474026526,
         diga_terms:xl_it_21c1b328 .
@@ -205,6 +212,7 @@ diga_terms:1033872259 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:1199973794 ;
     skos-thes:broaderPartitive diga_terms:2367787967,
         diga_terms:2745856219 ;
+    skos:broadMatch aat:300209869 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2220867097,
@@ -277,6 +285,7 @@ diga_terms:1048587099 a skos:Concept ;
     dc:identifier "1048587099" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1510769166 ;
+    skos:closeMatch aat:300250028 ;
     skos:editorialNote "Figure label in repertorio: 5.1.9"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1663179803,
@@ -307,6 +316,7 @@ diga_terms:1055879407 a skos:Concept ;
     dc:identifier "1055879407" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2776284763 ;
+    skos:closeMatch aat:300133018 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_7d66bc5e,
@@ -418,6 +428,7 @@ diga_terms:1081531142 a skos:Concept ;
     dc:identifier "1081531142" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:142687138 ;
+    skos:closeMatch aat:300380159 ;
     skos:editorialNote "Figure label in repertorio: 5.5.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:346660488,
@@ -548,6 +559,7 @@ diga_terms:1107648326 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:255219621,
         diga_terms:3671789829,
         diga_terms:449446378 ;
+    skos:closeMatch aat:300037048 ;
     skos:editorialNote "Figure label in repertorio: h"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:22251058,
@@ -593,6 +605,7 @@ diga_terms:1114218658 a skos:Concept ;
 diga_terms:1115524268 a skos:Concept ;
     dc:identifier "1115524268" ;
     skos-thes:broaderGeneric diga_terms:2550564563 ;
+    skos:closeMatch aat:300386035 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:1689164348,
         diga_terms:297365002,
@@ -624,6 +637,7 @@ diga_terms:1118298082 a skos:Concept ;
         diga_terms:2745856219,
         diga_terms:680026760,
         diga_terms:762298113 ;
+    skos:closeMatch aat:300209935 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:719404511 ;
@@ -686,6 +700,7 @@ diga_terms:1131561900 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:928905638 ;
     skos-thes:broaderPartitive diga_terms:2214199931 ;
+    skos:closeMatch aat:300209294 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1190317556,
@@ -708,6 +723,7 @@ diga_terms:1133166921 a skos:Concept ;
     dc:identifier "1133166921" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:360121625 ;
+    skos:closeMatch aat:300003524 ;
     skos:editorialNote "Figure label in repertorio: 3.2.1.8"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:337378159,
@@ -740,6 +756,7 @@ diga_terms:1134680910 a skos:Concept ;
         diga_terms:2623020308,
         diga_terms:3603651106,
         diga_terms:3638812229 ;
+    skos:closeMatch aat:300263462 ;
     skos:editorialNote "Figure label in repertorio: f"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1222229046,
@@ -752,6 +769,7 @@ diga_terms:1139296365 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:1328191325,
         diga_terms:1949528160,
         diga_terms:233761752 ;
+    skos:closeMatch aat:300209303 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1172100911,
@@ -847,6 +865,7 @@ diga_terms:1153070907 a skos:Concept ;
     dc:identifier "1153070907" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
+    skos:closeMatch aat:300198817 ;
     skos:editorialNote "Figure label in repertorio: 9.7"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3152160320,
@@ -885,6 +904,7 @@ diga_terms:1168066149 a skos:Concept ;
     dc:identifier "1168066149" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
+    skos:closeMatch aat:300438570 ;
     skos:editorialNote "Figure label in repertorio: 9.14"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1065429691,
@@ -918,6 +938,7 @@ diga_terms:1175022091 a skos:Concept ;
     dc:identifier "1175022091" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:360121625 ;
+    skos:closeMatch aat:300010104 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2245094375,
@@ -1018,6 +1039,7 @@ diga_terms:1189279913 a skos:Concept ;
     dc:identifier "1189279913" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2418422748 ;
+    skos:closeMatch aat:300042114 ;
     skos:editorialNote "Figure label in repertorio: 6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:1016510814,
@@ -1184,6 +1206,7 @@ diga_terms:1215741717 a skos:Concept ;
     dc:identifier "1215741717" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2257989562 ;
+    skos:broadMatch aat:300007023 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2378328712,
@@ -1235,6 +1258,7 @@ diga_terms:1224943818 a skos:Concept ;
     dc:identifier "1224943818" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2417567835 ;
+    skos:broadMatch aat:300001788 ;
     skos:editorialNote "Figure label in repertorio: 2.6.2.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1566720800,
@@ -1486,6 +1510,7 @@ diga_terms:1253760895 a skos:Concept ;
     dc:identifier "1253760895" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2483270731 ;
+    skos:closeMatch aat:300375054 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:258560252,
@@ -1517,6 +1542,7 @@ diga_terms:1260251534 a skos:Concept ;
     dc:identifier "1260251534" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
+    skos:closeMatch aat:300005080 ;
     skos:editorialNote "Figure label in repertorio: p"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2570724061,
@@ -1569,6 +1595,7 @@ diga_terms:1280951326 a skos:Concept ;
     dc:identifier "1280951326" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
+    skos:closeMatch aat:300262571 ;
     skos:editorialNote "Figure label in repertorio: e"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:568150353,
@@ -1610,6 +1637,7 @@ diga_terms:1291153292 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:1553456112,
         diga_terms:44837138,
         diga_terms:810895029 ;
+    skos:closeMatch aat:300195801 ;
     skos:editorialNote "Figure label in repertorio: d"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1788284550,
@@ -1643,6 +1671,7 @@ diga_terms:1294282728 a skos:Concept ;
     dc:identifier "1294282728" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:289569947 ;
+    skos:closeMatch aat:300047230 ;
     skos:editorialNote "Figure label in repertorio: 1.3.1"@en,
         "description of components"@en,
         "descrizione degli elementi componenti"@it ;
@@ -1666,6 +1695,7 @@ diga_terms:1297605701 a skos:Concept ;
     dc:identifier "1297605701" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1390933319 ;
+    skos:closeMatch aat:300001656 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_8edb1330,
         diga_terms:xl_it_677b71d4 .
@@ -1744,6 +1774,7 @@ diga_terms:131296165 a skos:Concept ;
     dc:identifier "131296165" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2412577815 ;
+    skos:closeMatch aat:300002580 ;
     skos:editorialNote "Figure label in repertorio: 2.6.4.6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1527887933,
@@ -1813,6 +1844,7 @@ diga_terms:1319266649 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:1050951876,
         diga_terms:4238909983,
         diga_terms:4291913910 ;
+    skos:closeMatch aat:300001744 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2770475671,
@@ -1823,6 +1855,7 @@ diga_terms:1319818779 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:360121625 ;
     skos-thes:broaderPartitive diga_terms:2214199931 ;
+    skos:closeMatch aat:300009972 ;
     skos:editorialNote "Figure label in repertorio: 3.2.1.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3494005253,
@@ -1893,6 +1926,7 @@ diga_terms:1344628589 a skos:Concept ;
     dc:identifier "1344628589" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2423641414 ;
+    skos:closeMatch aat:300001702 ;
     skos:editorialNote "Figure label in repertorio: c5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3408805593,
@@ -1936,6 +1970,7 @@ diga_terms:1350097528 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:2480491321,
         diga_terms:2543936167,
         diga_terms:3088840584 ;
+    skos:closeMatch aat:300386152 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2740849798,
@@ -2030,6 +2065,7 @@ diga_terms:1364272679 a skos:Concept ;
     dc:identifier "1364272679" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:406891803 ;
+    skos:closeMatch aat:300266085 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1816679691,
@@ -2093,6 +2129,7 @@ diga_terms:1382175042 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:4108713248,
         diga_terms:986724577,
         diga_terms:995615797 ;
+    skos:closeMatch aat:300001770 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2853475892,
@@ -2127,6 +2164,7 @@ diga_terms:138477585 a skos:Concept ;
     dc:identifier "138477585" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2162257450 ;
+    skos:closeMatch aat:300003543 ;
     skos:editorialNote "Figure label in repertorio: 7"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_fca42ef0,
@@ -2140,6 +2178,7 @@ diga_terms:1388835177 a skos:Concept ;
     dc:identifier "1388835177" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4085526670 ;
+    skos:closeMatch aat:300041872 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2043044082,
@@ -2171,6 +2210,7 @@ diga_terms:1390933319 a skos:Concept ;
     dc:identifier "1390933319" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:292026662 ;
+    skos:closeMatch aat:300001650 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_ce3bac7e,
         diga_terms:xl_it_12e37153 .
@@ -2259,6 +2299,7 @@ diga_terms:1404104470 a skos:Concept ;
 diga_terms:1404508155 a skos:Concept ;
     dc:identifier "1404508155" ;
     skos-thes:broaderGeneric diga_terms:4248524679 ;
+    skos:closeMatch aat:300307716 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_7239ea7d,
         diga_terms:xl_it_1f3ae54e .
@@ -2295,6 +2336,7 @@ diga_terms:1408741571 a skos:Concept ;
     dc:identifier "1408741571" ;
     skos-thes:broaderGeneric diga_terms:833126424 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:relatedMatch aat:300404706 ;
     skosxl:altLabel diga_terms:1013263599 ;
     skosxl:prefLabel diga_terms:353099314,
         diga_terms:xl_it_75e7d5f8 .
@@ -2321,6 +2363,7 @@ diga_terms:1412175229 a skos:Concept ;
     dc:identifier "1412175229" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3000500502 ;
+    skos:closeMatch aat:300419987 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1451264301,
@@ -2361,6 +2404,7 @@ diga_terms:142687138 a skos:Concept ;
     dc:identifier "142687138" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:406891803 ;
+    skos:closeMatch aat:300375725 ;
     skos:editorialNote "Figure label in repertorio: 5.5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3663718370,
@@ -2411,6 +2455,7 @@ diga_terms:1443780080 a skos:Concept ;
     dc:identifier "1443780080" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2251868554 ;
+    skos:closeMatch aat:300082981 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_cf501d56,
         diga_terms:xl_it_c359a73f .
@@ -2488,6 +2533,7 @@ diga_terms:1465041250 a skos:Concept ;
     dc:identifier "1465041250" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
+    skos:closeMatch aat:300003146 ;
     skos:editorialNote "Figure label in repertorio: m"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:3282591653,
@@ -2571,6 +2617,7 @@ diga_terms:1478676491 a skos:Concept ;
     dc:identifier "1478676491" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1020532692 ;
+    skos:closeMatch aat:300200095 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1687504371,
@@ -2584,6 +2631,7 @@ diga_terms:1478772345 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:1553456112,
         diga_terms:44837138,
         diga_terms:810895029 ;
+    skos:closeMatch aat:300196034 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1597742178,
@@ -2664,6 +2712,7 @@ diga_terms:1495809523 a skos:Concept ;
     dc:identifier "1495809523" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:418619365 ;
+    skos:closeMatch aat:300433356 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1991297207,
@@ -2697,6 +2746,7 @@ diga_terms:1505093974 a skos:Concept ;
     dc:identifier "1505093974" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1194521837 ;
+    skos:closeMatch aat:300263370 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_1981ada5,
@@ -2734,6 +2784,7 @@ diga_terms:1510769166 a skos:Concept ;
     dc:identifier "1510769166" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:406891803 ;
+    skos:closeMatch aat:300265707 ;
     skos:editorialNote "Figure label in repertorio: 5.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1302183216,
@@ -2750,6 +2801,7 @@ diga_terms:1512826464 a skos:Concept ;
     dc:identifier "1512826464" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2423641414 ;
+    skos:closeMatch aat:300001699 ;
     skos:editorialNote "Figure label in repertorio: c7"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1498426376,
@@ -2768,6 +2820,7 @@ diga_terms:1517407372 a skos:Concept ;
     dc:identifier "1517407372" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1602652729 ;
+    skos:closeMatch aat:300024919 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1753754993,
@@ -2818,6 +2871,7 @@ diga_terms:152592182 a skos:Concept ;
     dc:identifier "152592182" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2162257450 ;
+    skos:closeMatch aat:300003539 ;
     skos:editorialNote "Figure label in repertorio: 7"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3323459695,
@@ -2838,6 +2892,7 @@ diga_terms:152688564 a skos:Concept ;
     dc:identifier "152688564" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3898664841 ;
+    skos:closeMatch aat:300219625 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2498823541,
@@ -2884,6 +2939,7 @@ diga_terms:1536690025 a skos:Concept ;
     dc:identifier "1536690025" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2228467950 ;
+    skos:closeMatch aat:300042539 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:280320362,
@@ -2990,6 +3046,7 @@ diga_terms:1554963759 a skos:Concept ;
     dc:identifier "1554963759" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1294282728 ;
+    skos:closeMatch aat:300123582 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:205581234,
@@ -3021,6 +3078,7 @@ diga_terms:1567004410 a skos:Concept ;
     dc:identifier "1567004410" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2100908533 ;
+    skos:closeMatch aat:300024253 ;
     skos:editorialNote "Figure label in repertorio: 6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:4242498314,
@@ -3070,6 +3128,7 @@ diga_terms:1572186154 a skos:Concept ;
     dc:identifier "1572186154" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2378765278 ;
+    skos:closeMatch aat:300375053 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2089553414,
@@ -3099,6 +3158,7 @@ diga_terms:1585905248 a skos:Concept ;
     dc:identifier "1585905248" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:760167124 ;
+    skos:closeMatch aat:300205326 ;
     skos:editorialNote "Figure label in repertorio: 6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:11203862,
@@ -3121,6 +3181,7 @@ diga_terms:1588363877 a skos:Concept ;
     dc:identifier "1588363877" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
+    skos:closeMatch aat:300001780 ;
     skos:editorialNote "Figure label in repertorio: n"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1419744771,
@@ -3153,6 +3214,7 @@ diga_terms:1593290841 a skos:Concept ;
     dc:identifier "1593290841" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2896914945 ;
+    skos:closeMatch aat:300009764 ;
     skos:editorialNote "Figure label in repertorio: 3.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2634867635,
@@ -3162,6 +3224,7 @@ diga_terms:1594640528 a skos:Concept ;
     dc:identifier "1594640528" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
+    skos:closeMatch aat:300111088 ;
     skos:editorialNote "Figure label in repertorio: d"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1633727328,
@@ -3171,6 +3234,7 @@ diga_terms:1595382875 a skos:Concept ;
     dc:identifier "1595382875" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2162257450 ;
+    skos:closeMatch aat:300389721 ;
     skos:editorialNote "Figure label in repertorio: 10"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3765491192,
@@ -3181,6 +3245,7 @@ diga_terms:1595382875 a skos:Concept ;
 diga_terms:1597736316 a skos:Concept ;
     dc:identifier "1597736316" ;
     skos-thes:broaderGeneric diga_terms:481543985 ;
+    skos:closeMatch aat:300168457 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:4036793313,
         diga_terms:xl_it_6e8f5cbf .
@@ -3211,6 +3276,7 @@ diga_terms:1602652729 a skos:Concept ;
     dc:identifier "1602652729" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1022807358 ;
+    skos:closeMatch aat:300434832 ;
     skos:editorialNote "Figure label in repertorio: 10.3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2688269037,
@@ -3230,6 +3296,7 @@ diga_terms:1605067510 a skos:Concept ;
 diga_terms:1605160344 a skos:Concept ;
     dc:identifier "1605160344" ;
     skos-thes:broaderGeneric diga_terms:4248524679 ;
+    skos:closeMatch aat:300412120 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:356046200,
         diga_terms:xl_it_86169006 ;
@@ -3290,6 +3357,7 @@ diga_terms:1616741731 a skos:Concept ;
         diga_terms:789113240,
         diga_terms:928905638 ;
     skos-thes:broaderPartitive diga_terms:2214199931 ;
+    skos:closeMatch aat:300045990 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_054514d6 ;
@@ -3313,6 +3381,7 @@ diga_terms:1621402559 a skos:Concept ;
     dc:identifier "1621402559" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1390933319 ;
+    skos:closeMatch aat:300001754 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_82a41e7d,
         diga_terms:xl_it_91069dcd .
@@ -3362,6 +3431,7 @@ diga_terms:1624638416 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1510769166,
         diga_terms:4095112940 ;
+    skos:closeMatch aat:300250160 ;
     skos:editorialNote "Figure label in repertorio: 5.1.7"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1991830271,
@@ -3379,6 +3449,7 @@ diga_terms:1625914630 a skos:Concept ;
 diga_terms:1629844188 a skos:Concept ;
     dc:identifier "1629844188" ;
     dct:source source:repertorio ;
+    skos:closeMatch aat:300263552 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:topConceptOf <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_2a32b163,
@@ -3409,6 +3480,7 @@ diga_terms:1634036449 a skos:Concept ;
 diga_terms:1634446600 a skos:Concept ;
     dc:identifier "1634446600" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:closeMatch aat:300379808 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:736579374,
         diga_terms:xl_it_6b8c41a2 .
@@ -3471,6 +3543,7 @@ diga_terms:164355721 a skos:Concept ;
     dc:identifier "164355721" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1152735729 ;
+    skos:closeMatch aat:300003604 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1068223855,
@@ -3523,6 +3596,7 @@ diga_terms:1648002352 a skos:Concept ;
     dc:identifier "1648002352" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3030556597 ;
+    skos:closeMatch aat:300250076 ;
     skos:editorialNote "Figure label in repertorio: 5.2.3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2752037769,
@@ -3577,6 +3651,7 @@ diga_terms:1663570432 a skos:Concept ;
     dc:identifier "1663570432" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1253760895 ;
+    skos:closeMatch aat:300379264 ;
     skos:editorialNote "Figure label in repertorio: d"@en ;
     skos:example "drooping"@en,
         "pointed"@en,
@@ -3629,6 +3704,7 @@ diga_terms:1670517620 a skos:Concept ;
     dc:identifier "1670517620" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:142687138 ;
+    skos:closeMatch aat:300375726 ;
     skos:editorialNote "Figure label in repertorio: 5.5.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3116684292,
@@ -3735,6 +3811,7 @@ diga_terms:1689314004 a skos:Concept ;
     dc:identifier "1689314004" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1731838996 ;
+    skos:closeMatch aat:300024823 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_it_798447bf ;
@@ -3786,6 +3863,7 @@ diga_terms:1699204008 a skos:Concept ;
     dc:identifier "1699204008" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:418619365 ;
+    skos:closeMatch aat:300022483 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:265029818,
@@ -3946,6 +4024,7 @@ diga_terms:1727009392 a skos:Concept ;
     dc:identifier "1727009392" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
+    skos:closeMatch aat:300400756 ;
     skos:editorialNote "Figure label in repertorio: a5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2826812422,
@@ -3976,6 +4055,7 @@ diga_terms:1727859156 a skos:Concept ;
     dc:identifier "1727859156" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2709765726 ;
+    skos:closeMatch aat:300375431 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1951673304,
@@ -3998,6 +4078,7 @@ diga_terms:1729169804 a skos:Concept ;
     dc:identifier "1729169804" ;
     dct:source source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:715314803 ;
+    skos:closeMatch aat:300380330 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:3298135704,
         diga_terms:3372428421,
@@ -4023,6 +4104,7 @@ diga_terms:1730014591 a skos:Concept ;
     dc:identifier "1730014591" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4089326303 ;
+    skos:closeMatch aat:300198934 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3492121193,
@@ -4090,6 +4172,7 @@ diga_terms:1741358327 a skos:Concept ;
     dc:identifier "1741358327" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:418619365 ;
+    skos:closeMatch aat:300196797 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1285659896,
@@ -4155,6 +4238,7 @@ diga_terms:1748566320 a skos:Concept ;
     dc:identifier "1748566320" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:406891803 ;
+    skos:closeMatch aat:300265956 ;
     skos:editorialNote "Figure label in repertorio: 5.3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1432438034,
@@ -4208,6 +4292,7 @@ diga_terms:1754917951 a skos:Concept ;
     dc:identifier "1754917951" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3269212881 ;
+    skos:closeMatch aat:300037058 ;
     skos:editorialNote "Figure label in repertorio: 7.7"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1135395517,
@@ -4270,6 +4355,7 @@ diga_terms:176285216 a skos:Concept ;
     dc:identifier "176285216" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:767185560 ;
+    skos:broadMatch aat:300181491 ;
     skos:editorialNote "Figure label in repertorio: 5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1751743182,
@@ -4338,6 +4424,7 @@ diga_terms:1775830788 a skos:Concept ;
     dc:identifier "1775830788" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1510769166 ;
+    skos:closeMatch aat:300250130 ;
     skos:editorialNote "Figure label in repertorio: 5.1.10"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2293354520,
@@ -4347,6 +4434,7 @@ diga_terms:1775892328 a skos:Concept ;
     dc:identifier "1775892328" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3269212881 ;
+    skos:closeMatch aat:300379353 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_31e782a9,
         diga_terms:xl_it_852d5bf0 ;
@@ -4425,6 +4513,7 @@ diga_terms:1787652359 a skos:Concept ;
     dc:identifier "1787652359" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2162257450 ;
+    skos:closeMatch aat:300001750 ;
     skos:editorialNote "Figure label in repertorio: 9"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3598197029,
@@ -4640,6 +4729,7 @@ diga_terms:1817294312 a skos:Concept ;
     dc:identifier "1817294312" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1246295649 ;
+    skos:closeMatch aat:300024736 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:example "cramp with rectangular uniform width"@en,
         "straight cramp"@en,
@@ -4655,6 +4745,7 @@ diga_terms:1821875508 a skos:Concept ;
     dc:identifier "1821875508" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
+    skos:closeMatch aat:300045671 ;
     skos:editorialNote "Figure label in repertorio: 9.13"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_8556539e,
@@ -4751,6 +4842,7 @@ diga_terms:1831485914 a skos:Concept ;
     dc:identifier "1831485914" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
+    skos:closeMatch aat:300262871 ;
     skos:editorialNote "Figure label in repertorio: 9.16"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_it_bf8839b4 ;
@@ -4770,6 +4862,7 @@ diga_terms:1834078249 a skos:Concept ;
     dc:identifier "1834078249" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1199973794 ;
+    skos:closeMatch aat:300046173 ;
     skos:editorialNote "Figure label in repertorio: f"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:403393677,
@@ -4843,6 +4936,7 @@ diga_terms:1842876919 a skos:Concept ;
     dc:identifier "1842876919" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1020532692 ;
+    skos:closeMatch aat:300022376 ;
     skos:editorialNote "Figure label in repertorio: 6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:354301362,
@@ -4854,6 +4948,7 @@ diga_terms:1843562663 a skos:Concept ;
     dc:identifier "1843562663" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4089326303 ;
+    skos:closeMatch aat:300043229 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2809071150,
@@ -4896,6 +4991,7 @@ diga_terms:1845428737 a skos:Concept ;
     dc:identifier "1845428737" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2824007492 ;
+    skos:closeMatch aat:300010212 ;
     skos:editorialNote "Figure label in repertorio: 3.4.3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2642723207,
@@ -5199,6 +5295,7 @@ diga_terms:1900316631 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:2745856219,
         diga_terms:2952603567,
         diga_terms:762298113 ;
+    skos:closeMatch aat:300210776 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_e3711668,
         diga_terms:xl_it_cd7f1701 .
@@ -5479,6 +5576,7 @@ diga_terms:19497046 a skos:Concept ;
     dc:identifier "19497046" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:603997620 ;
+    skos:closeMatch aat:300248152 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_846fbb45 ;
     skosxl:prefLabel diga_terms:xl_en_c58ff198,
@@ -5564,6 +5662,7 @@ diga_terms:1969486271 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:457283766 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:relatedMatch aat:300009766 ;
     skosxl:prefLabel diga_terms:109583353,
         diga_terms:4164738475 ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-096_Graphic_1621405886238_739.png>,
@@ -5573,6 +5672,7 @@ diga_terms:1971313817 a skos:Concept ;
     dc:identifier "1971313817" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:360121625 ;
+    skos:closeMatch aat:300164902 ;
     skos:editorialNote "Figure label in repertorio: 3.2.1.4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1043989120,
@@ -5654,6 +5754,7 @@ diga_terms:1982488836 a skos:Concept ;
     dc:identifier "1982488836" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3898664841 ;
+    skos:closeMatch aat:300219625 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:4138611777,
@@ -5693,6 +5794,7 @@ diga_terms:1989192869 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1199973794,
         diga_terms:3269212881 ;
+    skos:closeMatch aat:300046143 ;
     skos:editorialNote "Figure label in repertorio: 7.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2055660544,
@@ -5754,6 +5856,7 @@ diga_terms:1999355705 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:3269212881,
         diga_terms:3844885247 ;
     skos-thes:broaderPartitive diga_terms:1293744608 ;
+    skos:closeMatch aat:300037038 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:263291707,
@@ -5765,6 +5868,7 @@ diga_terms:2003709673 a skos:Concept ;
     dc:identifier "2003709673" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3073799863 ;
+    skos:closeMatch aat:300003018 ;
     skos:editorialNote "Figure label in repertorio: 1.3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1174271092,
@@ -5774,6 +5878,7 @@ diga_terms:2004519371 a skos:Concept ;
     dc:identifier "2004519371" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4274303633 ;
+    skos:closeMatch aat:300003725 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1160071571,
@@ -5932,6 +6037,7 @@ diga_terms:2033636798 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1199973794 ;
     skos-thes:broaderPartitive diga_terms:2438448679 ;
+    skos:closeMatch aat:300209932 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1467987924,
@@ -6023,6 +6129,7 @@ diga_terms:2041978026 a skos:Concept ;
     dc:identifier "2041978026" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3269212881 ;
+    skos:closeMatch aat:300037214 ;
     skos:editorialNote "Figure label in repertorio: 6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2429666528,
@@ -6106,6 +6213,7 @@ diga_terms:2053968348 a skos:Concept ;
 diga_terms:2054426851 a skos:Concept ;
     dc:identifier "2054426851" ;
     dct:source source:repertorio ;
+    skos:closeMatch aat:300041620 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:topConceptOf <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_79c2fe8e,
@@ -6115,6 +6223,7 @@ diga_terms:2054561957 a skos:Concept ;
     dc:identifier "2054561957" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
+    skos:closeMatch aat:300212972 ;
     skos:editorialNote "Figure label in repertorio: g"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3628283102,
@@ -6192,6 +6301,7 @@ diga_terms:2067427685 a skos:Concept ;
     dc:identifier "2067427685" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1253760895 ;
+    skos:closeMatch aat:300400468 ;
     skos:editorialNote "Figure label in repertorio: u"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1875093971,
@@ -6231,6 +6341,7 @@ diga_terms:2071379191 a skos:Concept ;
     dc:identifier "2071379191" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2162257450 ;
+    skos:closeMatch aat:300003513 ;
     skos:editorialNote "Figure label in repertorio: 5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:323072547,
@@ -6262,6 +6373,7 @@ diga_terms:2082243019 a skos:Concept ;
     dc:identifier "2082243019" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4235579774 ;
+    skos:closeMatch aat:300024818 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1116463892,
@@ -6328,6 +6440,7 @@ diga_terms:2091634236 a skos:Concept ;
     dc:identifier "2091634236" ;
     skos-thes:broaderGeneric diga_terms:1597736316 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:relatedMatch aat:300254129 ;
     skosxl:prefLabel diga_terms:2996133551,
         diga_terms:xl_it_1ea94648 .
 
@@ -6415,6 +6528,7 @@ diga_terms:2100908533 a skos:Concept ;
     dc:identifier "2100908533" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2838159259 ;
+    skos:closeMatch aat:300207870 ;
     skos:editorialNote "Figure label in repertorio: 1.1.5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:4277053890,
@@ -6444,6 +6558,7 @@ diga_terms:2101537796 a skos:Concept ;
     dct:source source:faccenna_sculptures_1962,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:715314803 ;
+    skos:closeMatch aat:300028882 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2371539839,
         diga_terms:xl_it_1cd377ec .
@@ -6540,6 +6655,7 @@ diga_terms:2119605152 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:2963759628,
         diga_terms:3262684865,
         diga_terms:4144698813 ;
+    skos:closeMatch aat:300221444 ;
     skos:editorialNote "Figure label in repertorio: e"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3489811285,
@@ -6567,6 +6683,7 @@ diga_terms:2122714914 a skos:Concept ;
     dc:identifier "2122714914" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2162257450 ;
+    skos:closeMatch aat:300003524 ;
     skos:editorialNote "Figure label in repertorio: 11"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2559690713,
@@ -6596,6 +6713,7 @@ diga_terms:2125607802 a skos:Concept ;
     dc:identifier "2125607802" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3030556597 ;
+    skos:closeMatch aat:300250063 ;
     skos:editorialNote "Figure label in repertorio: 5.2.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1450843635,
@@ -6667,6 +6785,7 @@ diga_terms:2137397505 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:789113240,
         diga_terms:928905638 ;
     skos-thes:broaderPartitive diga_terms:2214199931 ;
+    skos:closeMatch aat:300045991 ;
     skos:editorialNote "Figure label in repertorio: 5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:747652209,
@@ -6771,6 +6890,7 @@ diga_terms:2162257450 a skos:Concept ;
     dc:identifier "2162257450" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2667838189 ;
+    skos:closeMatch aat:300003429 ;
     skos:editorialNote "Figure label in repertorio: 2.6.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2731918883,
@@ -6791,6 +6911,7 @@ diga_terms:2163667055 a skos:Concept ;
     dc:identifier "2163667055" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1748566320 ;
+    skos:closeMatch aat:300310264 ;
     skos:editorialNote "Figure label in repertorio: 5.3.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:4269958864,
@@ -6993,6 +7114,7 @@ diga_terms:2199920141 a skos:Concept ;
     dc:identifier "2199920141" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
+    skos:closeMatch aat:300310189 ;
     skos:editorialNote "Figure label in repertorio: w"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3101595507,
@@ -7042,6 +7164,7 @@ diga_terms:220949503 a skos:Concept ;
     dc:identifier "220949503" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1253760895 ;
+    skos:closeMatch aat:300404717 ;
     skos:editorialNote "Figure label in repertorio: s"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_0ae6f8ae,
@@ -7111,6 +7234,7 @@ diga_terms:2228090298 a skos:Concept ;
     dc:identifier "2228090298" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1495185932 ;
+    skos:closeMatch aat:300303413 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2305850056,
@@ -7120,6 +7244,7 @@ diga_terms:2228467950 a skos:Concept ;
     dc:identifier "2228467950" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2054426851 ;
+    skos:closeMatch aat:300041622 ;
     skos:editorialNote "Figure label in repertorio: 8.3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3693401437,
@@ -7219,6 +7344,7 @@ diga_terms:2249846779 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:2716416682 ;
     skos-thes:broaderPartitive diga_terms:1293744608,
         diga_terms:1714708293 ;
+    skos:closeMatch aat:300046057 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2127665962,
@@ -7236,6 +7362,7 @@ diga_terms:2251135498 a skos:Concept ;
 diga_terms:2251868554 a skos:Concept ;
     dc:identifier "2251868554" ;
     dct:source source:repertorio ;
+    skos:closeMatch aat:300219258 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:topConceptOf <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_4527cfed,
@@ -7266,6 +7393,7 @@ diga_terms:2257989562 a skos:Concept ;
     dc:identifier "2257989562" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:289569947 ;
+    skos:closeMatch aat:300047600 ;
     skos:editorialNote "Figure label in repertorio: 1.3.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1767204544,
@@ -7317,6 +7445,7 @@ diga_terms:2262148490 a skos:Concept ;
     dc:identifier "2262148490" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2100908533 ;
+    skos:closeMatch aat:300022536 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2123984470,
@@ -7412,6 +7541,7 @@ diga_terms:228131430 a skos:Concept ;
     dc:identifier "228131430" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1602652729 ;
+    skos:closeMatch aat:300236397 ;
     skos:editorialNote "Figure label in repertorio: 5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1659959878,
@@ -7538,6 +7668,7 @@ diga_terms:2295534461 a skos:Concept ;
     dc:identifier "2295534461" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
+    skos:closeMatch aat:300310200 ;
     skos:editorialNote "Figure label in repertorio: x"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:536648318,
@@ -7585,6 +7716,7 @@ diga_terms:2299793420 a skos:Concept ;
 diga_terms:2301477931 a skos:Concept ;
     dc:identifier "2301477931" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:closeMatch aat:300025666 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_it_b300b67a ;
     skosxl:prefLabel diga_terms:1041054883,
@@ -7634,6 +7766,7 @@ diga_terms:2311845486 a skos:Concept ;
     dc:identifier "2311845486" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
+    skos:closeMatch aat:300190801 ;
     skos:editorialNote "Figure label in repertorio: 9.10"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1737142284,
@@ -7664,6 +7797,7 @@ diga_terms:2320100902 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3007921346,
         diga_terms:3906619880 ;
+    skos:broadMatch aat:300390928 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_3739ebbf,
         diga_terms:xl_it_5b011729 ;
@@ -7710,6 +7844,7 @@ diga_terms:2327276189 a skos:Concept ;
     dc:identifier "2327276189" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1390933319 ;
+    skos:closeMatch aat:300001662 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_0772e8b7,
         diga_terms:xl_it_c01959c1 .
@@ -7775,6 +7910,7 @@ diga_terms:2334945135 a skos:Concept ;
 diga_terms:2335217424 a skos:Concept ;
     dc:identifier "2335217424" ;
     skos-thes:broaderGeneric diga_terms:3725270573 ;
+    skos:closeMatch aat:300264360 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3135576354,
         diga_terms:xl_it_4d5ee57a,
@@ -7789,6 +7925,7 @@ diga_terms:2335901934 a skos:Concept ;
         diga_terms:3126905492,
         diga_terms:647674876,
         diga_terms:673626200 ;
+    skos:closeMatch aat:300210530 ;
     skos:editorialNote "Figure label in repertorio: a1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3451294758,
@@ -7866,6 +8003,7 @@ diga_terms:2361120004 a skos:Concept ;
     dc:identifier "2361120004" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2722247433 ;
+    skos:closeMatch aat:300037119 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:67120670 ;
@@ -7996,6 +8134,7 @@ diga_terms:2379796937 a skos:Concept ;
     dc:identifier "2379796937" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2667838189 ;
+    skos:closeMatch aat:300002018 ;
     skos:editorialNote "Figure label in repertorio: 2.6.6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:37204728,
@@ -8115,6 +8254,7 @@ diga_terms:2401980690 a skos:Concept ;
     dc:identifier "2401980690" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2722247433 ;
+    skos:closeMatch aat:300037139 ;
     skos:editorialNote "Figure label in repertorio: h"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1348115719,
@@ -8124,6 +8264,7 @@ diga_terms:2405207229 a skos:Concept ;
     dc:identifier "2405207229" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4235579774 ;
+    skos:closeMatch aat:300024671 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:260581214,
@@ -8203,6 +8344,7 @@ diga_terms:2418422748 a skos:Concept ;
     dc:identifier "2418422748" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2054426851 ;
+    skos:closeMatch aat:300041641 ;
     skos:editorialNote "Figure label in repertorio: 8.4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1831370212,
@@ -8329,6 +8471,7 @@ diga_terms:2435617812 a skos:Concept ;
     dc:identifier "2435617812" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1569179484 ;
+    skos:closeMatch aat:300006179 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:728411015,
@@ -8340,6 +8483,7 @@ diga_terms:2438197273 a skos:Concept ;
     dc:identifier "2438197273" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
+    skos:closeMatch aat:300002601 ;
     skos:editorialNote "Figure label in repertorio: i"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2830009780,
@@ -8476,6 +8620,7 @@ diga_terms:245536511 a skos:Concept ;
     dc:identifier "245536511" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:360121625 ;
+    skos:closeMatch aat:300400479 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3164787386,
@@ -8602,6 +8747,7 @@ diga_terms:2471177122 a skos:Concept ;
     dc:identifier "2471177122" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4085526670 ;
+    skos:closeMatch aat:300041976 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:120277054,
@@ -8613,6 +8759,7 @@ diga_terms:2472495753 a skos:Concept ;
     dc:identifier "2472495753" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:863907056 ;
+    skos:broadMatch aat:300430539 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2011038644,
@@ -8651,6 +8798,7 @@ diga_terms:2477530233 a skos:Concept ;
     dc:identifier "2477530233" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:573338218 ;
+    skos:closeMatch aat:300041116 ;
     skos:editorialNote "Figure label in repertorio: 11.5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_4101669e ;
@@ -8672,6 +8820,7 @@ diga_terms:2483270731 a skos:Concept ;
     dc:identifier "2483270731" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2269992085 ;
+    skos:closeMatch aat:300419454 ;
     skos:editorialNote "Figure label in repertorio: 4.1.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3382269124,
@@ -8699,6 +8848,7 @@ diga_terms:2487871423 a skos:Concept ;
     dc:identifier "2487871423" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2228467950 ;
+    skos:closeMatch aat:300042539 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1135185593,
@@ -8741,6 +8891,7 @@ diga_terms:2498719343 a skos:Concept ;
 diga_terms:2498849496 a skos:Concept ;
     dc:identifier "2498849496" ;
     skos-thes:broaderGeneric diga_terms:3725270573 ;
+    skos:closeMatch aat:300024979 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:802655671,
         diga_terms:xl_it_971b96dd .
@@ -8830,6 +8981,7 @@ diga_terms:252269757 a skos:Concept ;
     dc:identifier "252269757" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1629844188 ;
+    skos:closeMatch aat:300120364 ;
     skos:editorialNote "Figure label in repertorio: 2.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2617283523,
@@ -8839,6 +8991,7 @@ diga_terms:252491446 a skos:Concept ;
     dc:identifier "252491446" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:678702193 ;
+    skos:closeMatch aat:300262585 ;
     skos:editorialNote "Figure label in repertorio: f"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1150529223,
@@ -8870,6 +9023,7 @@ diga_terms:2528292753 a skos:Concept ;
     dc:identifier "2528292753" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3030556597 ;
+    skos:closeMatch aat:300250082 ;
     skos:editorialNote "Figure label in repertorio: 5.2.4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1373553939,
@@ -8896,6 +9050,7 @@ diga_terms:2530432611 a skos:Concept ;
     dc:identifier "2530432611" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1510769166 ;
+    skos:closeMatch aat:300250114 ;
     skos:editorialNote "Figure label in repertorio: 5.1.11"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1829656456,
@@ -8915,6 +9070,7 @@ diga_terms:2534747475 a skos:Concept ;
     dc:identifier "2534747475" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1629844188 ;
+    skos:closeMatch aat:300005866 ;
     skos:editorialNote "Figure label in repertorio: 2.5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1176694326,
@@ -8948,6 +9104,7 @@ diga_terms:2539896623 a skos:Concept ;
     dc:identifier "2539896623" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:573338218 ;
+    skos:closeMatch aat:300038141 ;
     skos:editorialNote "Figure label in repertorio: 11.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2822175604,
@@ -9067,6 +9224,7 @@ diga_terms:2547733684 a skos:Concept ;
     dc:identifier "2547733684" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1495185932 ;
+    skos:closeMatch aat:300011868 ;
     skos:editorialNote "Figure label in repertorio: d"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1701168587,
@@ -9104,6 +9262,7 @@ diga_terms:2550547948 a skos:Concept ;
 
 diga_terms:2550564563 a skos:Concept ;
     dc:identifier "2550564563" ;
+    skos:closeMatch aat:300185346 ;
     skos:topConceptOf <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3242875618,
         diga_terms:xl_it_6e775e9c .
@@ -9152,6 +9311,7 @@ diga_terms:2561944534 a skos:Concept ;
     dc:identifier "2561944534" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:678702193 ;
+    skos:closeMatch aat:300204598 ;
     skos:editorialNote "Figure label in repertorio: d"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1529273553,
@@ -9171,6 +9331,7 @@ diga_terms:2562508803 a skos:Concept ;
     dc:identifier "2562508803" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3561542339 ;
+    skos:closeMatch aat:300419288 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:2023999854,
@@ -9203,6 +9364,7 @@ diga_terms:2567284667 a skos:Concept ;
     dc:identifier "2567284667" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
+    skos:closeMatch aat:300004847 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1755404212,
@@ -9242,6 +9404,7 @@ diga_terms:2579616314 a skos:Concept ;
     dc:identifier "2579616314" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1022807358 ;
+    skos:closeMatch aat:300233315 ;
     skos:editorialNote "Figure label in repertorio: 10.7"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:192461477,
@@ -9459,6 +9622,7 @@ diga_terms:2629481206 a skos:Concept ;
 diga_terms:2630457205 a skos:Concept ;
     dc:identifier "2630457205" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:closeMatch aat:300025409 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1014394708,
         diga_terms:xl_it_b2aac9b4 .
@@ -9467,6 +9631,7 @@ diga_terms:2631050290 a skos:Concept ;
     dc:identifier "2631050290" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3269212881 ;
+    skos:closeMatch aat:300037019 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_a3e02ec9,
         diga_terms:xl_it_2cabec52 .
@@ -9588,6 +9753,7 @@ diga_terms:2654072981 a skos:Concept ;
     dc:identifier "2654072981" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:360121625 ;
+    skos:closeMatch aat:300009995 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3463712763,
@@ -9649,6 +9815,7 @@ diga_terms:2667838189 a skos:Concept ;
     dc:identifier "2667838189" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1629844188 ;
+    skos:closeMatch aat:300000885 ;
     skos:editorialNote "Figure label in repertorio: 2.6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:224788368,
@@ -9696,6 +9863,7 @@ diga_terms:2675230209 a skos:Concept ;
     dc:identifier "2675230209" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1250872971 ;
+    skos:closeMatch aat:300395464 ;
     skos:editorialNote "Figure label in repertorio: e"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3093270308,
@@ -9875,6 +10043,7 @@ diga_terms:2716416682 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1199973794,
         diga_terms:1668278526 ;
+    skos:closeMatch aat:300209280 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1756152587,
@@ -9989,6 +10158,7 @@ diga_terms:2735945589 a skos:Concept ;
     dc:identifier "2735945589" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2896914945 ;
+    skos:closeMatch aat:300164598 ;
     skos:editorialNote "Figure label in repertorio: 3.3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1605606873,
@@ -10061,6 +10231,7 @@ diga_terms:2747531260 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:3057133484 ;
     skos:editorialNote "Figure label in repertorio: 4.3.1.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:relatedMatch aat:300239500 ;
     skosxl:prefLabel diga_terms:3042865408,
         diga_terms:3647422842 .
 
@@ -10178,6 +10349,7 @@ diga_terms:2763341675 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1510769166,
         diga_terms:4095112940 ;
+    skos:closeMatch aat:300250139 ;
     skos:editorialNote "Figure label in repertorio: 5.1.6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3823469233,
@@ -10227,6 +10399,7 @@ diga_terms:2771162323 a skos:Concept ;
     dc:identifier "2771162323" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1534254414 ;
+    skos:closeMatch aat:300024682 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1450151918,
@@ -10258,6 +10431,7 @@ diga_terms:2780874543 a skos:Concept ;
     dc:identifier "2780874543" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
+    skos:closeMatch aat:300001788 ;
     skos:editorialNote "Figure label in repertorio: o"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:213137539,
@@ -10313,6 +10487,7 @@ diga_terms:2793930350 a skos:Concept ;
     dc:identifier "2793930350" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
+    skos:closeMatch aat:300400752 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:226469465,
@@ -10370,6 +10545,7 @@ diga_terms:2807695186 a skos:Concept ;
     dc:identifier "2807695186" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2716416682 ;
+    skos:closeMatch aat:300046077 ;
     skos:editorialNote "Figure label in repertorio: e"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:253301491,
@@ -10538,6 +10714,7 @@ diga_terms:2838159259 a skos:Concept ;
     dc:identifier "2838159259" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2642759048 ;
+    skos:closeMatch aat:300234127 ;
     skos:editorialNote "Figure label in repertorio: 1.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1135055502,
@@ -10600,6 +10777,7 @@ diga_terms:284624605 a skos:Concept ;
     dc:identifier "284624605" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
+    skos:broadMatch aat:300426445 ;
     skos:editorialNote "Figure label in repertorio: 9.8"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:113712529,
@@ -10640,6 +10818,7 @@ diga_terms:2852438881 a skos:Concept ;
     dc:identifier "2852438881" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3263162084 ;
+    skos:closeMatch aat:300045998 ;
     skos:editorialNote "Figure label in repertorio: e"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1864703562,
@@ -10712,6 +10891,7 @@ diga_terms:2861137533 a skos:Concept ;
 diga_terms:2863313669 a skos:Concept ;
     dc:identifier "2863313669" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:closeMatch aat:300263157 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:607603454,
         diga_terms:xl_it_5b93d470 .
@@ -10719,6 +10899,7 @@ diga_terms:2863313669 a skos:Concept ;
 diga_terms:2866633434 a skos:Concept ;
     dc:identifier "2866633434" ;
     skos-thes:broaderGeneric diga_terms:1597736316 ;
+    skos:closeMatch aat:300404332 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1908960119,
         diga_terms:xl_it_090d04a2,
@@ -10762,6 +10943,7 @@ diga_terms:2881287048 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:4108713248,
         diga_terms:986724577,
         diga_terms:995615797 ;
+    skos:closeMatch aat:300002736 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3651471505,
@@ -10780,6 +10962,7 @@ diga_terms:2884523639 a skos:Concept ;
     dc:identifier "2884523639" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
+    skos:closeMatch aat:300400758 ;
     skos:editorialNote "Figure label in repertorio: a2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1399375040,
@@ -10858,6 +11041,7 @@ diga_terms:2890760924 a skos:Concept ;
     dc:identifier "2890760924" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1510769166 ;
+    skos:closeMatch aat:300250287 ;
     skos:editorialNote "Figure label in repertorio: 5.1.5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1075855107,
@@ -10897,6 +11081,7 @@ diga_terms:289569947 a skos:Concept ;
 diga_terms:2896914945 a skos:Concept ;
     dc:identifier "2896914945" ;
     dct:source source:repertorio ;
+    skos:closeMatch aat:300009700 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:topConceptOf <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_849d254e,
@@ -10970,6 +11155,7 @@ diga_terms:2911881140 a skos:Concept ;
     dc:identifier "2911881140" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2091634236 ;
+    skos:closeMatch aat:300379733 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3095113709,
@@ -11006,6 +11192,7 @@ diga_terms:2916871565 a skos:Concept ;
 diga_terms:2919036229 a skos:Concept ;
     dc:identifier "2919036229" ;
     skos-thes:broaderGeneric diga_terms:2091634236 ;
+    skos:closeMatch aat:300379740 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2922108516,
         diga_terms:xl_it_ceb0d4d7 .
@@ -11022,6 +11209,7 @@ diga_terms:2922267194 a skos:Concept ;
     dc:identifier "2922267194" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:252269757 ;
+    skos:closeMatch aat:300007576 ;
     skos:editorialNote "Figure label in repertorio: 2.1.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3790130461,
@@ -11108,6 +11296,7 @@ diga_terms:2939079382 a skos:Concept ;
     dc:identifier "2939079382" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1010407745 ;
+    skos:closeMatch aat:300038220 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1104346298,
@@ -11150,6 +11339,7 @@ diga_terms:2951403238 a skos:Concept ;
     dc:identifier "2951403238" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
+    skos:closeMatch aat:300310203 ;
     skos:editorialNote "Figure label in repertorio: q"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2206467836,
@@ -11286,6 +11476,7 @@ diga_terms:2966956410 a skos:Concept ;
     dc:identifier "2966956410" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2667838189 ;
+    skos:closeMatch aat:300002803 ;
     skos:editorialNote "Figure label in repertorio: 2.6.5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1257915340,
@@ -11354,6 +11545,7 @@ diga_terms:2985326150 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:1199973794 ;
     skos-thes:broaderPartitive diga_terms:2205794341,
         diga_terms:2480491321 ;
+    skos:closeMatch aat:300209991 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3858787524,
@@ -11363,6 +11555,7 @@ diga_terms:2985624710 a skos:Concept ;
     dc:identifier "2985624710" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1569179484 ;
+    skos:closeMatch aat:300004824 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1855372698,
@@ -11430,6 +11623,7 @@ diga_terms:3000500502 a skos:Concept ;
     dc:identifier "3000500502" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1022807358 ;
+    skos:broadMatch aat:300256964 ;
     skos:editorialNote "Figure label in repertorio: 10.6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3066837676,
@@ -11458,6 +11652,7 @@ diga_terms:3007921346 a skos:Concept ;
     dc:identifier "3007921346" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:closeMatch aat:300025765 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1387395037,
@@ -11469,6 +11664,7 @@ diga_terms:3007935140 a skos:Concept ;
     dc:identifier "3007935140" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1510769166 ;
+    skos:closeMatch aat:300250112 ;
     skos:editorialNote "Figure label in repertorio: 5.1.12"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1505718884,
@@ -11516,6 +11712,7 @@ diga_terms:3016334302 a skos:Concept ;
     dc:identifier "3016334302" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2162257450 ;
+    skos:closeMatch aat:300003522 ;
     skos:editorialNote "Figure label in repertorio: 10"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1841965120,
@@ -11545,6 +11742,7 @@ diga_terms:3020942827 a skos:Concept ;
     dc:identifier "3020942827" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:360121625 ;
+    skos:closeMatch aat:300165258 ;
     skos:editorialNote "Figure label in repertorio: 3.2.1.3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1643326482,
@@ -11558,6 +11756,7 @@ diga_terms:302342098 a skos:Concept ;
         diga_terms:229281234,
         diga_terms:2303783984,
         diga_terms:3480180553 ;
+    skos:closeMatch aat:300209869 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1276838695,
@@ -11597,6 +11796,7 @@ diga_terms:3030556597 a skos:Concept ;
     dc:identifier "3030556597" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:406891803 ;
+    skos:closeMatch aat:300375751 ;
     skos:editorialNote "Figure label in repertorio: 5.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1022302322,
@@ -11733,6 +11933,7 @@ diga_terms:3057133484 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:1909496019,
         diga_terms:2269992085,
         diga_terms:921065471 ;
+    skos:closeMatch aat:300404639 ;
     skos:editorialNote "Figure label in repertorio: 4.3.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_da4ad03e,
@@ -11744,6 +11945,7 @@ diga_terms:3062948492 a skos:Concept ;
     dc:identifier "3062948492" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
+    skos:closeMatch aat:300310201 ;
     skos:editorialNote "Figure label in repertorio: m"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2641298190,
@@ -11779,6 +11981,7 @@ diga_terms:3066297268 a skos:Concept ;
 diga_terms:3066298879 a skos:Concept ;
     dc:identifier "3066298879" ;
     dct:source source:repertorio ;
+    skos:closeMatch aat:300234117 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:topConceptOf <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_80a12c46,
@@ -11797,6 +12000,7 @@ diga_terms:3070626738 a skos:Concept ;
     dc:identifier "3070626738" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2091634236 ;
+    skos:closeMatch aat:300395659 ;
     skos:editorialNote "Figure label in repertorio: 8"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1394565001,
@@ -11819,6 +12023,7 @@ diga_terms:3073799863 a skos:Concept ;
     dc:identifier "3073799863" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1629844188 ;
+    skos:closeMatch aat:300005072 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1397328652,
@@ -12042,6 +12247,7 @@ diga_terms:3106078096 a skos:Concept ;
     dc:identifier "3106078096" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2269992085 ;
+    skos:broadMatch aat:300056179 ;
     skos:editorialNote "Figure label in repertorio: 4.2.4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_fc48ed22,
@@ -12053,6 +12259,7 @@ diga_terms:310648897 a skos:Concept ;
     dc:identifier "310648897" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1061008139 ;
+    skos:closeMatch aat:300039548 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1645782711,
@@ -12179,6 +12386,7 @@ diga_terms:3127444423 a skos:Concept ;
     dc:identifier "3127444423" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3269212881 ;
+    skos:closeMatch aat:300036999 ;
     skos:editorialNote "Figure label in repertorio: 7.9"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2684396813,
@@ -12218,6 +12426,7 @@ diga_terms:3138608383 a skos:Concept ;
 diga_terms:3140348735 a skos:Concept ;
     dc:identifier "3140348735" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:closeMatch aat:300188618 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1477188212,
         diga_terms:xl_it_e0a4ff09 .
@@ -12226,6 +12435,7 @@ diga_terms:3145060749 a skos:Concept ;
     dc:identifier "3145060749" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3354838280 ;
+    skos:closeMatch aat:300404716 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2027760408,
@@ -12293,6 +12503,7 @@ diga_terms:3161598583 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:3269212881 ;
     skos-thes:broaderPartitive diga_terms:1293744608,
         diga_terms:255219621 ;
+    skos:closeMatch aat:300036869 ;
     skos:editorialNote "Figure label in repertorio: 7.3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2389887544,
@@ -12334,6 +12545,7 @@ diga_terms:3164652838 a skos:Concept ;
         diga_terms:660146388,
         diga_terms:673626200,
         diga_terms:973978663 ;
+    skos:closeMatch aat:300220741 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3257205999,
@@ -12342,6 +12554,7 @@ diga_terms:3164652838 a skos:Concept ;
 diga_terms:3164738198 a skos:Concept ;
     dc:identifier "3164738198" ;
     skos-thes:broaderGeneric diga_terms:1597736316 ;
+    skos:closeMatch aat:300404703 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3045836876,
         diga_terms:xl_it_10fc2ec2,
@@ -12354,6 +12567,7 @@ diga_terms:3167301581 a skos:Concept ;
         diga_terms:3499411545,
         diga_terms:3528407314,
         diga_terms:464646625 ;
+    skos:closeMatch aat:300255560 ;
     skos:editorialNote "Figure label in repertorio: e"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3694301369,
@@ -12410,6 +12624,7 @@ diga_terms:318059664 a skos:Concept ;
     dc:identifier "318059664" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1597736316 ;
+    skos:closeMatch aat:300412118 ;
     skos:editorialNote "Figure label in repertorio: 4.11.6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3114637676,
@@ -12433,6 +12648,7 @@ diga_terms:3187904559 a skos:Concept ;
         diga_terms:2689251897,
         diga_terms:3269212881,
         diga_terms:3844885247 ;
+    skos:closeMatch aat:300036794 ;
     skos:editorialNote "Figure label in repertorio: 7.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1830457853,
@@ -12542,6 +12758,7 @@ diga_terms:321993497 a skos:Concept ;
     dc:identifier "321993497" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1510769166 ;
+    skos:closeMatch aat:300310388 ;
     skos:editorialNote "Figure label in repertorio: 5.1.8"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2614393608,
@@ -12664,6 +12881,7 @@ diga_terms:3237930001 a skos:Concept ;
     dc:identifier "3237930001" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2251868554 ;
+    skos:closeMatch aat:300426218 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2345270849,
@@ -12825,6 +13043,7 @@ diga_terms:3262876746 a skos:Concept ;
     dc:identifier "3262876746" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2477530233 ;
+    skos:closeMatch aat:300038418 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2650405126,
@@ -12918,6 +13137,7 @@ diga_terms:3268541212 a skos:Concept ;
     dc:identifier "3268541212" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
+    skos:closeMatch aat:300310191 ;
     skos:editorialNote "Figure label in repertorio: c1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:1001775412 ;
@@ -12927,6 +13147,7 @@ diga_terms:3268541212 a skos:Concept ;
 diga_terms:3269212881 a skos:Concept ;
     dc:identifier "3269212881" ;
     dct:source source:repertorio ;
+    skos:closeMatch aat:300036926 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:topConceptOf <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_946ef60d,
@@ -12990,6 +13211,7 @@ diga_terms:3286308534 a skos:Concept ;
     dc:identifier "3286308534" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
+    skos:closeMatch aat:300400761 ;
     skos:editorialNote "Figure label in repertorio: a8"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2556881427,
@@ -13142,6 +13364,7 @@ diga_terms:3313765593 a skos:Concept ;
     dc:identifier "3313765593" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3286774910 ;
+    skos:closeMatch aat:300043202 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1356844870,
@@ -13183,6 +13406,7 @@ diga_terms:3323510573 a skos:Concept ;
     dc:identifier "3323510573" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2534747475 ;
+    skos:closeMatch aat:300005909 ;
     skos:editorialNote "Figure label in repertorio: 2.5.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2103846931,
@@ -13301,6 +13525,7 @@ diga_terms:3338052113 a skos:Concept ;
 diga_terms:3339255784 a skos:Concept ;
     dc:identifier "3339255784" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:closeMatch aat:300386642 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1077433635,
         diga_terms:xl_it_0a0221e9 .
@@ -13362,6 +13587,7 @@ diga_terms:3361798727 a skos:Concept ;
     dc:identifier "3361798727" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1443780080 ;
+    skos:broadMatch aat:300212841 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_8c0c0320,
         diga_terms:xl_it_49d395ae .
@@ -13377,6 +13603,7 @@ diga_terms:3366168681 a skos:Concept ;
     dc:identifier "3366168681" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
+    skos:closeMatch aat:300310190 ;
     skos:editorialNote "Figure label in repertorio: t"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:204410840,
@@ -13503,6 +13730,7 @@ diga_terms:3397648348 a skos:Concept ;
         diga_terms:3026927929 ;
     skos:editorialNote "Figure label in repertorio: c10"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:relatedMatch aat:300010338 ;
     skosxl:altLabel diga_terms:1304359723,
         diga_terms:1636443412 ;
     skosxl:prefLabel diga_terms:2069167659,
@@ -13523,6 +13751,7 @@ diga_terms:340402200 a skos:Concept ;
     dc:identifier "340402200" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:closeMatch aat:300261945 ;
     skos:editorialNote "Figure label in repertorio: 4.7"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1934570747,
@@ -13635,6 +13864,7 @@ diga_terms:3427747245 a skos:Concept ;
     dc:identifier "3427747245" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2418422748 ;
+    skos:broadMatch aat:300205139 ;
     skos:editorialNote "Figure label in repertorio: 5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1176751737,
@@ -13654,6 +13884,7 @@ diga_terms:3432778081 a skos:Concept ;
     dc:identifier "3432778081" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2295534461 ;
+    skos:closeMatch aat:300310188 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_3025b4b2,
         diga_terms:xl_it_55ef1f6e .
@@ -13704,6 +13935,7 @@ diga_terms:3446105369 a skos:Concept ;
         diga_terms:2125510282,
         diga_terms:599084705,
         diga_terms:973978663 ;
+    skos:closeMatch aat:300232185 ;
     skos:editorialNote "Figure label in repertorio: b3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2182558191,
@@ -13713,6 +13945,7 @@ diga_terms:344645747 a skos:Concept ;
     dc:identifier "344645747" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
+    skos:closeMatch aat:300187549 ;
     skos:editorialNote "Figure label in repertorio: 9.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1232914612,
@@ -13722,6 +13955,7 @@ diga_terms:3446525055 a skos:Concept ;
     dc:identifier "3446525055" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
+    skos:closeMatch aat:300005947 ;
     skos:editorialNote "Figure label in repertorio: 9.15"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2817601669,
@@ -13748,6 +13982,7 @@ diga_terms:3449760305 a skos:Concept ;
 diga_terms:3450847079 a skos:Concept ;
     dc:identifier "3450847079" ;
     skos-thes:broaderGeneric diga_terms:2550564563 ;
+    skos:broadMatch aat:300264666 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:4003978485,
         diga_terms:xl_it_a635968a .
@@ -13830,6 +14065,7 @@ diga_terms:3469675553 a skos:Concept ;
     dc:identifier "3469675553" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
+    skos:closeMatch aat:300310192 ;
     skos:editorialNote "Figure label in repertorio: v"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1215308990,
@@ -13984,6 +14220,7 @@ diga_terms:3497837747 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:789113240,
         diga_terms:928905638 ;
+    skos:closeMatch aat:300045998 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:299948177,
@@ -14044,6 +14281,7 @@ diga_terms:3504984198 a skos:Concept ;
     dc:identifier "3504984198" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1388835177 ;
+    skos:closeMatch aat:300191303 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1157567865,
@@ -14053,6 +14291,7 @@ diga_terms:350576088 a skos:Concept ;
     dc:identifier "350576088" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1022807358 ;
+    skos:closeMatch aat:300433638 ;
     skos:editorialNote "Figure label in repertorio: 10.9"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1589821820,
@@ -14084,6 +14323,7 @@ diga_terms:3508558499 a skos:Concept ;
     dc:identifier "3508558499" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2418422748 ;
+    skos:closeMatch aat:300042101 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_068eb3fd,
         diga_terms:xl_it_c945fd2e .
@@ -14158,6 +14398,7 @@ diga_terms:3528407314 a skos:Concept ;
     dc:identifier "3528407314" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2579616314 ;
+    skos:closeMatch aat:300233317 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:377001432,
@@ -14200,6 +14441,7 @@ diga_terms:3536654356 a skos:Concept ;
     dc:identifier "3536654356" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2100908533 ;
+    skos:closeMatch aat:300266529 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:1192282660 ;
@@ -14331,6 +14573,7 @@ diga_terms:3561542339 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:3057133484 ;
     skos:editorialNote "Figure label in repertorio: 4.3.1.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:relatedMatch aat:300263970 ;
     skosxl:prefLabel diga_terms:1955049338,
         diga_terms:3514250391 .
 
@@ -14403,6 +14646,7 @@ diga_terms:358097268 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:1390933319 ;
     skos-thes:broaderPartitive diga_terms:1645388688,
         diga_terms:646227285 ;
+    skos:closeMatch aat:300001811 ;
     skos:editorialNote "Figure label in repertorio: d"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3843037559,
@@ -14448,6 +14692,7 @@ diga_terms:3590021566 a skos:Concept ;
     dc:identifier "3590021566" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1510769166 ;
+    skos:closeMatch aat:300250022 ;
     skos:editorialNote "Figure label in repertorio: 5.1.3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1918981175,
@@ -14490,6 +14735,7 @@ diga_terms:3600487553 a skos:Concept ;
     dc:identifier "3600487553" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1246295649 ;
+    skos:closeMatch aat:300266475 ;
     skos:editorialNote "Figure label in repertorio: e"@en,
         "placed at the center of the slab and parallel to the front face"@en,
         "posizionato al centro dello spessore della lastra e parallelamente alla faccia ant."@it ;
@@ -14512,6 +14758,7 @@ diga_terms:3600660368 a skos:Concept ;
     dc:identifier "3600660368" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1748566320 ;
+    skos:closeMatch aat:300250870 ;
     skos:editorialNote "Figure label in repertorio: 5.3.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3870578486,
@@ -14560,6 +14807,7 @@ diga_terms:3607935642 a skos:Concept ;
     dc:identifier "3607935642" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2412577815 ;
+    skos:closeMatch aat:300000994 ;
     skos:editorialNote "Figure label in repertorio: 2.6.4.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1835721018,
@@ -14646,6 +14894,7 @@ diga_terms:3622536210 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2004519371,
         diga_terms:995615797 ;
+    skos:closeMatch aat:300002214 ;
     skos:editorialNote "Figure label in repertorio: e"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1466847078,
@@ -14817,6 +15066,7 @@ diga_terms:3663796683 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1199973794 ;
     skos-thes:broaderPartitive diga_terms:680026760 ;
+    skos:closeMatch aat:300046143 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:1397192127,
@@ -14874,6 +15124,7 @@ diga_terms:3675916508 a skos:Concept ;
     dc:identifier "3675916508" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:760167124 ;
+    skos:closeMatch aat:300194204 ;
     skos:editorialNote "Figure label in repertorio: 5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:267873741 ;
@@ -14924,6 +15175,7 @@ diga_terms:3683215874 a skos:Concept ;
     dc:identifier "3683215874" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:473170543 ;
+    skos:closeMatch aat:300379807 ;
     skos:editorialNote "Figure label in repertorio: 6.2.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2738031051,
@@ -14942,6 +15194,7 @@ diga_terms:3687310644 a skos:Concept ;
     dc:identifier "3687310644" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4085526670 ;
+    skos:closeMatch aat:300041897 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2003145543,
@@ -15010,6 +15263,7 @@ diga_terms:3696087783 a skos:Concept ;
     dc:identifier "3696087783" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:760167124 ;
+    skos:closeMatch aat:300041741 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3383977936,
@@ -15028,6 +15282,7 @@ diga_terms:3698795205 a skos:Concept ;
     dc:identifier "3698795205" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1731838996 ;
+    skos:closeMatch aat:300423650 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2558114818,
@@ -15070,6 +15325,7 @@ diga_terms:3703895338 a skos:Concept ;
     dc:identifier "3703895338" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:473170543 ;
+    skos:closeMatch aat:300132410 ;
     skos:editorialNote "Figure label in repertorio: 6.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2970966748,
@@ -15095,6 +15351,7 @@ diga_terms:3705676645 a skos:Concept ;
     dc:identifier "3705676645" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3088840584 ;
+    skos:closeMatch aat:300123316 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3548668158,
@@ -15104,6 +15361,7 @@ diga_terms:3707461682 a skos:Concept ;
     dc:identifier "3707461682" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
+    skos:closeMatch aat:300400752 ;
     skos:editorialNote "Figure label in repertorio: b1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:2310928293 ;
@@ -15114,6 +15372,7 @@ diga_terms:3707917847 a skos:Concept ;
     dc:identifier "3707917847" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2896914945 ;
+    skos:closeMatch aat:300164599 ;
     skos:editorialNote "Figure label in repertorio: 3.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1991757440,
@@ -15218,6 +15477,7 @@ diga_terms:3725792072 a skos:Concept ;
     dc:identifier "3725792072" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1319266649 ;
+    skos:closeMatch aat:300076157 ;
     skos:editorialNote "Figure label in repertorio: a3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2554938036,
@@ -15300,6 +15560,7 @@ diga_terms:3740833293 a skos:Concept ;
     dc:identifier "3740833293" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1020532692 ;
+    skos:closeMatch aat:300024668 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1162829826,
@@ -15311,6 +15572,7 @@ diga_terms:3742487414 a skos:Concept ;
     dc:identifier "3742487414" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:252269757 ;
+    skos:closeMatch aat:300002574 ;
     skos:editorialNote "Figure label in repertorio: 2.1.2.3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:247340706,
@@ -15560,6 +15822,7 @@ diga_terms:3785088996 a skos:Concept ;
     dc:identifier "3785088996" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2228467950 ;
+    skos:closeMatch aat:300201259 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2883576014,
@@ -15580,6 +15843,7 @@ diga_terms:3788997609 a skos:Concept ;
     dc:identifier "3788997609" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2423641414 ;
+    skos:closeMatch aat:300001703 ;
     skos:editorialNote "Figure label in repertorio: c6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:205199018,
@@ -15718,6 +15982,7 @@ diga_terms:3825224974 a skos:Concept ;
     dc:identifier "3825224974" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:350576088 ;
+    skos:closeMatch aat:300420286 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2946943783,
@@ -15799,6 +16064,7 @@ diga_terms:383723673 a skos:Concept ;
     dc:identifier "383723673" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:573338218 ;
+    skos:closeMatch aat:300430533 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_28967f7d,
@@ -15812,6 +16078,7 @@ diga_terms:3837898119 a skos:Concept ;
     dc:identifier "3837898119" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2100908533 ;
+    skos:closeMatch aat:300430508 ;
     skos:editorialNote "Figure label in repertorio: 5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3760624241,
@@ -15883,6 +16150,7 @@ diga_terms:385572195 a skos:Concept ;
     dc:identifier "385572195" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
+    skos:closeMatch aat:300400762 ;
     skos:editorialNote "Figure label in repertorio: a-a11"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2213197399,
@@ -15892,6 +16160,7 @@ diga_terms:3860640450 a skos:Concept ;
     dc:identifier "3860640450" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4085526670 ;
+    skos:broadMatch aat:300195372 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1077875639,
@@ -15942,6 +16211,7 @@ diga_terms:387838393 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2716416682,
         diga_terms:3553787664 ;
+    skos:closeMatch aat:300046080 ;
     skos:editorialNote "Figure label in repertorio: 6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3062115655,
@@ -15994,6 +16264,7 @@ diga_terms:3887182667 a skos:Concept ;
     dc:identifier "3887182667" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3030556597 ;
+    skos:closeMatch aat:300310557 ;
     skos:editorialNote "Figure label in repertorio: 5.2.5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3709754016,
@@ -16065,6 +16336,7 @@ diga_terms:3906619880 a skos:Concept ;
     dc:identifier "3906619880" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2269992085 ;
+    skos:closeMatch aat:300266639 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_add5e971,
         diga_terms:xl_it_fb620688 .
@@ -16197,6 +16469,7 @@ diga_terms:3946259546 a skos:Concept ;
     dc:identifier "3946259546" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2418422748 ;
+    skos:broadMatch aat:300042053 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1579936794,
@@ -16216,6 +16489,7 @@ diga_terms:3949443794 a skos:Concept ;
     dc:identifier "3949443794" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
+    skos:closeMatch aat:300178234 ;
     skos:editorialNote "Figure label in repertorio: 9.4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1804717754,
@@ -16370,6 +16644,7 @@ diga_terms:397870209 a skos:Concept ;
 diga_terms:398064358 a skos:Concept ;
     dc:identifier "398064358" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:closeMatch aat:300025653 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1202672761,
         diga_terms:xl_it_94cf6d65 .
@@ -16495,6 +16770,7 @@ diga_terms:4001952184 a skos:Concept ;
     dc:identifier "4001952184" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:360121625 ;
+    skos:closeMatch aat:300379798 ;
     skos:editorialNote "Figure label in repertorio: 3.2.1.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2641367966,
@@ -16593,6 +16869,7 @@ diga_terms:4020639112 a skos:Concept ;
         diga_terms:3603651106,
         diga_terms:3638812229,
         diga_terms:680026760 ;
+    skos:closeMatch aat:300046065 ;
     skos:editorialNote "Figure label in repertorio: g"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3688087340,
@@ -16631,6 +16908,7 @@ diga_terms:4030638624 a skos:Concept ;
     dc:identifier "4030638624" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
+    skos:closeMatch aat:300400787 ;
     skos:editorialNote "Figure label in repertorio: a3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1864987095,
@@ -16640,6 +16918,7 @@ diga_terms:4031291621 a skos:Concept ;
     dc:identifier "4031291621" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2100908533 ;
+    skos:closeMatch aat:300195885 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1314450163,
@@ -16745,6 +17024,7 @@ diga_terms:4050802417 a skos:Concept ;
     dc:identifier "4050802417" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1510769166 ;
+    skos:closeMatch aat:300250148 ;
     skos:editorialNote "Figure label in repertorio: 5.1.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1186516758,
@@ -16866,6 +17146,7 @@ diga_terms:4068645639 a skos:Concept ;
     dc:identifier "4068645639" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:760167124 ;
+    skos:broadMatch aat:300041729 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1251288113,
@@ -16876,6 +17157,7 @@ diga_terms:4068645639 a skos:Concept ;
 diga_terms:406891803 a skos:Concept ;
     dc:identifier "406891803" ;
     dct:source source:repertorio ;
+    skos:closeMatch aat:300249525 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:topConceptOf <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_454b9c42,
@@ -16901,6 +17183,7 @@ diga_terms:4073254187 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:2963759628,
         diga_terms:3262684865,
         diga_terms:4144698813 ;
+    skos:closeMatch aat:300209923 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1661529659,
@@ -16940,6 +17223,7 @@ diga_terms:4082339582 a skos:Concept ;
     dc:identifier "4082339582" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3869164083 ;
+    skos:closeMatch aat:300010082 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3421105903,
@@ -16949,6 +17233,7 @@ diga_terms:4083475564 a skos:Concept ;
     dc:identifier "4083475564" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2251868554 ;
+    skos:closeMatch aat:300178749 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_4981683d,
         diga_terms:xl_it_78ef5858 .
@@ -16964,6 +17249,7 @@ diga_terms:4085526670 a skos:Concept ;
     dc:identifier "4085526670" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2054426851 ;
+    skos:closeMatch aat:300041646 ;
     skos:editorialNote "Figure label in repertorio: 8.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1948470288,
@@ -16998,6 +17284,7 @@ diga_terms:408751725 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:2059185355,
         diga_terms:3603651106,
         diga_terms:3638812229 ;
+    skos:closeMatch aat:300391016 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1193452314,
@@ -17103,6 +17390,7 @@ diga_terms:4108258719 a skos:Concept ;
     dc:identifier "4108258719" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:678702193 ;
+    skos:closeMatch aat:300236074 ;
     skos:editorialNote "Figure label in repertorio: e"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3071159984,
@@ -17167,6 +17455,7 @@ diga_terms:4122785922 a skos:Concept ;
     dc:identifier "4122785922" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2722247433 ;
+    skos:closeMatch aat:300037126 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3053502295,
@@ -17197,6 +17486,7 @@ diga_terms:4130977338 a skos:Concept ;
 diga_terms:4132643010 a skos:Concept ;
     dc:identifier "4132643010" ;
     skos-thes:broaderGeneric diga_terms:715314803 ;
+    skos:closeMatch aat:300185692 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2944528352,
         diga_terms:xl_it_cdeaa796 .
@@ -17216,6 +17506,7 @@ diga_terms:4136788985 a skos:Concept ;
         diga_terms:647674876,
         diga_terms:673626200,
         diga_terms:862815569 ;
+    skos:closeMatch aat:300217610 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2024946799,
@@ -17263,6 +17554,7 @@ diga_terms:4149911257 a skos:Concept ;
     dc:identifier "4149911257" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3703895338 ;
+    skos:closeMatch aat:300132406 ;
     skos:editorialNote "Figure label in repertorio: 6.1.8"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2015172449,
@@ -17271,6 +17563,7 @@ diga_terms:4149911257 a skos:Concept ;
 diga_terms:4151523512 a skos:Concept ;
     dc:identifier "4151523512" ;
     skos-thes:broaderGeneric diga_terms:481543985 ;
+    skos:closeMatch aat:300386296 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:629926953,
         diga_terms:xl_it_9f907e12 .
@@ -17290,6 +17583,7 @@ diga_terms:4159501852 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1199973794 ;
     skos-thes:broaderPartitive diga_terms:233246311 ;
+    skos:closeMatch aat:300209874 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1750790855,
@@ -17367,6 +17661,7 @@ diga_terms:4172594730 a skos:Concept ;
     dc:identifier "4172594730" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2440649772 ;
+    skos:closeMatch aat:300003444 ;
     skos:editorialNote "Figure label in repertorio: b4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2882084271,
@@ -17444,6 +17739,7 @@ diga_terms:4183492946 a skos:Concept ;
     dc:identifier "4183492946" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2423641414 ;
+    skos:closeMatch aat:300001729 ;
     skos:editorialNote "Figure label in repertorio: c2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1779073146,
@@ -17475,6 +17771,7 @@ diga_terms:418619365 a skos:Concept ;
     dc:identifier "418619365" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1022807358 ;
+    skos:closeMatch aat:300404590 ;
     skos:editorialNote "Figure label in repertorio: 10.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2881648874,
@@ -17579,6 +17876,7 @@ diga_terms:42039075 a skos:Concept ;
     dc:identifier "42039075" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3066298879 ;
+    skos:closeMatch aat:300432895 ;
     skos:editorialNote "Figure label in repertorio: 9.11"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3438207321,
@@ -17638,6 +17936,7 @@ diga_terms:4209699013 a skos:Concept ;
     dc:identifier "4209699013" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:560059466 ;
+    skos:closeMatch aat:300250159 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1440027329,
@@ -17666,6 +17965,7 @@ diga_terms:421568728 a skos:Concept ;
     dc:identifier "421568728" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
+    skos:closeMatch aat:300421085 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1848950966,
@@ -17769,6 +18069,7 @@ diga_terms:4235579774 a skos:Concept ;
 diga_terms:4237203445 a skos:Concept ;
     dc:identifier "4237203445" ;
     skos-thes:broaderGeneric diga_terms:3725270573 ;
+    skos:closeMatch aat:300404698 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2867535262,
         diga_terms:xl_it_a1b1d7dc,
@@ -17925,6 +18226,7 @@ diga_terms:4255182947 a skos:Concept ;
     dc:identifier "4255182947" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:4040113531 ;
+    skos:closeMatch aat:300024743 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3447672909,
@@ -18003,6 +18305,7 @@ diga_terms:4268738249 a skos:Concept ;
 diga_terms:4270216435 a skos:Concept ;
     dc:identifier "4270216435" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:closeMatch aat:300185678 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:586330489,
         diga_terms:xl_it_6efe800b .
@@ -18101,6 +18404,7 @@ diga_terms:4285866280 a skos:Concept ;
         diga_terms:4144698813,
         diga_terms:4234043111,
         diga_terms:4265586120 ;
+    skos:closeMatch aat:300212298 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:233774278,
@@ -18122,6 +18426,7 @@ diga_terms:4289657625 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3553787664,
         diga_terms:928905638 ;
+    skos:closeMatch aat:300256830 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2348376266,
@@ -18224,6 +18529,7 @@ diga_terms:44837138 a skos:Concept ;
     dc:identifier "44837138" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:810895029 ;
+    skos:closeMatch aat:300195805 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3441747302,
@@ -18390,6 +18696,7 @@ diga_terms:465678417 a skos:Concept ;
         diga_terms:2261649275,
         diga_terms:599084705,
         diga_terms:973978663 ;
+    skos:closeMatch aat:300046127 ;
     skos:editorialNote "Figure label in repertorio: 4.6.2.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2194554698,
@@ -18418,6 +18725,7 @@ diga_terms:473170543 a skos:Concept ;
     dc:identifier "473170543" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:8285220534 ;
+    skos:closeMatch aat:300266061 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_c9e26656,
         diga_terms:xl_it_ea68e287 ;
@@ -18470,6 +18778,7 @@ diga_terms:478032090 a skos:Concept ;
     dc:identifier "478032090" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:863907056 ;
+    skos:closeMatch aat:300235475 ;
     skos:editorialNote "Figure label in repertorio: 3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1077758953,
@@ -18479,6 +18788,7 @@ diga_terms:478032090 a skos:Concept ;
 
 diga_terms:481543985 a skos:Concept ;
     dc:identifier "481543985" ;
+    skos:closeMatch aat:300189808 ;
     skos:topConceptOf <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_it_4b123be0 ;
     skosxl:prefLabel diga_terms:2479060795,
@@ -18558,6 +18868,7 @@ diga_terms:49457987 a skos:Concept ;
     dc:identifier "49457987" ;
     dct:source source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:715314803 ;
+    skos:closeMatch aat:300239666 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3269877750,
         diga_terms:xl_it_7e9d6fb4 .
@@ -18616,6 +18927,7 @@ diga_terms:511380959 a skos:Concept ;
     dc:identifier "511380959" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2922267194 ;
+    skos:closeMatch aat:300386175 ;
     skos:editorialNote "Figure label in repertorio: 2.1.1.7"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1361899948,
@@ -18763,6 +19075,7 @@ diga_terms:547547997 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1199973794 ;
     skos-thes:broaderPartitive diga_terms:762298113 ;
+    skos:closeMatch aat:300209930 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1047820514,
@@ -18897,6 +19210,7 @@ diga_terms:572250512 a skos:Concept ;
 diga_terms:573338218 a skos:Concept ;
     dc:identifier "573338218" ;
     dct:source source:repertorio ;
+    skos:closeMatch aat:300037680 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:topConceptOf <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_e1dfb3c2,
@@ -18927,6 +19241,7 @@ diga_terms:579472197 a skos:Concept ;
     dc:identifier "579472197" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2922267194 ;
+    skos:closeMatch aat:300001280 ;
     skos:editorialNote "Figure label in repertorio: 2.1.1.6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2745140621,
@@ -18936,6 +19251,7 @@ diga_terms:580305555 a skos:Concept ;
     dc:identifier "580305555" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:closeMatch aat:300025619 ;
     skos:editorialNote "Figure label in repertorio: 4.8"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1500801298,
@@ -18946,6 +19262,7 @@ diga_terms:584627584 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1510769166,
         diga_terms:4095112940 ;
+    skos:closeMatch aat:300250277 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3667415026,
@@ -18989,6 +19306,7 @@ diga_terms:594478313 a skos:Concept ;
     dc:identifier "594478313" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3073799863 ;
+    skos:closeMatch aat:300002504 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1406543912,
@@ -19016,6 +19334,7 @@ diga_terms:603559952 a skos:Concept ;
     dc:identifier "603559952" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3269212881 ;
+    skos:closeMatch aat:300036976 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:4009531008,
@@ -19027,6 +19346,7 @@ diga_terms:603997620 a skos:Concept ;
     dc:identifier "603997620" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1443780080 ;
+    skos:closeMatch aat:300213040 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_f8de9e23,
         diga_terms:xl_it_1020650d .
@@ -19104,6 +19424,7 @@ diga_terms:631764984 a skos:Concept ;
     dc:identifier "631764984" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:767185560 ;
+    skos:closeMatch aat:300258480 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:240432779,
@@ -19210,6 +19531,7 @@ diga_terms:645448160 a skos:Concept ;
     dc:identifier "645448160" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1569179484 ;
+    skos:closeMatch aat:300006207 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2241615174,
@@ -19272,6 +19594,7 @@ diga_terms:654331325 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3553787664,
         diga_terms:928905638 ;
+    skos:closeMatch aat:300046012 ;
     skos:editorialNote "Figure label in repertorio: 5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_18a45973,
@@ -19285,6 +19608,7 @@ diga_terms:657389733 a skos:Concept ;
     dc:identifier "657389733" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1022807358 ;
+    skos:closeMatch aat:300132254 ;
     skos:editorialNote "Figure label in repertorio: 10.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:37267949,
@@ -19346,6 +19670,7 @@ diga_terms:668408341 a skos:Concept ;
     dc:identifier "668408341" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1253760895 ;
+    skos:closeMatch aat:300400484 ;
     skos:editorialNote "Figure label in repertorio: o"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_b590c83d,
@@ -19405,6 +19730,7 @@ diga_terms:678702193 a skos:Concept ;
     dc:identifier "678702193" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:573338218 ;
+    skos:closeMatch aat:300038697 ;
     skos:editorialNote "Figure label in repertorio: 11.3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2860356496,
@@ -19414,6 +19740,7 @@ diga_terms:679290142 a skos:Concept ;
     dc:identifier "679290142" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
+    skos:closeMatch aat:300310193 ;
     skos:editorialNote "Figure label in repertorio: r"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1082818997,
@@ -19423,6 +19750,7 @@ diga_terms:6796578 a skos:Concept ;
     dc:identifier "6796578" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:473170543 ;
+    skos:closeMatch aat:300132397 ;
     skos:editorialNote "Figure label in repertorio: 6.2.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2014869718,
@@ -19464,6 +19792,7 @@ diga_terms:681183763 a skos:Concept ;
 diga_terms:681758381 a skos:Concept ;
     dc:identifier "681758381" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:closeMatch aat:300379217 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3670622025,
         diga_terms:xl_it_ea037c78 .
@@ -19523,6 +19852,7 @@ diga_terms:697228354 a skos:Concept ;
     dc:identifier "697228354" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1731838996 ;
+    skos:closeMatch aat:300024830 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1303268594,
@@ -19633,6 +19963,7 @@ diga_terms:722563615 a skos:Concept ;
     dc:identifier "722563615" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2579616314 ;
+    skos:closeMatch aat:300430897 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:2848247286,
@@ -19680,6 +20011,7 @@ diga_terms:730172965 a skos:Concept ;
     dc:identifier "730172965" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:407944529 ;
+    skos:closeMatch aat:300002280 ;
     skos:editorialNote "Figure label in repertorio: d"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:327234398,
@@ -19785,6 +20117,7 @@ diga_terms:752612554 a skos:Concept ;
     dc:identifier "752612554" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:324926850 ;
+    skos:closeMatch aat:300037206 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3088743530,
@@ -19808,6 +20141,7 @@ diga_terms:753986135 a skos:Concept ;
     skos-thes:broaderPartitive diga_terms:1949528160,
         diga_terms:2214199931,
         diga_terms:2623020308 ;
+    skos:closeMatch aat:300210002 ;
     skos:editorialNote "Figure label in repertorio: e"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3788529279,
@@ -19835,6 +20169,7 @@ diga_terms:760167124 a skos:Concept ;
     dc:identifier "760167124" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2054426851 ;
+    skos:closeMatch aat:300041661 ;
     skos:editorialNote "Figure label in repertorio: 8.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3140319537,
@@ -19853,6 +20188,7 @@ diga_terms:762866568 a skos:Concept ;
     dc:identifier "762866568" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1253760895 ;
+    skos:closeMatch aat:300007595 ;
     skos:editorialNote "Figure label in repertorio: t"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3208847004,
@@ -19911,6 +20247,7 @@ diga_terms:771660887 a skos:Concept ;
     dc:identifier "771660887" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:573338218 ;
+    skos:closeMatch aat:300204928 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1576524037,
@@ -20025,6 +20362,7 @@ diga_terms:793357615 a skos:Concept ;
     dc:identifier "793357615" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:4235579774 ;
+    skos:closeMatch aat:300024836 ;
     skos:editorialNote "Figure label in repertorio: 5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2108604492,
@@ -20036,6 +20374,7 @@ diga_terms:79756218 a skos:Concept ;
     dc:identifier "79756218" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1510769166 ;
+    skos:closeMatch aat:300250124 ;
     skos:editorialNote "Figure label in repertorio: 5.1.4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2272095309,
@@ -20154,6 +20493,7 @@ diga_terms:810895029 a skos:Concept ;
     dc:identifier "810895029" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1020532692 ;
+    skos:closeMatch aat:300196293 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_54b5931a,
         diga_terms:xl_it_a14da2a1 .
@@ -20173,6 +20513,7 @@ diga_terms:811760341 a skos:Concept ;
     dc:identifier "811760341" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:closeMatch aat:300025770 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1909091497,
@@ -20184,6 +20525,7 @@ diga_terms:812736555 a skos:Concept ;
     dc:identifier "812736555" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2483270731 ;
+    skos:closeMatch aat:300310195 ;
     skos:editorialNote "Figure label in repertorio: d"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3082794186,
@@ -20226,6 +20568,7 @@ diga_terms:815637397 a skos:Concept ;
 diga_terms:8160970580 a skos:Concept ;
     dc:identifier "8160970580" ;
     skos-thes:broaderGeneric diga_terms:1510769166 ;
+    skos:closeMatch aat:300250108 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_5a731d36,
         diga_terms:xl_it_dd9d5e34 .
@@ -20265,6 +20608,7 @@ diga_terms:824889805 a skos:Concept ;
     dc:identifier "824889805" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:678702193 ;
+    skos:closeMatch aat:300040450 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3865221620,
@@ -20342,6 +20686,7 @@ diga_terms:8446195989 a skos:Concept ;
     dc:identifier "8446195989" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:292026662 ;
+    skos:closeMatch aat:300001638 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_5fba32dd,
         diga_terms:xl_it_6decd7e3 .
@@ -20489,6 +20834,7 @@ diga_terms:867259720 a skos:Concept ;
     dc:identifier "867259720" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:3237930001 ;
+    skos:closeMatch aat:300400751 ;
     skos:editorialNote "Figure label in repertorio: c2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1679938838,
@@ -20536,6 +20882,7 @@ diga_terms:880247531 a skos:Concept ;
     dc:identifier "880247531" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1061008139 ;
+    skos:closeMatch aat:300039767 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1815675402,
@@ -20587,6 +20934,7 @@ diga_terms:893963818 a skos:Concept ;
     dc:identifier "893963818" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:3269212881 ;
+    skos:closeMatch aat:300036930 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2190291976,
@@ -20622,6 +20970,7 @@ diga_terms:898099937 a skos:Concept ;
         diga_terms:4172804394,
         diga_terms:4234043111,
         diga_terms:680026760 ;
+    skos:broadMatch aat:300209869 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3391041503,
@@ -20644,6 +20993,7 @@ diga_terms:900580374 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1731838996,
         diga_terms:3269212881 ;
+    skos:closeMatch aat:300036983 ;
     skos:editorialNote "Figure label in repertorio: 5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2521818905,
@@ -20693,6 +21043,7 @@ diga_terms:907509253 a skos:Concept ;
     dc:identifier "907509253" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:2844951834 ;
+    skos:closeMatch aat:300404713 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1516779773,
@@ -20795,6 +21146,7 @@ diga_terms:928905638 a skos:Concept ;
     dc:identifier "928905638" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2269992085 ;
+    skos:closeMatch aat:300209286 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_ecbef34c,
         diga_terms:xl_it_5d0ce7c4 .
@@ -20842,6 +21194,7 @@ diga_terms:932459847 a skos:Concept ;
     dc:identifier "932459847" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1194521837 ;
+    skos:closeMatch aat:300375684 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2350682994,
@@ -20873,6 +21226,7 @@ diga_terms:933490939 a skos:Concept ;
     dc:identifier "933490939" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:760167124 ;
+    skos:closeMatch aat:300195668 ;
     skos:editorialNote "Figure label in repertorio: 5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2245240192,
@@ -20994,6 +21348,7 @@ diga_terms:949640700 a skos:Concept ;
     dc:identifier "949640700" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2477530233 ;
+    skos:closeMatch aat:300139435 ;
     skos:editorialNote "Figure label in repertorio: 2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3103952137,
@@ -21148,6 +21503,7 @@ diga_terms:969213074 a skos:Concept ;
     dc:identifier "969213074" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1022807358 ;
+    skos:closeMatch aat:300162391 ;
     skos:editorialNote "Figure label in repertorio: 10.4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3670562213,
@@ -21241,6 +21597,7 @@ diga_terms:986724577 a skos:Concept ;
     dc:identifier "986724577" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:2412577815 ;
+    skos:closeMatch aat:300002726 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3611897201,
@@ -21296,6 +21653,7 @@ diga_terms:995615797 a skos:Concept ;
 diga_terms:99768892 a skos:Concept ;
     dc:identifier "99768892" ;
     skos-thes:broaderGeneric diga_terms:1597736316 ;
+    skos:closeMatch aat:300417635 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:4146522906,
         diga_terms:xl_it_427df46d .
@@ -40196,4 +40554,6 @@ diga_terms:xl_sa-Latn_fa491cdb a skosxl:Label ;
 
 diga_terms:xl_sa-Latn_fb5538b9 a skosxl:Label ;
     skosxl:literalForm "abhayamudrā"@sa-Latn .
+
+diga_terms:4034227742 skos:closeMatch aat:300379740 .
 
