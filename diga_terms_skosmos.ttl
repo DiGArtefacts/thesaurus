@@ -10924,10 +10924,14 @@ diga_terms:228131430 a skos:Concept ;
 diga_terms:2282157799 a skos:Concept ;
     dc:identifier "2282157799" ;
     skos-thes:broaderPartitive diga_terms:1540169115 ;
+    skos:altLabel "offerta di tessuti"@it ;
     skos:broader diga_terms:1540169115 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skos:prefLabel "offering of a cloth"@en ;
-    skosxl:prefLabel diga_terms:1487973473 .
+    skos:prefLabel "offering of a cloth"@en,
+        "offerta di stoffe"@it ;
+    skosxl:altLabel diga_terms:xl_it_773a13f5 ;
+    skosxl:prefLabel diga_terms:1487973473,
+        diga_terms:xl_it_30c2d167 .
 
 diga_terms:2282837463 a skos:Concept ;
     dc:identifier "2282837463" ;
@@ -27615,13 +27619,19 @@ diga_terms:537991175 a skos:Concept ;
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:558303909 ;
     skos:altLabel "mṛgaśiras, the parivrājaka who earned his living as skull-tapper"@en,
-        "the buddha and the skull tapper"@en ;
+        "the buddha and the skull tapper"@en,
+        "buddha e l'interrogatore di teschi"@it,
+        "incontro con il battitore di teschi"@it ;
     skos:broader diga_terms:558303909 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skos:prefLabel "encounter with the skull-tapper"@en ;
+    skos:prefLabel "encounter with the skull-tapper"@en,
+        "incontro con l'interrogatore di teschi"@it ;
     skosxl:altLabel diga_terms:1303868299,
-        diga_terms:xl_en_906b5bb3 ;
-    skosxl:prefLabel diga_terms:2132121523 .
+        diga_terms:xl_en_906b5bb3,
+        diga_terms:xl_it_0018aaee,
+        diga_terms:xl_it_0970779c ;
+    skosxl:prefLabel diga_terms:2132121523,
+        diga_terms:xl_it_33856cfa .
 
 diga_terms:538767290 a skos:Concept ;
     dc:identifier "538767290" ;
@@ -47892,6 +47902,9 @@ diga_terms:xl_en_fe7aec3c a skosxl:Label ;
 diga_terms:xl_en_febd5fc7 a skosxl:Label ;
     skosxl:literalForm "white dog"@en .
 
+diga_terms:xl_it_0018aaee a skosxl:Label ;
+    skosxl:literalForm "buddha e l'interrogatore di teschi"@it .
+
 diga_terms:xl_it_006faa81 a skosxl:Label ;
     skosxl:literalForm "miracolo di sankasya"@it .
 
@@ -47986,6 +47999,9 @@ diga_terms:xl_it_090d04a2 a skosxl:Label ;
 
 diga_terms:xl_it_094fe2a2 a skosxl:Label ;
     skosxl:literalForm "isisiṅga jātaka"@it .
+
+diga_terms:xl_it_0970779c a skosxl:Label ;
+    skosxl:literalForm "incontro con il battitore di teschi"@it .
 
 diga_terms:xl_it_09cb4dee a skosxl:Label ;
     skosxl:literalForm "subhadrā"@it .
@@ -48341,6 +48357,9 @@ diga_terms:xl_it_2eba0734 a skosxl:Label ;
 diga_terms:xl_it_30b37e59 a skosxl:Label ;
     skosxl:literalForm "ringhiera"@it .
 
+diga_terms:xl_it_30c2d167 a skosxl:Label ;
+    skosxl:literalForm "offerta di stoffe"@it .
+
 diga_terms:xl_it_3186f2f5 a skosxl:Label ;
     skosxl:literalForm "piṅgala"@it .
 
@@ -48362,6 +48381,9 @@ diga_terms:xl_it_3302c3a2 a skosxl:Label ;
 
 diga_terms:xl_it_3333b56c a skosxl:Label ;
     skosxl:literalForm "conservazione delle reliquie"@it .
+
+diga_terms:xl_it_33856cfa a skosxl:Label ;
+    skosxl:literalForm "incontro con l'interrogatore di teschi"@it .
 
 diga_terms:xl_it_33969cc2 a skosxl:Label ;
     skosxl:literalForm "balaustra orizzontale"@it .
@@ -48864,6 +48886,9 @@ diga_terms:xl_it_76d702ed a skosxl:Label ;
 
 diga_terms:xl_it_7701f334 a skosxl:Label ;
     skosxl:literalForm "falangi"@it .
+
+diga_terms:xl_it_773a13f5 a skosxl:Label ;
+    skosxl:literalForm "offerta di tessuti"@it .
 
 diga_terms:xl_it_77db19f0 a skosxl:Label ;
     skosxl:literalForm "re"@it .
