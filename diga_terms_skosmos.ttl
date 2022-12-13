@@ -3099,6 +3099,7 @@ diga_terms:1358247127 a skos:Concept ;
     skos:broader diga_terms:1444102995 ;
     skos:definition "A narrative in which, being fed up with his sheltered life in the royal palace, Prince Siddhārtha ventures out with his charioteer Chandaka. According to sources, Siddhārtha makes four encounters which led him to realise the impermanence of existence. Among these, is the encounter with a sick man suffering from a disease" ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Being fed up with his sheltered life in the royal palace, Prince Siddhārtha ventures out with his charioteer Chandaka. According to sources, Siddhārtha makes four encounters which led him to realize the impermanence of existence. Among these, is the encounter with a sick man suffering from a disease" ;
     skos:prefLabel "encounter with a sick man"@en,
         "incontro con un malato"@it ;
     skosxl:prefLabel diga_terms:2128985607,
@@ -4477,6 +4478,7 @@ diga_terms:1542174825 a skos:Concept ;
     skos:definition "A narrative scene in which Māyā gives birth to Siddhārtha holding the branches of a Sāla tree in the Lumbini Park. The infant emerges from the right side. Gods and supernatural beings witness the event." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:narrower diga_terms:1687164115 ;
+    skos:note "In the Lumbini Park, Māyā gives birth to Siddhārtha holding the branches of a Sāla tree. The infant emerges from the right side. Gods and supernatural beings witness the event." ;
     skos:prefLabel "buddha’s birth"@en,
         "nascita del buddha"@it ;
     skosxl:altLabel diga_terms:2174037833,
@@ -5312,6 +5314,7 @@ diga_terms:1641391203 a skos:Concept ;
     skos:broader diga_terms:2220524088 ;
     skos:definition "A narrative in which the Buddha, after attaining the Enlightenment in Bodh Gaya, travels to Sarnath. In the Deer Park, and initiates to his teachings five ascetics, with whom he had shared years of practice." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "After attaining the Enlightenment in Bodh Gaya, the Buddha travels to Sarnath. In the Deer Park, he initiates five ascetics to his teachings, with whom he had shared years of practice." ;
     skos:prefLabel "first sermon"@en,
         "primo sermone"@it,
         "dharmacakrapravartana"@sa-Latn ;
@@ -5691,6 +5694,7 @@ diga_terms:1682384564 a skos:Concept ;
     skos:broader diga_terms:1408741571 ;
     skos:definition "A narrative in which the Buddha, despite being ill after receiving food offerings, continues to travel until he is forced to stop at Kuśīnagar. Here, he announces to his retinue that he would soon be passing away. He then enters his final meditation and dies, reaching the nirvāṇa state." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Despite being ill after receiving food offerings, the Buddha continues to travel travelling until he is forceds to stop at Kuśīnagar. Here, he announces to his retinue that he would soon be passing away. He then enters his final meditation and dies, reaching the nirvāṇa state." ;
     skos:prefLabel "buddha’s death"@en,
         "morte del buddha"@it,
         "mahāparinirvāṇa"@sa-Latn ;
@@ -5748,6 +5752,7 @@ diga_terms:1687164115 a skos:Concept ;
     skos:broader diga_terms:1542174825 ;
     skos:definition "A narrative scene in which is represented the birth of Chandaka and Kanthaka. In the birth of Kanthaka, according to legends, Kanthaka, a marvellous white horse, was born the same day as Siddhārtha and became the Bodhisattva’s favourite." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Birth of Kanthaka: According to legends, Kanthaka, a marvellous white horse, was born the same day as Siddhārtha and became the Bodhisattva’s favourite." ;
     skos:prefLabel "simultaenous births"@en,
         "nascite simultanee"@it ;
     skosxl:altLabel diga_terms:1823043622,
@@ -9920,6 +9925,7 @@ diga_terms:2137379094 a skos:Concept ;
     skos:broader diga_terms:86855196 ;
     skos:definition "A narrative scene on the episode in which soon after his birth, Prince Siddhārtha walks seven steps uttering this was his last rebirth. Then, two streams of water poured by gods wash the body of the newborn." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Soon after his birth, Prince Siddhārtha walks seven steps uttering this was his last rebirth. Then, two streams of water poured by gods wash the body of the newborn." ;
     skos:prefLabel "first bath"@en,
         "primo bagno"@it ;
     skosxl:altLabel diga_terms:703752736,
@@ -13657,6 +13663,7 @@ diga_terms:2541474748 a skos:Concept ;
     skos:broader diga_terms:86855196 ;
     skos:definition "A narrative scene in which Māyā, the queen consort of Śuddhodana, dreams of a white elephant entering her womb through her right side. As soon as she wakes up, she finds out to be pregnant." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Māyā, the queen consort of Śuddhodana, dreams of a white elephant entering her womb through her right side. As soon as she wakes up, she finds out to be pregnant." ;
     skos:prefLabel "māyā’s dream"@en,
         "sogno di māyā"@it ;
     skosxl:altLabel diga_terms:1710888179,
@@ -14338,6 +14345,7 @@ diga_terms:2629481206 a skos:Concept ;
     skos:broader diga_terms:4084501634 ;
     skos:definition "A narrative about how Prince Siddhārtha leaves the palace at night mounting his horse Kanthaka and accompanied by his loyal charioteer Chandaka. According to legends, spirits supported the hooves of the horse to prevent noise and wake up Siddhārtha’s family." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Prince Siddhārtha leaves the palace at night mounting his horse Kanthaka and accompanied by his loyal charioteer Chandaka. According to legends, spirits supported the hooves of the horse to prevent noise and wake up Siddhārtha’s family." ;
     skos:prefLabel "great departure"@en,
         "grande partenza"@it,
         "mahābhiniṣkramaṇa"@sa-Latn ;
@@ -16410,6 +16418,7 @@ diga_terms:2891138109 a skos:Concept ;
     skos:broader diga_terms:2220524088 ;
     skos:definition "A narrative in which the Buddha shows reluctance to teach the Dharma soon after attaining the Enlightenment. The gods Brahmā and Indra urge the Buddha to overcome his hesitation, persuading him to deliver his teachings." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "The Buddha shows reluctance to teach the Dharma soon after attaining the Enlightenment. The gods Brahmā and Indra urge the Buddha to overcome his hesitation, persuading him to deliver his teachings." ;
     skos:prefLabel "gods entreat the buddha to preach"@en,
         "dei esortano il buddha a predicare"@it ;
     skosxl:altLabel diga_terms:xl_en_a7d790f8 ;
@@ -16479,6 +16488,7 @@ diga_terms:2897730138 a skos:Concept ;
     skos:broader diga_terms:2220524088 ;
     skos:definition "A narrative with the Buddha meditating in a cave when the god Indra approaches him with the gandharva Pañcasika. The gandharva plays the harp to draw the attention of the Buddha, who eventually answers Indra’s questions on the causes of suffering in living beings." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "The Buddha was meditating in a cave when the god Indra approaches him with the gandharva Pañcasika. The gandharva plays the harp to draw the attention of the Buddha, who eventually answers Indra’s questions on the causes of suffering in living beings." ;
     skos:prefLabel "visit of indra"@en,
         "visita di indra"@it,
         "indraśailaguhā"@sa-Latn ;
@@ -16593,6 +16603,7 @@ diga_terms:2912783977 a skos:Concept ;
         diga_terms:846409897,
         diga_terms:9459176676,
         diga_terms:950146588 ;
+    skos:note "Prince Siddhārtha proves his physical prowess and skills in archery, swordsmanship, wrestling, and other athletic practices." ;
     skos:prefLabel "competitions"@en,
         "gare atletiche"@it ;
     skosxl:altLabel diga_terms:3890220451,
@@ -20855,6 +20866,7 @@ diga_terms:3452258354 a skos:Concept ;
     skos:broader diga_terms:3265678001 ;
     skos:definition "A scene representing Maitreya in the Tuṣita heaven. The Tuṣita is the abode of the buddha-to-be Maitreya. Bodhisattvas in general are said to be residing there before they are reborn in the human realm as buddhas." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "The Tuṣita is the abode of the buddha-to-be Maitreya. Bodhisattvas in general are said to be residing there before they are reborn in the human realm as buddhas." ;
     skos:prefLabel "bodhisattva maitreya in tuṣita heaven"@en,
         "bodhisattva maitreya nel paradiso tuṣita"@it ;
     skosxl:prefLabel diga_terms:3388414562,
@@ -21063,6 +21075,7 @@ diga_terms:3483299088 a skos:Concept ;
     skos:broader diga_terms:1115524268 ;
     skos:definition "A narrative scene in which the ascetic Sumedha pays homage to Dīpaṅkara – a buddha of the past – with flowers obtained from a girl, and by lying himself down and spreading his hair on the ground to make a passage over the mud for the Awakened One. Then, Dīpaṅkara predicts that Sumedha will reach the enlightenment and become the buddha Siddhārtha in a future existence." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "The ascetic Sumedha pays homage to Dīpaṅkara – a buddha of the past – with flowers obtained from a girl, and by lying himself down and spreading his hair on the ground to make a passage over the mud for the Awakened One. Then, Dīpaṅkara predicts that Sumedha will reach the enlightenment and become the buddha Siddhārtha in a future existence." ;
     skos:prefLabel "dīpaṅkara legend"@en,
         "leggenda di dīpaṅkara"@it ;
     skosxl:altLabel diga_terms:1240526913,
@@ -22272,6 +22285,7 @@ diga_terms:3640972033 a skos:Concept ;
     skos:broader diga_terms:2220524088 ;
     skos:definition "A narrative in which sixteen wandering ascetics pays the Buddha a visit in Śrāvastī. Astounded by his teachings, they eventually convert to Buddhism." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Sixteen wandering ascetics pays the Buddha a visit in Śrāvastī. Astounded by his teachings, they eventually convert to Buddhism." ;
     skos:prefLabel "visit of the ascetics"@en,
         "visita degli asceti"@it ;
     skosxl:altLabel diga_terms:168167536,
@@ -24660,6 +24674,7 @@ diga_terms:3995440451 a skos:Concept ;
     skos:broader diga_terms:322692987 ;
     skos:definition "A narrative in which Prince Siddhārtha is taken to school to be educated as befits his rank. He proves to be well-learned in all the sciences, including writing." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Prince Siddhārtha is taken to school to be educated as befits his rank. He proves to be well-learned in all the sciences, including writing." ;
     skos:prefLabel "siddhārtha in school"@en,
         "giovane siddharta in classe"@it ;
     skosxl:altLabel diga_terms:2380877713,
@@ -25383,6 +25398,7 @@ diga_terms:4084501634 a skos:Concept ;
         diga_terms:2763289937,
         diga_terms:3704017620,
         diga_terms:503776940 ;
+    skos:note "Despising the enchantment of royal life, Prince Siddhārtha leaves the palace and his family in the middle of the night to embrace asceticism, in order to find a way to end suffering and rebirth." ;
     skos:prefLabel "renounciation to princely life"@en,
         "rinuncia alla vita di corte"@it ;
     skosxl:prefLabel diga_terms:3399202554,
