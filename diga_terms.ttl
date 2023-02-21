@@ -28,6 +28,21 @@ diga_terms:028677063 a skos:Concept ;
     skosxl:prefLabel diga_terms:xl_en_eacabab4,
         diga_terms:xl_it_141818db .
 
+diga_terms:0399840455 a skos:Concept ;
+    dc:identifier "0399840455" ;
+    skos-thes:broaderGeneric diga_terms:4623397783 ;
+    skos-thes:broaderPartitive diga_terms:1495185932 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_55761868,
+        diga_terms:xl_it_2c6facd7 .
+
+diga_terms:0488902640 a skos:Concept ;
+    dc:identifier "0488902640" ;
+    skos-thes:broaderGeneric diga_terms:1250872971 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_6c25707e,
+        diga_terms:xl_it_ef96975b .
+
 diga_terms:069441103 a skos:Concept ;
     dc:identifier "069441103" ;
     dct:source source:repertorio ;
@@ -53,6 +68,13 @@ diga_terms:0870424981 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_724474e3,
         diga_terms:xl_it_1ed808d8 .
+
+diga_terms:0993667635 a skos:Concept ;
+    dc:identifier "0993667635" ;
+    skos-thes:broaderGeneric diga_terms:8990981754 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_c1303289,
+        diga_terms:xl_it_ce266c13 .
 
 diga_terms:1000747715 a skos:Concept ;
     dc:identifier "1000747715" ;
@@ -682,7 +704,8 @@ diga_terms:1128994496 a skos:Concept ;
     skosxl:altLabel diga_terms:xl_en_adac93c4,
         diga_terms:xl_it_7cecfaee ;
     skosxl:prefLabel diga_terms:1928316798,
-        diga_terms:3121397449 ;
+        diga_terms:3121397449,
+        diga_terms:xl_sa-Latn_bb23ca00 ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-160_Graphic_1623225612344_77.png>,
         <https://w3id.org/diga/illustrations/1128994496> .
 
@@ -1201,6 +1224,13 @@ diga_terms:1213365437 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2446788727,
         diga_terms:2916642009 .
+
+diga_terms:1214100279 a skos:Concept ;
+    dc:identifier "1214100279" ;
+    skos-thes:broaderGeneric diga_terms:3607935642 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_5fd46f19,
+        diga_terms:xl_it_ee3da043 .
 
 diga_terms:1215741717 a skos:Concept ;
     dc:identifier "1215741717" ;
@@ -1911,6 +1941,13 @@ diga_terms:1333564173 a skos:Concept ;
     skosxl:prefLabel diga_terms:1735960617,
         diga_terms:440984298 .
 
+diga_terms:1333890193 a skos:Concept ;
+    dc:identifier "1333890193" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_1b48d971,
+        diga_terms:xl_it_72d07c96 .
+
 diga_terms:134005232 a skos:Concept ;
     dc:identifier "134005232" ;
     dct:source source:repertorio ;
@@ -2016,6 +2053,7 @@ diga_terms:1357447984 a skos:Concept ;
 diga_terms:1358247127 a skos:Concept ;
     dc:identifier "1358247127" ;
     skos-thes:broaderPartitive diga_terms:1444102995 ;
+    skos:definition "A narrative in which, being fed up with his sheltered life in the royal palace, Prince Siddhārtha ventures out with his charioteer Chandaka. According to sources, Siddhārtha makes four encounters which led him to realise the impermanence of existence. Among these, is the encounter with a sick man suffering from a disease" ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2128985607,
         diga_terms:xl_it_93001f97 .
@@ -2173,6 +2211,14 @@ diga_terms:138477585 a skos:Concept ;
         diga_terms:850419860 ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-059_Graphic_1621258363362_523.png>,
         <https://w3id.org/diga/illustrations/138477585> .
+
+diga_terms:1386660779 a skos:Concept ;
+    dc:identifier "1386660779" ;
+    skos-thes:broaderGeneric diga_terms:3788359990 ;
+    skos:closeMatch <http://vocab.getty.edu/page/aat/300009936> ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_bec514e5,
+        diga_terms:xl_it_51f576e9 .
 
 diga_terms:1388835177 a skos:Concept ;
     dc:identifier "1388835177" ;
@@ -2662,6 +2708,7 @@ diga_terms:1483637870 a skos:Concept ;
 diga_terms:1483756094 a skos:Concept ;
     dc:identifier "1483756094" ;
     dct:source source:repertorio ;
+    skos-thes:broaderGeneric diga_terms:4678669915 ;
     skos-thes:broaderPartitive diga_terms:3725714072 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -3002,6 +3049,7 @@ diga_terms:1542174825 a skos:Concept ;
         source:faccenna_sculptures_1962,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:86855196 ;
+    skos:definition "A narrative scene in which Māyā gives birth to Siddhārtha holding the branches of a Sāla tree in the Lumbini Park. The infant emerges from the right side. Gods and supernatural beings witness the event." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:2174037833,
         diga_terms:xl_en_297c4316,
@@ -3190,14 +3238,10 @@ diga_terms:1588363877 a skos:Concept ;
 diga_terms:1588656086 a skos:Concept ;
     dc:identifier "1588656086" ;
     skos-thes:broaderGeneric diga_terms:2498849496 ;
-    skos:definition "the woman who gave lotus flowers to Sumedha in the Dīpaṅkara legend" ;
+    skos:definition "there is no agreement in the sources on her proper name" ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:altLabel diga_terms:xl_en_9fc89916,
-        diga_terms:xl_it_94d1edf1,
-        diga_terms:xl_sa-Latn_5af1c0b6 ;
     skosxl:prefLabel diga_terms:xl_en_8876a2f7,
-        diga_terms:xl_it_43a5da34,
-        diga_terms:xl_sa-Latn_d5cab1a6 .
+        diga_terms:xl_it_43a5da34 .
 
 diga_terms:1593160242 a skos:Concept ;
     dc:identifier "1593160242" ;
@@ -3521,6 +3565,7 @@ diga_terms:1641391203 a skos:Concept ;
         source:faccenna_sculptures_1962,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:2220524088 ;
+    skos:definition "A narrative in which the Buddha, after attaining the Enlightenment in Bodh Gaya, travels to Sarnath. In the Deer Park, and initiates to his teachings five ascetics, with whom he had shared years of practice." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:839309612,
         diga_terms:xl_it_1a70315a ;
@@ -3733,7 +3778,7 @@ diga_terms:1674753413 a skos:Concept ;
 diga_terms:167627330 a skos:Concept ;
     dc:identifier "167627330" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:302342098 ;
+    skos-thes:broaderGeneric diga_terms:302342098 ;
     skos-thes:broaderPartitive diga_terms:233761752,
         diga_terms:2990742024 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
@@ -3778,6 +3823,7 @@ diga_terms:1682384564 a skos:Concept ;
         source:faccenna_sculptures_1962,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:1408741571 ;
+    skos:definition "A narrative in which the Buddha, despite being ill after receiving food offerings, continues to travel until he is forced to stop at Kuśīnagar. Here, he announces to his retinue that he would soon be passing away. He then enters his final meditation and dies, reaching the nirvāṇa state." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:2276627476,
         diga_terms:2792729347,
@@ -3799,6 +3845,7 @@ diga_terms:1687164115 a skos:Concept ;
     dc:identifier "1687164115" ;
     dct:source source:ali_qazi_peshawar_2008 ;
     skos-thes:broaderGeneric diga_terms:1542174825 ;
+    skos:definition "A narrative scene in which is represented the birth of Chandaka and Kanthaka. In the birth of Kanthaka, according to legends, Kanthaka, a marvellous white horse, was born the same day as Siddhārtha and became the Bodhisattva’s favourite." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:1823043622,
         diga_terms:2191244562,
@@ -4194,7 +4241,7 @@ diga_terms:1742387565 a skos:Concept ;
 diga_terms:1743106017 a skos:Concept ;
     dc:identifier "1743106017" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:898099937 ;
+    skos-thes:broaderGeneric diga_terms:898099937 ;
     skos-thes:broaderPartitive diga_terms:1837706239,
         diga_terms:1986355847,
         diga_terms:647674876,
@@ -4572,7 +4619,7 @@ diga_terms:1801646931 a skos:Concept ;
 diga_terms:1801689686 a skos:Concept ;
     dc:identifier "1801689686" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:753986135 ;
+    skos-thes:broaderGeneric diga_terms:753986135 ;
     skos-thes:broaderPartitive diga_terms:3603651106,
         diga_terms:3638812229 ;
     skos:editorialNote "Figure label in repertorio: e1"@en ;
@@ -4756,7 +4803,7 @@ diga_terms:1821875508 a skos:Concept ;
 diga_terms:1822882443 a skos:Concept ;
     dc:identifier "1822882443" ;
     dct:source source:repertorio ;
-    skos-thes:broaderPartitive diga_terms:1495185932 ;
+    skos-thes:broaderPartitive diga_terms:0399840455 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2530544637,
@@ -5133,7 +5180,7 @@ diga_terms:1868891223 a skos:Concept ;
 diga_terms:1870458469 a skos:Concept ;
     dc:identifier "1870458469" ;
     dct:source source:repertorio ;
-    skos-thes:broaderGeneric diga_terms:3269212881 ;
+    skos-thes:broaderGeneric diga_terms:1107648326 ;
     skos:editorialNote "Figure label in repertorio: 7.5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:121695309,
@@ -5699,7 +5746,7 @@ diga_terms:1975878408 a skos:Concept ;
 diga_terms:1976200582 a skos:Concept ;
     dc:identifier "1976200582" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:302342098 ;
+    skos-thes:broaderGeneric diga_terms:302342098 ;
     skos-thes:broaderPartitive diga_terms:2480491321 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -6607,7 +6654,7 @@ diga_terms:2110816851 a skos:Concept ;
 diga_terms:2113238890 a skos:Concept ;
     dc:identifier "2113238890" ;
     dct:source source:repertorio ;
-    skos-thes:broaderGeneric diga_terms:3269212881 ;
+    skos-thes:broaderGeneric diga_terms:1107648326 ;
     skos:editorialNote "Figure label in repertorio: 7.6"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1076112448,
@@ -6773,6 +6820,7 @@ diga_terms:2137379094 a skos:Concept ;
     dct:source source:ali_qazi_peshawar_2008,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:86855196 ;
+    skos:definition "A narrative scene on the episode in which soon after his birth, Prince Siddhārtha walks seven steps uttering this was his last rebirth. Then, two streams of water poured by gods wash the body of the newborn." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:703752736,
         diga_terms:xl_en_216b1069 ;
@@ -7195,7 +7243,7 @@ diga_terms:2214199931 a skos:Concept ;
 diga_terms:2214285743 a skos:Concept ;
     dc:identifier "2214285743" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:753986135 ;
+    skos-thes:broaderGeneric diga_terms:753986135 ;
     skos-thes:broaderPartitive diga_terms:449446378 ;
     skos:editorialNote "Figure label in repertorio: c1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -7233,7 +7281,7 @@ diga_terms:2220524088 a skos:Concept ;
 diga_terms:2228090298 a skos:Concept ;
     dc:identifier "2228090298" ;
     dct:source source:repertorio ;
-    skos-thes:broaderPartitive diga_terms:1495185932 ;
+    skos-thes:broaderGeneric diga_terms:4623397783 ;
     skos:closeMatch aat:300303413 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -7487,7 +7535,7 @@ diga_terms:2266176442 a skos:Concept ;
 diga_terms:2268966680 a skos:Concept ;
     dc:identifier "2268966680" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:898099937 ;
+    skos-thes:broaderGeneric diga_terms:898099937 ;
     skos-thes:broaderPartitive diga_terms:2205794341 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -9079,6 +9127,7 @@ diga_terms:2534747475 a skos:Concept ;
 diga_terms:2537376800 a skos:Concept ;
     dc:identifier "2537376800" ;
     skos-thes:broaderGeneric diga_terms:322692987 ;
+    skos:definition "One or more scenes from the narrative in which Devadatta, Siddhārtha’s cousin, kills the white elephant at the city gate of Kapilavastu, blocking the passage. After Ānanda’s unsuccessful attempt to throw the animal away, the Bodhisattva managed to hurl it out the city’s wall thanks to his physical strength." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2899537582,
         diga_terms:xl_it_42296e65 .
@@ -9139,6 +9188,7 @@ diga_terms:2541474748 a skos:Concept ;
     dct:source source:ali_qazi_peshawar_2008,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:86855196 ;
+    skos:definition "A narrative scene in which Māyā, the queen consort of Śuddhodana, dreams of a white elephant entering her womb through her right side. As soon as she wakes up, she finds out to be pregnant." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:1710888179,
         diga_terms:3571430326,
@@ -9223,7 +9273,7 @@ diga_terms:2547728185 a skos:Concept ;
 diga_terms:2547733684 a skos:Concept ;
     dc:identifier "2547733684" ;
     dct:source source:repertorio ;
-    skos-thes:broaderPartitive diga_terms:1495185932 ;
+    skos-thes:broaderPartitive diga_terms:0399840455 ;
     skos:closeMatch aat:300011868 ;
     skos:editorialNote "Figure label in repertorio: d"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -9320,7 +9370,7 @@ diga_terms:2561944534 a skos:Concept ;
 diga_terms:2561975441 a skos:Concept ;
     dc:identifier "2561975441" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:2985326150 ;
+    skos-thes:broaderGeneric diga_terms:2985326150 ;
     skos-thes:broaderPartitive diga_terms:2400358993 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -9446,6 +9496,13 @@ diga_terms:2591138448 a skos:Concept ;
     skosxl:prefLabel diga_terms:112228800,
         diga_terms:1789953839 .
 
+diga_terms:2591624376 a skos:Concept ;
+    dc:identifier "2591624376" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_421bfdca,
+        diga_terms:xl_it_6d6a9d07 .
+
 diga_terms:2593931609 a skos:Concept ;
     dc:identifier "2593931609" ;
     dct:source source:repertorio ;
@@ -9462,6 +9519,7 @@ diga_terms:2598707406 a skos:Concept ;
     dct:source source:ali_qazi_peshawar_2008,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderPartitive diga_terms:1294853938 ;
+    skos:definition "A narrative in which Siddharthā and princess Yaśodharā get married according to the brahmanic tradition." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:24715278,
         diga_terms:xl_en_235d6945,
@@ -9613,6 +9671,7 @@ diga_terms:2629481206 a skos:Concept ;
         source:faccenna_sculptures_1962,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:4084501634 ;
+    skos:definition "A narrative about how Prince Siddhārtha leaves the palace at night mounting his horse Kanthaka and accompanied by his loyal charioteer Chandaka. According to legends, spirits supported the hooves of the horse to prevent noise and wake up Siddhārtha’s family." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_460d7406 ;
     skosxl:prefLabel diga_terms:3656614351,
@@ -10520,6 +10579,7 @@ diga_terms:2801773867 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:928905638 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:xl_en_42660cfb ;
     skosxl:prefLabel diga_terms:xl_en_06d8f13f,
         diga_terms:xl_it_a0691fcf .
 
@@ -11053,6 +11113,7 @@ diga_terms:2891138109 a skos:Concept ;
         source:faccenna_sculptures_1962,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:2220524088 ;
+    skos:definition "A narrative in which the Buddha shows reluctance to teach the Dharma soon after attaining the Enlightenment. The gods Brahmā and Indra urge the Buddha to overcome his hesitation, persuading him to deliver his teachings." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_a7d790f8 ;
     skosxl:prefLabel diga_terms:3750929732,
@@ -11093,6 +11154,7 @@ diga_terms:2897730138 a skos:Concept ;
         source:faccenna_sculptures_1962,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:2220524088 ;
+    skos:definition "A narrative with the Buddha meditating in a cave when the god Indra approaches him with the gandharva Pañcasika. The gandharva plays the harp to draw the attention of the Buddha, who eventually answers Indra’s questions on the causes of suffering in living beings." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:1861096908,
         diga_terms:3373013254,
@@ -11167,6 +11229,7 @@ diga_terms:2912783977 a skos:Concept ;
     dc:identifier "2912783977" ;
     dct:source source:ali_qazi_peshawar_2008 ;
     skos-thes:broaderGeneric diga_terms:322692987 ;
+    skos:definition "A narrative in which Prince Siddhārtha proves his physical prowess and skills in archery, swordsmanship, wrestling, and other athletic practices." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:3890220451,
         diga_terms:xl_it_81e042cf ;
@@ -11951,6 +12014,14 @@ diga_terms:3062948492 a skos:Concept ;
     skosxl:prefLabel diga_terms:2641298190,
         diga_terms:3543352330 .
 
+diga_terms:3063654775 a skos:Concept ;
+    dc:identifier "3063654775" ;
+    skos-thes:broaderGeneric diga_terms:928905638 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:xl_en_64cd3420 ;
+    skosxl:prefLabel diga_terms:xl_en_7f6d5042,
+        diga_terms:xl_it_62386094 .
+
 diga_terms:3065932382 a skos:Concept ;
     dc:identifier "3065932382" ;
     dct:source source:repertorio ;
@@ -12372,7 +12443,7 @@ diga_terms:3123058127 a skos:Concept ;
 diga_terms:3126905492 a skos:Concept ;
     dc:identifier "3126905492" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:1033872259 ;
+    skos-thes:broaderGeneric diga_terms:1033872259 ;
     skos-thes:broaderPartitive diga_terms:1328191325,
         diga_terms:1787243801,
         diga_terms:2623020308,
@@ -12715,7 +12786,8 @@ diga_terms:3210200949 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_c026d95b ;
     skosxl:prefLabel diga_terms:3386972910,
-        diga_terms:4128605600 ;
+        diga_terms:4128605600,
+        diga_terms:xl_sa-Latn_ca14e15d ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-090_Graphic_1621326391247_1362.png>,
         <https://w3id.org/diga/illustrations/3210200949> .
 
@@ -13191,7 +13263,7 @@ diga_terms:3283887969 a skos:Concept ;
 diga_terms:3284731700 a skos:Concept ;
     dc:identifier "3284731700" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:2368788473 ;
+    skos-thes:broaderGeneric diga_terms:2368788473 ;
     skos-thes:broaderPartitive diga_terms:2303783984 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -13271,7 +13343,7 @@ diga_terms:3295218077 a skos:Concept ;
 diga_terms:3299263218 a skos:Concept ;
     dc:identifier "3299263218" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:1350097528 ;
+    skos-thes:broaderGeneric diga_terms:1350097528 ;
     skos-thes:broaderPartitive diga_terms:1266171130,
         diga_terms:2061401887 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
@@ -13309,6 +13381,13 @@ diga_terms:3303530176 a skos:Concept ;
         diga_terms:507229199 ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-087_Graphic_1621326090626_1201.png>,
         <https://w3id.org/diga/illustrations/3303530176> .
+
+diga_terms:3304683163 a skos:Concept ;
+    dc:identifier "3304683163" ;
+    skos-thes:broaderGeneric diga_terms:1597736316 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_4cc37de1,
+        diga_terms:xl_it_5b51c322 .
 
 diga_terms:3305744078 a skos:Concept ;
     dc:identifier "3305744078" ;
@@ -14000,6 +14079,7 @@ diga_terms:3451728037 a skos:Concept ;
 diga_terms:3452258354 a skos:Concept ;
     dc:identifier "3452258354" ;
     skos-thes:broaderGeneric diga_terms:3265678001 ;
+    skos:definition "A scene representing Maitreya in the Tuṣita heaven. The Tuṣita is the abode of the buddha-to-be Maitreya. Bodhisattvas in general are said to be residing there before they are reborn in the human realm as buddhas." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3388414562,
         diga_terms:xl_it_011148bc .
@@ -14142,6 +14222,7 @@ diga_terms:3483299088 a skos:Concept ;
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:1115524268 ;
     rdfs:seeAlso "Bodhisattva aspires to buddhahood at the time of Dīpaṅkara Buddha (https://jatakastories.div.ed.ac.uk/story-clusters/bodhisattva-aspires-to-buddhahood-at-the-time-of-d/), Bodhisattva serves a Buddha of the past (https://jatakastories.div.ed.ac.uk/story-clusters/bodhisattva-serves-a-buddha-of-the-past/) "@en ;
+    skos:definition "A narrative scene in which the ascetic Sumedha pays homage to Dīpaṅkara – a buddha of the past – with flowers obtained from a girl, and by lying himself down and spreading his hair on the ground to make a passage over the mud for the Awakened One. Then, Dīpaṅkara predicts that Sumedha will reach the enlightenment and become the buddha Siddhārtha in a future existence." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:1240526913,
         diga_terms:xl_en_d24ddc7d ;
@@ -14201,7 +14282,7 @@ diga_terms:3492744325 a skos:Concept ;
 diga_terms:349289938 a skos:Concept ;
     dc:identifier "349289938" ;
     dct:source source:repertorio ;
-    skos-thes:broaderPartitive diga_terms:1495185932 ;
+    skos-thes:broaderPartitive diga_terms:0399840455 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2445442240,
@@ -14474,7 +14555,7 @@ diga_terms:3540300943 a skos:Concept ;
 diga_terms:3540965156 a skos:Concept ;
     dc:identifier "3540965156" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:4285866280 ;
+    skos-thes:broaderGeneric diga_terms:4285866280 ;
     skos-thes:broaderPartitive diga_terms:2320100902 ;
     skos:editorialNote "Figure label in repertorio: b1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -14695,6 +14776,8 @@ diga_terms:3590021566 a skos:Concept ;
     skos:closeMatch aat:300250022 ;
     skos:editorialNote "Figure label in repertorio: 5.1.3"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:xl_en_7c153844,
+        diga_terms:xl_it_be07f812 ;
     skosxl:prefLabel diga_terms:1918981175,
         diga_terms:3977293916 .
 
@@ -14967,6 +15050,7 @@ diga_terms:3640972033 a skos:Concept ;
     dc:identifier "3640972033" ;
     dct:source source:faccenna_sculptures_1962 ;
     skos-thes:broaderGeneric diga_terms:2220524088 ;
+    skos:definition "A narrative in which sixteen wandering ascetics pays the Buddha a visit in Śrāvastī. Astounded by his teachings, they eventually convert to Buddhism." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:168167536,
         diga_terms:2313387375,
@@ -14990,7 +15074,7 @@ diga_terms:364496503 a skos:Concept ;
 diga_terms:364551072 a skos:Concept ;
     dc:identifier "364551072" ;
     dct:source source:repertorio ;
-    skos-thes:broaderGeneric diga_terms:2638682681 ;
+    skos-thes:broaderGeneric diga_terms:8990981754 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3944120070,
@@ -15497,7 +15581,7 @@ diga_terms:3727181984 a skos:Concept ;
 diga_terms:3729817157 a skos:Concept ;
     dc:identifier "3729817157" ;
     dct:source source:repertorio ;
-    skos-thes:broaderGeneric diga_terms:2638682681 ;
+    skos-thes:broaderGeneric diga_terms:8990981754 ;
     skos:editorialNote "Figure label in repertorio: 5"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1155952319,
@@ -16431,7 +16515,7 @@ diga_terms:3937137535 a skos:Concept ;
 diga_terms:3940485442 a skos:Concept ;
     dc:identifier "3940485442" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:302342098 ;
+    skos-thes:broaderGeneric diga_terms:302342098 ;
     skos-thes:broaderPartitive diga_terms:2320100902 ;
     skos:editorialNote "Figure label in repertorio: a1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -16724,6 +16808,7 @@ diga_terms:3995440451 a skos:Concept ;
     dct:source source:ali_qazi_peshawar_2008,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:322692987 ;
+    skos:definition "A narrative in which Prince Siddhārtha is taken to school to be educated as befits his rank. He proves to be well-learned in all the sciences, including writing." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:2380877713,
         diga_terms:2393299316,
@@ -17103,7 +17188,7 @@ diga_terms:4062053867 a skos:Concept ;
 diga_terms:4062298994 a skos:Concept ;
     dc:identifier "4062298994" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:1033872259 ;
+    skos-thes:broaderGeneric diga_terms:1033872259 ;
     skos-thes:broaderPartitive diga_terms:1714708293,
         diga_terms:1949528160 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
@@ -17227,7 +17312,8 @@ diga_terms:4082339582 a skos:Concept ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3421105903,
-        diga_terms:4011518442 .
+        diga_terms:4011518442,
+        diga_terms:xl_sa-Latn_6cc0cff5 .
 
 diga_terms:4083475564 a skos:Concept ;
     dc:identifier "4083475564" ;
@@ -17241,6 +17327,7 @@ diga_terms:4083475564 a skos:Concept ;
 diga_terms:4084501634 a skos:Concept ;
     dc:identifier "4084501634" ;
     skos-thes:broaderGeneric diga_terms:833126424 ;
+    skos:definition "A narrative in which, despising the enchantment of royal life, Prince Siddhārtha leaves the palace and his family in the middle of the night to embrace asceticism, in order to find a way to end suffering and rebirth." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:3399202554,
         diga_terms:xl_it_9be16f11 .
@@ -17365,6 +17452,13 @@ diga_terms:4098337457 a skos:Concept ;
     skosxl:altLabel diga_terms:691370267 ;
     skosxl:prefLabel diga_terms:1035255228,
         diga_terms:xl_it_49bcec93 .
+
+diga_terms:4104859977 a skos:Concept ;
+    dc:identifier "4104859977" ;
+    skos-thes:broaderGeneric diga_terms:2776284763 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_b9d236e5,
+        diga_terms:xl_it_bf71af15 .
 
 diga_terms:4106844116 a skos:Concept ;
     dc:identifier "4106844116" ;
@@ -17501,7 +17595,7 @@ diga_terms:4136290256 a skos:Concept ;
 diga_terms:4136788985 a skos:Concept ;
     dc:identifier "4136788985" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:4285866280 ;
+    skos-thes:broaderGeneric diga_terms:4285866280 ;
     skos-thes:broaderPartitive diga_terms:1837706239,
         diga_terms:647674876,
         diga_terms:673626200,
@@ -17986,7 +18080,7 @@ diga_terms:4216783392 a skos:Concept ;
 diga_terms:4217350891 a skos:Concept ;
     dc:identifier "4217350891" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:929338965 ;
+    skos-thes:broaderGeneric diga_terms:929338965 ;
     skos-thes:broaderPartitive diga_terms:3088840584 ;
     skos:editorialNote "Figure label in repertorio: d"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -18470,6 +18564,7 @@ diga_terms:434773717 a skos:Concept ;
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:86855196 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Soon after his birth, Prince Siddhārtha walks seven steps uttering this was his last rebirth. Then, two streams of water poured by gods wash the body of the newborn." ;
     skosxl:prefLabel diga_terms:3394987324,
         diga_terms:xl_it_893eb6bf .
 
@@ -18630,6 +18725,13 @@ diga_terms:462104231 a skos:Concept ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-090_Graphic_1621326387134_1359.png>,
         <https://w3id.org/diga/illustrations/462104231> .
 
+diga_terms:4623397783 a skos:Concept ;
+    dc:identifier "4623397783" ;
+    skos-thes:broaderGeneric diga_terms:2269992085 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_b2bc58dd,
+        diga_terms:xl_it_04a5086b .
+
 diga_terms:463300558 a skos:Concept ;
     dc:identifier "463300558" ;
     dct:source source:repertorio ;
@@ -18713,6 +18815,15 @@ diga_terms:465769984 a skos:Concept ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-111_Graphic_1621407634314_2343.png>,
         <https://w3id.org/diga/illustrations/465769984> .
 
+diga_terms:4678669915 a skos:Concept ;
+    dc:identifier "4678669915" ;
+    skos-thes:broaderGeneric diga_terms:4623397783 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:xl_en_8fd0cae7 ;
+    skosxl:prefLabel diga_terms:xl_en_cc93117c,
+        diga_terms:xl_it_7d005f82,
+        diga_terms:xl_sa-Latn_43dbfec5 .
+
 diga_terms:471145664 a skos:Concept ;
     dc:identifier "471145664" ;
     dct:source source:repertorio ;
@@ -18735,7 +18846,7 @@ diga_terms:473170543 a skos:Concept ;
 diga_terms:475002872 a skos:Concept ;
     dc:identifier "475002872" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:1350097528 ;
+    skos-thes:broaderGeneric diga_terms:1350097528 ;
     skos-thes:broaderPartitive diga_terms:3057119138,
         diga_terms:660146388 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
@@ -18762,6 +18873,12 @@ diga_terms:475430345 a skos:Concept ;
         diga_terms:4159328194 ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-045_r_3.png>,
         <https://w3id.org/diga/illustrations/475430345> .
+
+diga_terms:4764581301 a skos:Concept ;
+    dc:identifier "4764581301" ;
+    skos-thes:broaderGeneric diga_terms:3725270573 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_976f5efe .
 
 diga_terms:477342002 a skos:Concept ;
     dc:identifier "477342002" ;
@@ -18812,6 +18929,13 @@ diga_terms:484583540 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1057952747,
         diga_terms:2602478327 .
+
+diga_terms:4850725539 a skos:Concept ;
+    dc:identifier "4850725539" ;
+    skos-thes:broaderGeneric diga_terms:1020532692 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_da6b3719,
+        diga_terms:xl_it_2fca475c .
 
 diga_terms:48595127 a skos:Concept ;
     dc:identifier "48595127" ;
@@ -18884,6 +19008,13 @@ diga_terms:4969261 a skos:Concept ;
         diga_terms:3987804722 ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-066_Graphic_1621325123839_688.png>,
         <https://w3id.org/diga/illustrations/4969261> .
+
+diga_terms:5027026987 a skos:Concept ;
+    dc:identifier "5027026987" ;
+    skos-thes:broaderGeneric diga_terms:8990981754 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_6cc7d29f,
+        diga_terms:xl_it_2d592ec0 .
 
 diga_terms:503776940 a skos:Concept ;
     dc:identifier "503776940" ;
@@ -18987,6 +19118,13 @@ diga_terms:527294150 a skos:Concept ;
     skosxl:prefLabel diga_terms:1981826424,
         diga_terms:4049651236 .
 
+diga_terms:5314168498 a skos:Concept ;
+    dc:identifier "5314168498" ;
+    skos-thes:broaderGeneric diga_terms:1912936226 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_d37e80e3,
+        diga_terms:xl_it_e4353975 .
+
 diga_terms:536990679 a skos:Concept ;
     dc:identifier "536990679" ;
     dct:source source:repertorio ;
@@ -19041,6 +19179,13 @@ diga_terms:543187180 a skos:Concept ;
         diga_terms:xl_it_864890af ;
     skosxl:prefLabel diga_terms:2806587770,
         diga_terms:3959690249 .
+
+diga_terms:5447401427 a skos:Concept ;
+    dc:identifier "5447401427" ;
+    skos-thes:broaderGeneric diga_terms:959054605 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_57c0a4bb,
+        diga_terms:xl_it_47df7d83 .
 
 diga_terms:545163129 a skos:Concept ;
     dc:identifier "545163129" ;
@@ -19636,10 +19781,17 @@ diga_terms:660750467 a skos:Concept ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-145_Graphic_1621417316195_6631.png>,
         <https://w3id.org/diga/illustrations/660750467> .
 
+diga_terms:6647489419 a skos:Concept ;
+    dc:identifier "6647489419" ;
+    skos-thes:broaderGeneric diga_terms:767185560 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_8a516021,
+        diga_terms:xl_it_33efd9fe .
+
 diga_terms:665239652 a skos:Concept ;
     dc:identifier "665239652" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:753986135 ;
+    skos-thes:broaderGeneric diga_terms:753986135 ;
     skos-thes:broaderPartitive diga_terms:233246311 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -19821,6 +19973,13 @@ diga_terms:688567513 a skos:Concept ;
         diga_terms:3743897175 ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-108_Graphic_1621407309858_1979.png>,
         <https://w3id.org/diga/illustrations/688567513> .
+
+diga_terms:6886420015 a skos:Concept ;
+    dc:identifier "6886420015" ;
+    skos-thes:broaderGeneric diga_terms:3788359990 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_3cfd919f,
+        diga_terms:xl_it_a97f159b .
 
 diga_terms:6889273995 a skos:Concept ;
     dc:identifier "6889273995" ;
@@ -20308,7 +20467,7 @@ diga_terms:776040095 a skos:Concept ;
 diga_terms:779982344 a skos:Concept ;
     dc:identifier "779982344" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:4285866280 ;
+    skos-thes:broaderGeneric diga_terms:4285866280 ;
     skos-thes:broaderPartitive diga_terms:1837706239,
         diga_terms:1986355847,
         diga_terms:233246311,
@@ -20318,6 +20477,13 @@ diga_terms:779982344 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2292206096,
         diga_terms:3949835533 .
+
+diga_terms:7818681383 a skos:Concept ;
+    dc:identifier "7818681383" ;
+    skos-thes:broaderGeneric diga_terms:1602652729 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_c44184a3,
+        diga_terms:xl_it_c2844584 .
 
 diga_terms:787989189 a skos:Concept ;
     dc:identifier "787989189" ;
@@ -20462,7 +20628,7 @@ diga_terms:805157630 a skos:Concept ;
 diga_terms:80695728 a skos:Concept ;
     dc:identifier "80695728" ;
     dct:source source:repertorio ;
-    skos-thes:broaderInstantial diga_terms:753986135 ;
+    skos-thes:broaderGeneric diga_terms:753986135 ;
     skos-thes:broaderPartitive diga_terms:2997286712 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
@@ -20759,13 +20925,6 @@ diga_terms:853088858 a skos:Concept ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-198_Graphic_1621265369666_338.png>,
         <https://w3id.org/diga/illustrations/853088858> .
 
-diga_terms:854062034 a skos:Concept ;
-    dc:identifier "854062034" ;
-    skos-thes:broaderGeneric diga_terms:3265678001 ;
-    skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:prefLabel diga_terms:3738415953,
-        diga_terms:xl_it_47ecbca7 .
-
 diga_terms:85511418 a skos:Concept ;
     dc:identifier "85511418" ;
     skos-thes:broaderGeneric diga_terms:849867655 ;
@@ -20829,6 +20988,12 @@ diga_terms:864303630 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1217678120,
         diga_terms:604697555 .
+
+diga_terms:8657474713 a skos:Concept ;
+    dc:identifier "8657474713" ;
+    skos-thes:broaderGeneric diga_terms:4764581301 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_d252b8f1 .
 
 diga_terms:867259720 a skos:Concept ;
     dc:identifier "867259720" ;
@@ -20976,6 +21141,13 @@ diga_terms:898099937 a skos:Concept ;
     skosxl:prefLabel diga_terms:3391041503,
         diga_terms:67228117 .
 
+diga_terms:8990981754 a skos:Concept ;
+    dc:identifier "8990981754" ;
+    skos-thes:broaderGeneric diga_terms:2638682681 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_08613739,
+        diga_terms:xl_it_bed3c62b .
+
 diga_terms:899949042 a skos:Concept ;
     dc:identifier "899949042" ;
     dct:source source:repertorio ;
@@ -21080,6 +21252,13 @@ diga_terms:910945686 a skos:Concept ;
     skosxl:prefLabel diga_terms:1425414934,
         diga_terms:409872169 .
 
+diga_terms:9120800481 a skos:Concept ;
+    dc:identifier "9120800481" ;
+    skos-thes:broaderGeneric diga_terms:966828572 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_8d7e8226,
+        diga_terms:xl_it_b1efe388 .
+
 diga_terms:912360281 a skos:Concept ;
     dc:identifier "912360281" ;
     dct:source source:repertorio ;
@@ -21099,6 +21278,13 @@ diga_terms:912733733 a skos:Concept ;
         diga_terms:2399580146 ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-145_Graphic_1621417301954_6622.png>,
         <https://w3id.org/diga/illustrations/912733733> .
+
+diga_terms:9166923526 a skos:Concept ;
+    dc:identifier "9166923526" ;
+    skos-thes:broaderGeneric diga_terms:457283766 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_f46381ab,
+        diga_terms:xl_it_37860c55 .
 
 diga_terms:916793808 a skos:Concept ;
     dc:identifier "916793808" ;
@@ -21182,7 +21368,7 @@ diga_terms:930314176 a skos:Concept ;
 diga_terms:93120724 a skos:Concept ;
     dc:identifier "93120724" ;
     dct:source source:repertorio ;
-    skos-thes:broaderGeneric diga_terms:1912936226 ;
+    skos-thes:broaderGeneric diga_terms:5314168498 ;
     skos:editorialNote "Figure label in repertorio: 4"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2061491954,
@@ -21321,6 +21507,15 @@ diga_terms:941903941 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:192948932,
         diga_terms:1944699567 .
+
+diga_terms:9459176676 a skos:Concept ;
+    dc:identifier "9459176676" ;
+    skos-thes:broaderGeneric diga_terms:2912783977 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "The episode appears after the wrestling competition in the Sanghabhedavastu, MSV." ;
+    skosxl:prefLabel diga_terms:xl_en_b6b91b1c,
+        diga_terms:xl_it_8b4509de,
+        diga_terms:xl_sa-Latn_0d04d054 .
 
 diga_terms:948936427 a skos:Concept ;
     dc:identifier "948936427" ;
@@ -23787,7 +23982,7 @@ diga_terms:1521301187 a skosxl:Label ;
 
 diga_terms:1521338253 a skosxl:Label ;
     dct:source source:repertorio ;
-    skosxl:literalForm "focolare"@it .
+    skosxl:literalForm "fuoco sacrificale"@it .
 
 diga_terms:152265234 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -25356,7 +25551,7 @@ diga_terms:1951868163 a skosxl:Label ;
 
 diga_terms:1954536071 a skosxl:Label ;
     dct:source source:repertorio ;
-    skosxl:literalForm "fire-place"@en .
+    skosxl:literalForm "sacrificial fire-place"@en .
 
 diga_terms:1955049338 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -25738,7 +25933,7 @@ diga_terms:2060603269 a skosxl:Label ;
 
 diga_terms:2061491954 a skosxl:Label ;
     dct:source source:repertorio ;
-    skosxl:literalForm "balconies with arches (type) on columns, alternating with segmental triangular architrave; with railing-shaped parapet (or other type of motif)"@en .
+    skosxl:literalForm "balconies with arches on columns, alternating with segmental triangular architrave; with railing-shaped parapet or other type of motif"@en .
 
 diga_terms:2062635452 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -28078,7 +28273,7 @@ diga_terms:2665321080 a skosxl:Label ;
     skosxl:literalForm "goose in profile"@en .
 
 diga_terms:2665658622 a skosxl:Label ;
-    skosxl:literalForm "bodhisattva and devotee(s)"@en .
+    skosxl:literalForm "bodhisattva with donor(s) and/or devotee(s)"@en .
 
 diga_terms:2666261744 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -30843,7 +31038,7 @@ diga_terms:3383977936 a skosxl:Label ;
 
 diga_terms:3385506359 a skosxl:Label ;
     dct:source source:repertorio ;
-    skosxl:literalForm "balconi con archi (tipo) su colonne, alternati ad altri con architrave segmentato triangolare; con parapetto a balaustra (o ad altri motivi)"@it .
+    skosxl:literalForm "balconi con archi su colonne, alternati ad altri con architrave segmentato triangolare; con parapetto a balaustra o ad altri motivi"@it .
 
 diga_terms:338591403 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -32252,9 +32447,6 @@ diga_terms:3737595632 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "architraved door of vihāra with pseudo-trefoil arch roof covering"@en .
 
-diga_terms:3738415953 a skosxl:Label ;
-    skosxl:literalForm "bodhisattva and donor(s)"@en .
-
 diga_terms:373854111 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "carinated rosette petal"@en .
@@ -33084,7 +33276,7 @@ diga_terms:3941746175 a skosxl:Label ;
 
 diga_terms:3944120070 a skosxl:Label ;
     dct:source source:repertorio ;
-    skosxl:literalForm "fila di foglie ogivali, bordate [dritte] e dardi"@it .
+    skosxl:literalForm "fila di foglie ogivali bordate, e dardi"@it .
 
 diga_terms:3945128044 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -34419,7 +34611,7 @@ diga_terms:4287979707 a skosxl:Label ;
 
 diga_terms:4288970815 a skosxl:Label ;
     dct:source source:repertorio ;
-    skosxl:literalForm "row of bordered ogival [upright] leaf-and-dart"@en .
+    skosxl:literalForm "row of bordered ogival leaf-and-dart"@en .
 
 diga_terms:4289928388 a skosxl:Label ;
     skosxl:literalForm "mundane scenes"@en .
@@ -36667,6 +36859,9 @@ diga_terms:xl_en_076389a1 a skosxl:Label ;
 diga_terms:xl_en_0772e8b7 a skosxl:Label ;
     skosxl:literalForm "capital"@en .
 
+diga_terms:xl_en_08613739 a skosxl:Label ;
+    skosxl:literalForm "row of ogival leaves"@en .
+
 diga_terms:xl_en_088a79dc a skosxl:Label ;
     skosxl:literalForm "triratna"@en .
 
@@ -36734,6 +36929,9 @@ diga_terms:xl_en_1981ada5 a skosxl:Label ;
 
 diga_terms:xl_en_19b56a30 a skosxl:Label ;
     skosxl:literalForm "seated in european position"@en .
+
+diga_terms:xl_en_1b48d971 a skosxl:Label ;
+    skosxl:literalForm "garland bearer"@en .
 
 diga_terms:xl_en_1ca12a98 a skosxl:Label ;
     skosxl:literalForm "therioantropic figure with elephant legs"@en .
@@ -36886,6 +37084,9 @@ diga_terms:xl_en_3c7eafb8 a skosxl:Label ;
 diga_terms:xl_en_3c810d52 a skosxl:Label ;
     skosxl:literalForm "gift of the jetavana"@en .
 
+diga_terms:xl_en_3cfd919f a skosxl:Label ;
+    skosxl:literalForm "straight festoon with an alternating pattern of oblique weaving lines and pearls between listels"@en .
+
 diga_terms:xl_en_3d491df2 a skosxl:Label ;
     dct:source "Kucha Project https://kuchatest.saw-leipzig.de/pr"@en ;
     skosxl:literalForm "aśoka, as a boy who gives sand in the bowl of the buddha"@en .
@@ -36910,8 +37111,14 @@ diga_terms:xl_en_4101669e a skosxl:Label ;
 diga_terms:xl_en_4211757f a skosxl:Label ;
     skosxl:literalForm "lying position"@en .
 
+diga_terms:xl_en_421bfdca a skosxl:Label ;
+    skosxl:literalForm "vintner"@en .
+
 diga_terms:xl_en_425be61e a skosxl:Label ;
     skosxl:literalForm "capital with horizontal mouldings, with cavetto and ovolo"@en .
+
+diga_terms:xl_en_42660cfb a skosxl:Label ;
+    skosxl:literalForm "transverse necklace with stones"@en .
 
 diga_terms:xl_en_42f35bab a skosxl:Label ;
     dct:source source:repertorio ;
@@ -36981,6 +37188,9 @@ diga_terms:xl_en_4bb5361b a skosxl:Label ;
 diga_terms:xl_en_4c1d05ec a skosxl:Label ;
     skosxl:literalForm "trident"@en .
 
+diga_terms:xl_en_4cc37de1 a skosxl:Label ;
+    skosxl:literalForm "ferocious female deity"@en .
+
 diga_terms:xl_en_4ccd0bd4 a skosxl:Label ;
     skosxl:literalForm "kneecap"@en .
 
@@ -37041,6 +37251,9 @@ diga_terms:xl_en_5545e473 a skosxl:Label ;
 diga_terms:xl_en_556229a7 a skosxl:Label ;
     skosxl:literalForm "free-standing column and pillar"@en .
 
+diga_terms:xl_en_55761868 a skosxl:Label ;
+    skosxl:literalForm "cornucopia with animal protome"@en .
+
 diga_terms:xl_en_5588af2a a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "multi-storey aedicula with pediment"@en .
@@ -37060,6 +37273,9 @@ diga_terms:xl_en_56dcdf17 a skosxl:Label ;
 
 diga_terms:xl_en_56e4215f a skosxl:Label ;
     skosxl:literalForm "temptation by māra's daughters"@en .
+
+diga_terms:xl_en_57c0a4bb a skosxl:Label ;
+    skosxl:literalForm "branch of pipal with leaves and berries"@en .
 
 diga_terms:xl_en_583357d6 a skosxl:Label ;
     skosxl:literalForm "multiplication of the body"@en .
@@ -37105,6 +37321,9 @@ diga_terms:xl_en_5fbd0465 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "hair"@en .
 
+diga_terms:xl_en_5fd46f19 a skosxl:Label ;
+    skosxl:literalForm "voluted raised round arch with carinated extrados and purlins in the intrados"@en .
+
 diga_terms:xl_en_5fe9fb8e a skosxl:Label ;
     skosxl:literalForm "capital composed of horizontal mouldings, with ovolo"@en .
 
@@ -37116,6 +37335,9 @@ diga_terms:xl_en_61cac848 a skosxl:Label ;
 
 diga_terms:xl_en_64047ac5 a skosxl:Label ;
     skosxl:literalForm "bhūmī devī appearance"@en .
+
+diga_terms:xl_en_64cd3420 a skosxl:Label ;
+    skosxl:literalForm "criss-crossed chest ornament"@en .
 
 diga_terms:xl_en_64f81059 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -37163,6 +37385,12 @@ diga_terms:xl_en_6a90845d a skosxl:Label ;
 diga_terms:xl_en_6bac9ab1 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "bow with acrostilium"@en .
+
+diga_terms:xl_en_6c25707e a skosxl:Label ;
+    skosxl:literalForm "solar disk on crescent moon"@en .
+
+diga_terms:xl_en_6cc7d29f a skosxl:Label ;
+    skosxl:literalForm "row of upright ogival leaves"@en .
 
 diga_terms:xl_en_6e85dd33 a skosxl:Label ;
     skosxl:literalForm "droṇa's distribution of the buddha's relics"@en .
@@ -37232,6 +37460,9 @@ diga_terms:xl_en_7ba78295 a skosxl:Label ;
 diga_terms:xl_en_7c0c2489 a skosxl:Label ;
     skosxl:literalForm "palm of the right hand turned inwards at shoulder, chest height"@en .
 
+diga_terms:xl_en_7c153844 a skosxl:Label ;
+    skosxl:literalForm "deer"@en .
+
 diga_terms:xl_en_7c4dbb71 a skosxl:Label ;
     skosxl:literalForm "mahāsattva jātaka"@en .
 
@@ -37262,6 +37493,9 @@ diga_terms:xl_en_7da7cf50 a skosxl:Label ;
 diga_terms:xl_en_7ddb1427 a skosxl:Label ;
     dct:source "Kucha Project https://kuchatest.saw-leipzig.de/pr"@en ;
     skosxl:literalForm "visit of indra and gandhārva pañcaśikha to the buddha meditating in a cave"@en .
+
+diga_terms:xl_en_7f6d5042 a skosxl:Label ;
+    skosxl:literalForm "body chain"@en .
 
 diga_terms:xl_en_80a12c46 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -37310,11 +37544,14 @@ diga_terms:xl_en_87827d9d a skosxl:Label ;
     skosxl:literalForm "offering of kuśa grass"@en .
 
 diga_terms:xl_en_8876a2f7 a skosxl:Label ;
-    skosxl:literalForm "sumitra"@en .
+    skosxl:literalForm "woman who gave lotus flowers to sumedha in the dīpaṅkara legend"@en .
 
 diga_terms:xl_en_8a4b9272 a skosxl:Label ;
     dct:source "Kucha Project https://kuchatest.saw-leipzig.de/iconography/"@en ;
     skosxl:literalForm "prince or young brahmin gives his life to feed a starving tigress and her cubs"@en .
+
+diga_terms:xl_en_8a516021 a skosxl:Label ;
+    skosxl:literalForm "chamber pot"@en .
 
 diga_terms:xl_en_8a7cab36 a skosxl:Label ;
     skosxl:literalForm "decorated hip band"@en .
@@ -37328,6 +37565,9 @@ diga_terms:xl_en_8c0c0320 a skosxl:Label ;
 
 diga_terms:xl_en_8c356f30 a skosxl:Label ;
     skosxl:literalForm "bhadravargīya ascetics"@en .
+
+diga_terms:xl_en_8d7e8226 a skosxl:Label ;
+    skosxl:literalForm "buddha in a cave"@en .
 
 diga_terms:xl_en_8dfc6ec9 a skosxl:Label ;
     skosxl:literalForm "hair string"@en .
@@ -37345,6 +37585,9 @@ diga_terms:xl_en_8fbf6adf a skosxl:Label ;
 
 diga_terms:xl_en_8fc7cb2f a skosxl:Label ;
     skosxl:literalForm "sivi jātaka"@en .
+
+diga_terms:xl_en_8fd0cae7 a skosxl:Label ;
+    skosxl:literalForm "thunderbolt"@en .
 
 diga_terms:xl_en_906b5bb3 a skosxl:Label ;
     dct:source "Kucha Project https://kuchatest.saw-leipzig.de/pr"@en ;
@@ -37385,6 +37628,9 @@ diga_terms:xl_en_95ccbf4c a skosxl:Label ;
 diga_terms:xl_en_9667ede4 a skosxl:Label ;
     skosxl:literalForm "dress of young brahmin"@en .
 
+diga_terms:xl_en_976f5efe a skosxl:Label ;
+    skosxl:literalForm "animal characters"@en .
+
 diga_terms:xl_en_979d0aca a skosxl:Label ;
     skosxl:literalForm "archery contest"@en .
 
@@ -37408,9 +37654,6 @@ diga_terms:xl_en_9f8c2bdc a skosxl:Label ;
 diga_terms:xl_en_9fb5cdae a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "quiver with double case for arrows and bowsheath"@en .
-
-diga_terms:xl_en_9fc89916 a skosxl:Label ;
-    skosxl:literalForm "sumittā"@en .
 
 diga_terms:xl_en_a21dbe89 a skosxl:Label ;
     skosxl:literalForm "scale coat with scales curving downwards"@en .
@@ -37530,6 +37773,9 @@ diga_terms:xl_en_b16c24dd a skosxl:Label ;
 diga_terms:xl_en_b26eed23 a skosxl:Label ;
     skosxl:literalForm "conversion of the buddha's half cousin nanda"@en .
 
+diga_terms:xl_en_b2bc58dd a skosxl:Label ;
+    skosxl:literalForm "attributes"@en .
+
 diga_terms:xl_en_b3ad9243 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "elderly brahmin"@en .
@@ -37541,12 +37787,18 @@ diga_terms:xl_en_b6286167 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "staminal filament"@en .
 
+diga_terms:xl_en_b6b91b1c a skosxl:Label ;
+    skosxl:literalForm "cutting a bundle of reeds"@en .
+
 diga_terms:xl_en_b6cffeed a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "pteryges"@en .
 
 diga_terms:xl_en_b93fff0f a skosxl:Label ;
     skosxl:literalForm "gesture of listening with right hand holding left hand"@en .
+
+diga_terms:xl_en_b9d236e5 a skosxl:Label ;
+    skosxl:literalForm "door with round arch"@en .
 
 diga_terms:xl_en_baa042ab a skosxl:Label ;
     dct:source "Kucha Project https://kuchatest.saw-leipzig.de/iconography/"@en ;
@@ -37586,6 +37838,9 @@ diga_terms:xl_en_be52cee2 a skosxl:Label ;
 diga_terms:xl_en_be817c83 a skosxl:Label ;
     skosxl:literalForm "dharma in the trāyastriṃśa heaven"@en .
 
+diga_terms:xl_en_bec514e5 a skosxl:Label ;
+    skosxl:literalForm "wavy pattern"@en .
+
 diga_terms:xl_en_bed0f006 a skosxl:Label ;
     skosxl:literalForm "big toe"@en .
 
@@ -37610,6 +37865,9 @@ diga_terms:xl_en_c10301ae a skosxl:Label ;
 diga_terms:xl_en_c11ddf09 a skosxl:Label ;
     skosxl:literalForm "clothing ensemble"@en .
 
+diga_terms:xl_en_c1303289 a skosxl:Label ;
+    skosxl:literalForm "row of reverse ogival leaves"@en .
+
 diga_terms:xl_en_c1beef60 a skosxl:Label ;
     skosxl:literalForm "gesture of horns"@en .
 
@@ -37618,6 +37876,9 @@ diga_terms:xl_en_c3d34504 a skosxl:Label ;
 
 diga_terms:xl_en_c419fbee a skosxl:Label ;
     skosxl:literalForm "upper lip"@en .
+
+diga_terms:xl_en_c44184a3 a skosxl:Label ;
+    skosxl:literalForm "hand mirror"@en .
 
 diga_terms:xl_en_c58ff198 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -37651,6 +37912,9 @@ diga_terms:xl_en_cb234bbe a skosxl:Label ;
     dct:source "Kucha Project https://kuchatest.saw-leipzig.de/iconography/"@en ;
     skosxl:literalForm "man with a rotating fire wheel on his head"@en .
 
+diga_terms:xl_en_cc93117c a skosxl:Label ;
+    skosxl:literalForm "vajra"@en .
+
 diga_terms:xl_en_cdcb8444 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "stūpa, square in plan with cross-shaped stairways"@en .
@@ -37672,6 +37936,9 @@ diga_terms:xl_en_cf501d56 a skosxl:Label ;
 diga_terms:xl_en_d24ddc7d a skosxl:Label ;
     skosxl:literalForm "dīpaṃkara-vastu"@en .
 
+diga_terms:xl_en_d252b8f1 a skosxl:Label ;
+    skosxl:literalForm "kanthaka"@en .
+
 diga_terms:xl_en_d2b8991e a skosxl:Label ;
     skosxl:literalForm "conversion of the cannibal demon"@en .
 
@@ -37689,6 +37956,9 @@ diga_terms:xl_en_d3416657 a skosxl:Label ;
 diga_terms:xl_en_d356a31b a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "multi-storey pseudo-vihāra with four-sided curved sloping lower roof and dome"@en .
+
+diga_terms:xl_en_d37e80e3 a skosxl:Label ;
+    skosxl:literalForm "balcony"@en .
 
 diga_terms:xl_en_d3b7168a a skosxl:Label ;
     dct:source source:repertorio ;
@@ -37734,6 +38004,9 @@ diga_terms:xl_en_d94fe60f a skosxl:Label ;
 
 diga_terms:xl_en_da4ad03e a skosxl:Label ;
     skosxl:literalForm "āsana"@en .
+
+diga_terms:xl_en_da6b3719 a skosxl:Label ;
+    skosxl:literalForm "torch"@en .
 
 diga_terms:xl_en_dbaeaa0e a skosxl:Label ;
     skosxl:literalForm "upper underrobe"@en .
@@ -37824,6 +38097,9 @@ diga_terms:xl_en_f3f3261f a skosxl:Label ;
 
 diga_terms:xl_en_f42db064 a skosxl:Label ;
     skosxl:literalForm "seated in pensive position with both feet resting on the seat"@en .
+
+diga_terms:xl_en_f46381ab a skosxl:Label ;
+    skosxl:literalForm "row of half roundels with a border"@en .
 
 diga_terms:xl_en_f4832677 a skosxl:Label ;
     skosxl:literalForm "mouth fissure"@en .
@@ -37946,6 +38222,9 @@ diga_terms:xl_it_041c0f20 a skosxl:Label ;
 
 diga_terms:xl_it_0422753e a skosxl:Label ;
     skosxl:literalForm "allattamento da parte della donna morta"@it .
+
+diga_terms:xl_it_04a5086b a skosxl:Label ;
+    skosxl:literalForm "attributi"@it .
 
 diga_terms:xl_it_051764f8 a skosxl:Label ;
     skosxl:literalForm "medio"@it .
@@ -38237,7 +38516,7 @@ diga_terms:xl_it_1f623f87 a skosxl:Label ;
     skosxl:literalForm "calzari"@it .
 
 diga_terms:xl_it_1fe4afbd a skosxl:Label ;
-    skosxl:literalForm "bodhisattva e devoto/i"@it .
+    skosxl:literalForm "bodhisattva con donatore/i e/o devoto/i"@it .
 
 diga_terms:xl_it_1fed4973 a skosxl:Label ;
     skosxl:literalForm "visita dei sedici asceti"@it .
@@ -38336,9 +38615,15 @@ diga_terms:xl_it_2c3e7023 a skosxl:Label ;
 diga_terms:xl_it_2c69d448 a skosxl:Label ;
     skosxl:literalForm "posizione supina"@it .
 
+diga_terms:xl_it_2c6facd7 a skosxl:Label ;
+    skosxl:literalForm "cornucopia con protome animale"@it .
+
 diga_terms:xl_it_2cabec52 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "giavellotto"@it .
+
+diga_terms:xl_it_2d592ec0 a skosxl:Label ;
+    skosxl:literalForm "fila di foglie ogivali dritte"@it .
 
 diga_terms:xl_it_2dcb2e40 a skosxl:Label ;
     skosxl:literalForm "buddha con naga in adorazione"@it .
@@ -38349,6 +38634,9 @@ diga_terms:xl_it_2e805ffc a skosxl:Label ;
 diga_terms:xl_it_2eba0734 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "mortasa"@it .
+
+diga_terms:xl_it_2fca475c a skosxl:Label ;
+    skosxl:literalForm "torcia"@it .
 
 diga_terms:xl_it_30b37e59 a skosxl:Label ;
     skosxl:literalForm "ringhiera"@it .
@@ -38384,6 +38672,9 @@ diga_terms:xl_it_33856cfa a skosxl:Label ;
 diga_terms:xl_it_33969cc2 a skosxl:Label ;
     skosxl:literalForm "balaustra orizzontale"@it .
 
+diga_terms:xl_it_33efd9fe a skosxl:Label ;
+    skosxl:literalForm "vaso da notte"@it .
+
 diga_terms:xl_it_345099cc a skosxl:Label ;
     skosxl:literalForm "guardiana"@it .
 
@@ -38401,6 +38692,9 @@ diga_terms:xl_it_37384b4e a skosxl:Label ;
 
 diga_terms:xl_it_374642b4 a skosxl:Label ;
     skosxl:literalForm "vita da principe"@it .
+
+diga_terms:xl_it_37860c55 a skosxl:Label ;
+    skosxl:literalForm "fila di mezzi medaglioni con bordo"@it .
 
 diga_terms:xl_it_37e77e6b a skosxl:Label ;
     skosxl:literalForm "candakinnara jātaka"@it .
@@ -38483,7 +38777,7 @@ diga_terms:xl_it_427df46d a skosxl:Label ;
     skosxl:literalForm "genio"@it .
 
 diga_terms:xl_it_43a5da34 a skosxl:Label ;
-    skosxl:literalForm "sumitra"@it .
+    skosxl:literalForm "donatrice di fiori di loto a sumedha nella leggenda di dīpaṅkara"@it .
 
 diga_terms:xl_it_4427941b a skosxl:Label ;
     skosxl:literalForm "corpetto exomide di fibre"@it .
@@ -38504,8 +38798,8 @@ diga_terms:xl_it_477b25ee a skosxl:Label ;
 diga_terms:xl_it_47b69dac a skosxl:Label ;
     skosxl:literalForm "esortazione alla nascita"@it .
 
-diga_terms:xl_it_47ecbca7 a skosxl:Label ;
-    skosxl:literalForm "bodhisattva con donatore/i"@it .
+diga_terms:xl_it_47df7d83 a skosxl:Label ;
+    skosxl:literalForm "ramo di pipal con foglie e bacche"@it .
 
 diga_terms:xl_it_48f4fcd3 a skosxl:Label ;
     skosxl:literalForm "halteres"@it .
@@ -38610,6 +38904,9 @@ diga_terms:xl_it_50ed3ead a skosxl:Label ;
 diga_terms:xl_it_50fc2535 a skosxl:Label ;
     skosxl:literalForm "arco a tutto sesto a imposta rialzata con linea dell'estradosso a carena"@it .
 
+diga_terms:xl_it_51f576e9 a skosxl:Label ;
+    skosxl:literalForm "motivo ondulato"@it .
+
 diga_terms:xl_it_525dfff0 a skosxl:Label ;
     skosxl:literalForm "acroterio centrale"@it .
 
@@ -38678,6 +38975,9 @@ diga_terms:xl_it_5b011729 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "veste"@it .
 
+diga_terms:xl_it_5b51c322 a skosxl:Label ;
+    skosxl:literalForm "divinità femminile terrifica"@it .
+
 diga_terms:xl_it_5b92e3de a skosxl:Label ;
     skosxl:literalForm "grotta"@it .
 
@@ -38723,6 +39023,9 @@ diga_terms:xl_it_61a60fb4 a skosxl:Label ;
 
 diga_terms:xl_it_6206262d a skosxl:Label ;
     skosxl:literalForm "sileno"@it .
+
+diga_terms:xl_it_62386094 a skosxl:Label ;
+    skosxl:literalForm "ornamento a imbracatura incrociato sul petto"@it .
 
 diga_terms:xl_it_62550a9c a skosxl:Label ;
     dct:source source:repertorio ;
@@ -38809,6 +39112,9 @@ diga_terms:xl_it_6d6286e9 a skosxl:Label ;
 diga_terms:xl_it_6d64b9de a skosxl:Label ;
     skosxl:literalForm "asita"@it .
 
+diga_terms:xl_it_6d6a9d07 a skosxl:Label ;
+    skosxl:literalForm "vinificatore"@it .
+
 diga_terms:xl_it_6de7ad58 a skosxl:Label ;
     skosxl:literalForm "buddha (i/il) del passato"@it .
 
@@ -38850,6 +39156,9 @@ diga_terms:xl_it_71aab9b4 a skosxl:Label ;
 
 diga_terms:xl_it_726dc148 a skosxl:Label ;
     skosxl:literalForm "guardiano"@it .
+
+diga_terms:xl_it_72d07c96 a skosxl:Label ;
+    skosxl:literalForm "reggighirlanda"@it .
 
 diga_terms:xl_it_73a0e7f1 a skosxl:Label ;
     skosxl:literalForm "śalabhañjikā"@it .
@@ -38920,6 +39229,9 @@ diga_terms:xl_it_7cecfaee a skosxl:Label ;
 
 diga_terms:xl_it_7cfb45d3 a skosxl:Label ;
     skosxl:literalForm "gare atletiche"@it .
+
+diga_terms:xl_it_7d005f82 a skosxl:Label ;
+    skosxl:literalForm "vajra"@it .
 
 diga_terms:xl_it_7d0b686e a skosxl:Label ;
     skosxl:literalForm "partenza da kapilavastu"@it .
@@ -39070,6 +39382,9 @@ diga_terms:xl_it_8a12c52a a skosxl:Label ;
 diga_terms:xl_it_8ae0fc37 a skosxl:Label ;
     skosxl:literalForm "śuka"@it .
 
+diga_terms:xl_it_8b4509de a skosxl:Label ;
+    skosxl:literalForm "taglio del fascio di canne"@it .
+
 diga_terms:xl_it_8c44ad19 a skosxl:Label ;
     skosxl:literalForm "yavanī"@it .
 
@@ -39165,9 +39480,6 @@ diga_terms:xl_it_945b80dd a skosxl:Label ;
 
 diga_terms:xl_it_94cf6d65 a skosxl:Label ;
     skosxl:literalForm "danzatore"@it .
-
-diga_terms:xl_it_94d1edf1 a skosxl:Label ;
-    skosxl:literalForm "sumittā"@it .
 
 diga_terms:xl_it_9554660c a skosxl:Label ;
     skosxl:literalForm "discesa dal paradiso trāyastriṃśa"@it .
@@ -39336,6 +39648,9 @@ diga_terms:xl_it_a85efd20 a skosxl:Label ;
 diga_terms:xl_it_a874344c a skosxl:Label ;
     skosxl:literalForm "adorazione delle reliquie"@it .
 
+diga_terms:xl_it_a97f159b a skosxl:Label ;
+    skosxl:literalForm "festone decorativo rettilineo con un motivo obliquo di linee ondulate e file di perle alternate fra listelli lisci"@it .
+
 diga_terms:xl_it_a9c490fc a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "pettinatura monastica"@it .
@@ -39428,6 +39743,9 @@ diga_terms:xl_it_b0cfcd2a a skosxl:Label ;
 
 diga_terms:xl_it_b0e29b6a a skosxl:Label ;
     skosxl:literalForm "seduto nella posizione del loto"@it .
+
+diga_terms:xl_it_b1efe388 a skosxl:Label ;
+    skosxl:literalForm "buddha in grotta"@it .
 
 diga_terms:xl_it_b1f030cb a skosxl:Label ;
     skosxl:literalForm "kiṃnara"@it .
@@ -39548,6 +39866,9 @@ diga_terms:xl_it_bc6f5123 a skosxl:Label ;
 diga_terms:xl_it_bdfd8fb2 a skosxl:Label ;
     skosxl:literalForm "visita alla madre defunta"@it .
 
+diga_terms:xl_it_be07f812 a skosxl:Label ;
+    skosxl:literalForm "gazella"@it .
+
 diga_terms:xl_it_be1e3df9 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "mensola a forma di s"@it .
@@ -39558,11 +39879,17 @@ diga_terms:xl_it_be732681 a skosxl:Label ;
 diga_terms:xl_it_be96458c a skosxl:Label ;
     skosxl:literalForm "udāyī"@it .
 
+diga_terms:xl_it_bed3c62b a skosxl:Label ;
+    skosxl:literalForm "fila di foglie ogivali"@it .
+
 diga_terms:xl_it_bf08c2c0 a skosxl:Label ;
     skosxl:literalForm "palmo"@it .
 
 diga_terms:xl_it_bf2ed510 a skosxl:Label ;
     skosxl:literalForm "episodio del cane"@it .
+
+diga_terms:xl_it_bf71af15 a skosxl:Label ;
+    skosxl:literalForm "porta con arco a tutto sesto"@it .
 
 diga_terms:xl_it_bf8839b4 a skosxl:Label ;
     skosxl:literalForm "asta cerimoniale"@it .
@@ -39591,6 +39918,9 @@ diga_terms:xl_it_c228a7aa a skosxl:Label ;
 diga_terms:xl_it_c278bcad a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "anello"@it .
+
+diga_terms:xl_it_c2844584 a skosxl:Label ;
+    skosxl:literalForm "specchio portatile"@it .
 
 diga_terms:xl_it_c2a36645 a skosxl:Label ;
     skosxl:literalForm "feritoia cruciforme"@it .
@@ -39719,6 +40049,9 @@ diga_terms:xl_it_cd909a76 a skosxl:Label ;
 
 diga_terms:xl_it_cdeaa796 a skosxl:Label ;
     skosxl:literalForm "scena di battaglia"@it .
+
+diga_terms:xl_it_ce266c13 a skosxl:Label ;
+    skosxl:literalForm "fila di foglie ogivali rovesce"@it .
 
 diga_terms:xl_it_ce5ce032 a skosxl:Label ;
     skosxl:literalForm "protezione delle reliquie"@it .
@@ -39918,6 +40251,9 @@ diga_terms:xl_it_e3dbdcd2 a skosxl:Label ;
 diga_terms:xl_it_e3e32a40 a skosxl:Label ;
     skosxl:literalForm "bhallika"@it .
 
+diga_terms:xl_it_e4353975 a skosxl:Label ;
+    skosxl:literalForm "balconata"@it .
+
 diga_terms:xl_it_e4bb141e a skosxl:Label ;
     skosxl:literalForm "keyūra"@it .
 
@@ -40000,6 +40336,9 @@ diga_terms:xl_it_ede9fdfe a skosxl:Label ;
 diga_terms:xl_it_ee03b194 a skosxl:Label ;
     skosxl:literalForm "cotta a scaglie rivolte in alto"@it .
 
+diga_terms:xl_it_ee3da043 a skosxl:Label ;
+    skosxl:literalForm "arco a tutto sesto a imposta rialzata con estradosso a carena, volute e travi nell'intradosso"@it .
+
 diga_terms:xl_it_ee63faa1 a skosxl:Label ;
     skosxl:literalForm "apalāla"@it .
 
@@ -40015,6 +40354,9 @@ diga_terms:xl_it_ef72e8cf a skosxl:Label ;
 
 diga_terms:xl_it_ef8d802a a skosxl:Label ;
     skosxl:literalForm "kāmeśvara"@it .
+
+diga_terms:xl_it_ef96975b a skosxl:Label ;
+    skosxl:literalForm "disco solare su crescente lunare"@it .
 
 diga_terms:xl_it_efa077cd a skosxl:Label ;
     skosxl:literalForm "yaśodhā"@it .
@@ -40168,6 +40510,9 @@ diga_terms:xl_sa-Latn_0c0491f7 a skosxl:Label ;
 diga_terms:xl_sa-Latn_0c3ac2c9 a skosxl:Label ;
     skosxl:literalForm "kinnāra kinnāri"@sa-Latn .
 
+diga_terms:xl_sa-Latn_0d04d054 a skosxl:Label ;
+    skosxl:literalForm "kalamacchedya"@sa-Latn .
+
 diga_terms:xl_sa-Latn_128c0ad9 a skosxl:Label ;
     skosxl:literalForm "indraśailaguhā"@sa-Latn .
 
@@ -40234,6 +40579,9 @@ diga_terms:xl_sa-Latn_3cda0dd5 a skosxl:Label ;
 diga_terms:xl_sa-Latn_43936c68 a skosxl:Label ;
     skosxl:literalForm "mahāprātihārya"@sa-Latn .
 
+diga_terms:xl_sa-Latn_43dbfec5 a skosxl:Label ;
+    skosxl:literalForm "vajra"@sa-Latn .
+
 diga_terms:xl_sa-Latn_4531d524 a skosxl:Label ;
     skosxl:literalForm "priyaṃkara"@sa-Latn .
 
@@ -40281,9 +40629,6 @@ diga_terms:xl_sa-Latn_58e2f418 a skosxl:Label ;
 
 diga_terms:xl_sa-Latn_5919c8fb a skosxl:Label ;
     skosxl:literalForm "isisiṅga jātaka"@sa-Latn .
-
-diga_terms:xl_sa-Latn_5af1c0b6 a skosxl:Label ;
-    skosxl:literalForm "sumittā"@sa-Latn .
 
 diga_terms:xl_sa-Latn_5d9f7968 a skosxl:Label ;
     skosxl:literalForm "kālodāyī"@sa-Latn .
@@ -40335,6 +40680,9 @@ diga_terms:xl_sa-Latn_6c2dcb82 a skosxl:Label ;
 
 diga_terms:xl_sa-Latn_6ca9d295 a skosxl:Label ;
     skosxl:literalForm "mahākāśyapa"@sa-Latn .
+
+diga_terms:xl_sa-Latn_6cc0cff5 a skosxl:Label ;
+    skosxl:literalForm "svastika"@sa-Latn .
 
 diga_terms:xl_sa-Latn_6ea5a491 a skosxl:Label ;
     skosxl:literalForm "vaiśravaṇa"@sa-Latn .
@@ -40447,6 +40795,9 @@ diga_terms:xl_sa-Latn_baad4636 a skosxl:Label ;
 diga_terms:xl_sa-Latn_baf8d2c9 a skosxl:Label ;
     skosxl:literalForm "śuddhodana"@sa-Latn .
 
+diga_terms:xl_sa-Latn_bb23ca00 a skosxl:Label ;
+    skosxl:literalForm "añjalimudrā"@sa-Latn .
+
 diga_terms:xl_sa-Latn_be427179 a skosxl:Label ;
     skosxl:literalForm "maitrakanyaka jātaka"@sa-Latn .
 
@@ -40461,6 +40812,9 @@ diga_terms:xl_sa-Latn_c6b84233 a skosxl:Label ;
 
 diga_terms:xl_sa-Latn_c7a71c50 a skosxl:Label ;
     skosxl:literalForm "ajñātakauṇḍinya"@sa-Latn .
+
+diga_terms:xl_sa-Latn_ca14e15d a skosxl:Label ;
+    skosxl:literalForm "nāgadanta"@sa-Latn .
 
 diga_terms:xl_sa-Latn_cbf71551 a skosxl:Label ;
     skosxl:literalForm "udāyī"@sa-Latn .
@@ -40488,9 +40842,6 @@ diga_terms:xl_sa-Latn_d1e08cf0 a skosxl:Label ;
 
 diga_terms:xl_sa-Latn_d393738e a skosxl:Label ;
     skosxl:literalForm "siddhārtha"@sa-Latn .
-
-diga_terms:xl_sa-Latn_d5cab1a6 a skosxl:Label ;
-    skosxl:literalForm "sumitra"@sa-Latn .
 
 diga_terms:xl_sa-Latn_da82ca41 a skosxl:Label ;
     skosxl:literalForm "jaṭāyu"@sa-Latn .
