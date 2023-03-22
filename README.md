@@ -2,6 +2,8 @@
 
 The Digitization of Gandharan Artefacts Thesaurus
 
+[![DOI](https://zenodo.org/badge/506191242.svg)](https://zenodo.org/badge/latestdoi/506191242)
+
 ## About
 
 This repository contains an extensive thesaurus for the description and cataloguing of Gandharan and – more generally – Buddhist art. It was initially developed for the [DiGA Project](https://diga.ceres.rub.de/en/ "Digitization of Gandharan Artefacts"). It is based on the _Repertorio Terminologico per la schedatura delle sculture dell’arte gandharica_ by Domenico Faccenna and Anna Filigenzi, converted to SKOS by Frederik Elwert, and then substantially revised and extended by Serena Autiero and Jessie Pons. For a detailed description, see [this blog post](https://digartefacts.hypotheses.org/14).
