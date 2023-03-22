@@ -1,0 +1,38 @@
+abstract: "An extensive thesaurus for the description and cataloguing of Gandharan and – more generally – Buddhist art."
+authors:
+  - family-names: Autiero
+    given-names: Serena
+    orcid: https://orcid.org/0000-0003-1118-8910
+  - family-names: Elwert
+    given-names: Frederik
+    orcid: https://orcid.org/0000-0001-9149-9377
+  - family-names: Moscatelli
+    given-names: Cristiano
+    orcid: https://orcid.org/0000-0003-1043-9159
+  - family-names: Pons
+    given-names: Jessie
+    orcid: https://orcid.org/0000-0003-1211-2213
+cff-version: 1.2.0
+identifiers:
+  - description: "This is the collection of archived snapshots of all versions of the DiGA Thesaurus"
+    type: doi
+    value: 10.5281/zenodo.7760869
+license: CC0-1.0
+message: "If you use this thesaurus, please cite it using these metadata."
+references:
+  - authors:
+      - family-names: Faccenna
+        given-names: Domenico
+      - family-names: Filigenzi
+        given-names: Anna
+    institution:
+      name: IsIAO
+    location:
+      name: Rome
+    title: "Repertorio terminologico per la schedatura delle sculture dell’arte gandharica"
+    type: book
+    year: 2007
+repository-code: https://github.com/DiGArtefacts/thesaurus
+title: "The Digitization of Gandharan Artefacts Thesaurus"
+type: dataset
+url: https://w3id.org/diga/terms
