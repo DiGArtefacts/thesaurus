@@ -26,6 +26,13 @@ diga_terms:0159244003 a skos:Concept ;
     skosxl:prefLabel diga_terms:xl_en_ba30e29c,
         diga_terms:xl_it_136bee49 .
 
+diga_terms:0209474923 a skos:Concept ;
+    dc:identifier "0209474923" ;
+    skos-thes:broaderGeneric diga_terms:2638682681 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_e4f0af57,
+        diga_terms:xl_it_e41841e8 .
+
 diga_terms:028677063 a skos:Concept ;
     dc:identifier "028677063" ;
     dct:source source:repertorio ;
@@ -54,6 +61,15 @@ diga_terms:0349926345 a skos:Concept ;
     skosxl:prefLabel diga_terms:xl_en_3d4c7ffc,
         diga_terms:xl_it_882dd47e .
 
+diga_terms:0354909800 a skos:Concept ;
+    dc:identifier "0354909800" ;
+    skos-thes:broaderGeneric diga_terms:8049973750 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Rājagṛha was the capital of the kingdom of Magadha. It was ruled by king Bimbisara who is said to have provided the Buddha with a forest monastery. Rājagṛha became one of the most prominent preaching places for the Buddha." ;
+    skosxl:prefLabel diga_terms:xl_en_85dc3273,
+        diga_terms:xl_it_4ebd6709,
+        diga_terms:xl_sa-Latn_de87b6f0 .
+
 diga_terms:0399840455 a skos:Concept ;
     dc:identifier "0399840455" ;
     skos-thes:broaderGeneric diga_terms:4623397783 ;
@@ -68,6 +84,15 @@ diga_terms:0488902640 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_6c25707e,
         diga_terms:xl_it_ef96975b .
+
+diga_terms:0577228504 a skos:Concept ;
+    dc:identifier "0577228504" ;
+    skos-thes:broaderGeneric diga_terms:8049973750 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "In Śrāvastī the Buddha performed miracles in front of the Tīrthika heretics. Among these wonders sources mention the Buddha’s creation of numerous images of himself and the emission of fire and water from his body." ;
+    skosxl:prefLabel diga_terms:xl_en_94fd7726,
+        diga_terms:xl_it_6f5841e7,
+        diga_terms:xl_sa-Latn_8463b9c9 .
 
 diga_terms:069441103 a skos:Concept ;
     dc:identifier "069441103" ;
@@ -94,6 +119,20 @@ diga_terms:0870424981 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_724474e3,
         diga_terms:xl_it_1ed808d8 .
+
+diga_terms:0961924197 a skos:Concept ;
+    dc:identifier "0961924197" ;
+    skos-thes:broaderGeneric diga_terms:2529761007 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_3f2a277c,
+        diga_terms:xl_it_eece6eb2 .
+
+diga_terms:0976902973 a skos:Concept ;
+    dc:identifier "0976902973" ;
+    skos-thes:broaderGeneric diga_terms:7102300787 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_e23b04d7,
+        diga_terms:xl_it_1d173a84 .
 
 diga_terms:0993667635 a skos:Concept ;
     dc:identifier "0993667635" ;
@@ -304,9 +343,10 @@ diga_terms:1036537964 a skos:Concept ;
 diga_terms:1040348038 a skos:Concept ;
     dc:identifier "1040348038" ;
     dct:source source:repertorio ;
-    skos-thes:broaderGeneric diga_terms:638196766 ;
+    skos-thes:broaderGeneric diga_terms:4046171316 ;
     skos:editorialNote "Figure label in repertorio: 1.2"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "This folds pattern applies to standing buddhas" ;
     skosxl:altLabel diga_terms:xl_en_60277e2d,
         diga_terms:xl_it_d88d7075 ;
     skosxl:prefLabel diga_terms:2992724008,
@@ -1124,6 +1164,7 @@ diga_terms:1192325552 a skos:Concept ;
     dct:source source:ali_qazi_peshawar_2008 ;
     skos-thes:broaderGeneric diga_terms:558303909 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "A robber named Aṅgulimāla showed no mercy to any living creature, bringing terror to villages and towns. He took a finger from each of his victims to make a necklace for himself. The Buddha, while staying in Śrāvastī, heard of Aṅgulimāla’s mischief, met him and converted him into a righteous man" ;
     skosxl:altLabel diga_terms:178923540,
         diga_terms:xl_en_92f9342a ;
     skosxl:prefLabel diga_terms:xl_en_ecbbbf5e,
@@ -1456,6 +1497,7 @@ diga_terms:1245465292 a skos:Concept ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:188715043 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "When his father Śuddhodana opposed his resolve to leave the palace, the bodhisattva returns to his apartments where beautiful women await to entertain him. As they succumb to sleep,  he is disgusted by the view of their distorted bodies." ;
     skosxl:prefLabel diga_terms:xl_en_6a6120b7,
         diga_terms:xl_it_d68ca747 .
 
@@ -1506,6 +1548,7 @@ diga_terms:1247725996 a skos:Concept ;
     dct:source source:faccenna_sculptures_1962 ;
     skos-thes:broaderGeneric diga_terms:1684770525 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Siddhārtha enters a grove where he meets a group of brahmins. One of them describes to him the ascetic practices." ;
     skosxl:prefLabel diga_terms:2091329563,
         diga_terms:xl_it_a1423308 .
 
@@ -1708,7 +1751,6 @@ diga_terms:1291943542 a skos:Concept ;
     dc:identifier "1291943542" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1956571624,
-        diga_terms:2525902700,
         diga_terms:2732920964,
         diga_terms:3766627674,
         diga_terms:4265586120 ;
@@ -2091,10 +2133,19 @@ diga_terms:1357447984 a skos:Concept ;
 diga_terms:1358247127 a skos:Concept ;
     dc:identifier "1358247127" ;
     skos-thes:broaderPartitive diga_terms:1444102995 ;
-    skos:definition "A narrative in which, being fed up with his sheltered life in the royal palace, Prince Siddhārtha ventures out with his charioteer Chandaka. According to sources, Siddhārtha makes four encounters which led him to realise the impermanence of existence. Among these, is the encounter with a sick man suffering from a disease" ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Siddhārtha encounters a sick man suffering from a disease." ;
     skosxl:prefLabel diga_terms:2128985607,
         diga_terms:xl_it_93001f97 .
+
+diga_terms:1358419129 a skos:Concept ;
+    dc:identifier "1358419129" ;
+    skos-thes:broaderGeneric diga_terms:8049973750 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Kauśambī is mentioned frequently in the stories of the Buddha's life, he visited Kauśambī multiple times in order to spread the dharma." ;
+    skosxl:prefLabel diga_terms:xl_en_670fc8ac,
+        diga_terms:xl_it_9064ab14,
+        diga_terms:xl_sa-Latn_3b14e599 .
 
 diga_terms:1359989925 a skos:Concept ;
     dc:identifier "1359989925" ;
@@ -2312,7 +2363,6 @@ diga_terms:1395083533 a skos:Concept ;
     dc:identifier "1395083533" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1956571624,
-        diga_terms:2525902700,
         diga_terms:2732920964,
         diga_terms:3766627674,
         diga_terms:4265586120 ;
@@ -2421,7 +2471,6 @@ diga_terms:1408741571 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:833126424 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skos:relatedMatch aat:300404706 ;
-    skosxl:altLabel diga_terms:1013263599 ;
     skosxl:prefLabel diga_terms:353099314,
         diga_terms:xl_it_75e7d5f8 .
 
@@ -2548,6 +2597,7 @@ diga_terms:1444102995 a skos:Concept ;
     dc:identifier "1444102995" ;
     skos-thes:broaderGeneric diga_terms:4084501634 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Prince Siddhārtha ventures out of the palace with his charioteer Chandaka. According to sources, the prince makes four encounters which led him to realize the impermanence of existence." ;
     skosxl:altLabel diga_terms:2691116685,
         diga_terms:xl_en_13737497 ;
     skosxl:prefLabel diga_terms:1413197209,
@@ -2933,7 +2983,6 @@ diga_terms:1517737217 a skos:Concept ;
     dc:identifier "1517737217" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1956571624,
-        diga_terms:2525902700,
         diga_terms:2732920964,
         diga_terms:3766627674,
         diga_terms:4265586120 ;
@@ -3015,6 +3064,7 @@ diga_terms:1530430915 a skos:Concept ;
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:86855196 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "After his birth in Lumbinī, the infant Siddhārtha is brought back to Kapilavastu on a chariot." ;
     skosxl:prefLabel diga_terms:3664165057,
         diga_terms:xl_it_0a892d6a .
 
@@ -3103,8 +3153,8 @@ diga_terms:1542174825 a skos:Concept ;
         source:faccenna_sculptures_1962,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:86855196 ;
-    skos:definition "A narrative scene in which Māyā gives birth to Siddhārtha holding the branches of a Sāla tree in the Lumbini Park. The infant emerges from the right side. Gods and supernatural beings witness the event." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "In the Lumbinī Park, Māyā gives birth to Siddhārtha holding the branches of a śāla tree. The infant Siddhārtha emerges from the right side. Gods and supernatural beings witness the event." ;
     skosxl:altLabel diga_terms:2174037833,
         diga_terms:xl_en_297c4316,
         diga_terms:xl_en_a578357c,
@@ -3620,8 +3670,8 @@ diga_terms:1641391203 a skos:Concept ;
         source:faccenna_sculptures_1962,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:2220524088 ;
-    skos:definition "A narrative in which the Buddha, after attaining the Enlightenment in Bodh Gaya, travels to Sarnath. In the Deer Park, and initiates to his teachings five ascetics, with whom he had shared years of practice." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "After attaining Enlightenment in Bodh Gayā, the Buddha travels to Sarnath. In the Deer Park, he teaches the dharma to the five ascetics with whom he had shared years of practice. " ;
     skosxl:altLabel diga_terms:839309612,
         diga_terms:xl_it_1a70315a ;
     skosxl:prefLabel diga_terms:3064031567,
@@ -3878,8 +3928,8 @@ diga_terms:1682384564 a skos:Concept ;
         source:faccenna_sculptures_1962,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:1408741571 ;
-    skos:definition "A narrative in which the Buddha, despite being ill after receiving food offerings, continues to travel until he is forced to stop at Kuśīnagar. Here, he announces to his retinue that he would soon be passing away. He then enters his final meditation and dies, reaching the nirvāṇa state." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Despite being ill after receiving food offerings, the Buddha continues to travel to Kapilavastu until he is forced to stop at Kuśīnagara in a śala forest.  Here he announces to his retinue that he will soon pass away. He delivers his last prescriptions to Ānanda and ordains his last convert, Subhadra. He then enters his final meditation and dies, achieving his final nirvāṇa. Gods, princes and monks gather to mourn the deceased Buddha. Mahākāśyapa arrives seven days later to pay his last homage." ;
     skosxl:altLabel diga_terms:2276627476,
         diga_terms:2792729347,
         diga_terms:xl_it_1056ee7a ;
@@ -3900,8 +3950,8 @@ diga_terms:1687164115 a skos:Concept ;
     dc:identifier "1687164115" ;
     dct:source source:ali_qazi_peshawar_2008 ;
     skos-thes:broaderGeneric diga_terms:1542174825 ;
-    skos:definition "A narrative scene in which is represented the birth of Chandaka and Kanthaka. In the birth of Kanthaka, according to legends, Kanthaka, a marvellous white horse, was born the same day as Siddhārtha and became the Bodhisattva’s favourite." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "According to Buddhist textual accounts, Chandaka, Siddhārtha's groom, and Kaṇṭhaka, a marvellous white horse, were born on the same day as Siddhārtha, and became the Bodhisattva’s favourites." ;
     skosxl:altLabel diga_terms:1823043622,
         diga_terms:2191244562,
         diga_terms:3435785248,
@@ -3955,8 +4005,10 @@ diga_terms:1698576696 a skos:Concept ;
     dc:identifier "1698576696" ;
     dct:source source:ali_qazi_peshawar_2008,
         source:faccenna_sculptures_1962 ;
-    skos-thes:broaderGeneric diga_terms:1608909719 ;
+    skos-thes:broaderGeneric diga_terms:1408741571,
+        diga_terms:1608909719 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Before their enshrinement, the Buddha’s relics were visited and paid homage to by monks and lay devotees." ;
     skosxl:altLabel diga_terms:1131847571 ;
     skosxl:prefLabel diga_terms:709177255,
         diga_terms:xl_it_a874344c .
@@ -5042,6 +5094,15 @@ diga_terms:1841563904 a skos:Concept ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-216_r_12.png>,
         <https://w3id.org/diga/illustrations/1841563904> .
 
+diga_terms:1842796058 a skos:Concept ;
+    dc:identifier "1842796058" ;
+    skos-thes:broaderGeneric diga_terms:7102300787 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:xl_en_6c41eddf,
+        diga_terms:xl_it_00e93aca ;
+    skosxl:prefLabel diga_terms:xl_en_26886930,
+        diga_terms:xl_it_79595a37 .
+
 diga_terms:1842876919 a skos:Concept ;
     dc:identifier "1842876919" ;
     dct:source source:repertorio ;
@@ -5164,6 +5225,7 @@ diga_terms:1858730767 a skos:Concept ;
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:2220524088 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Jaya and Vijaya, two boys of good family, see the Buddha while playing with dust and put a handful in his begging bowl as offering. The Buddha predicted Jaya’s rebirth as the emperor Aśoka." ;
     skosxl:altLabel diga_terms:247689663,
         diga_terms:3788742912,
         diga_terms:xl_en_3d491df2,
@@ -5582,9 +5644,7 @@ diga_terms:1939371364 a skos:Concept ;
     dc:identifier "1939371364" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1040348038,
-        diga_terms:2525902700,
-        diga_terms:569929018,
-        diga_terms:638196766 ;
+        diga_terms:569929018 ;
     skos:editorialNote "Figure label in repertorio: d"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1368472288,
@@ -6414,9 +6474,7 @@ diga_terms:2061401887 a skos:Concept ;
 diga_terms:2064404935 a skos:Concept ;
     dc:identifier "2064404935" ;
     dct:source source:repertorio ;
-    skos-thes:broaderPartitive diga_terms:1040348038,
-        diga_terms:569929018,
-        diga_terms:638196766 ;
+    skos-thes:broaderPartitive diga_terms:569929018 ;
     skos:editorialNote "Figure label in repertorio: e"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2628511156,
@@ -6552,7 +6610,6 @@ diga_terms:2089013252 a skos:Concept ;
     dc:identifier "2089013252" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1956571624,
-        diga_terms:2525902700,
         diga_terms:2732920964,
         diga_terms:3766627674,
         diga_terms:4265586120 ;
@@ -6898,8 +6955,8 @@ diga_terms:2137379094 a skos:Concept ;
     dct:source source:ali_qazi_peshawar_2008,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:86855196 ;
-    skos:definition "A narrative scene on the episode in which soon after his birth, Prince Siddhārtha walks seven steps uttering this was his last rebirth. Then, two streams of water poured by gods wash the body of the newborn." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Soon after his birth, Prince Siddhārtha walks seven steps and proclaims this was his last rebirth. Then, two streams of water poured by gods wash the body of the newborn" ;
     skosxl:altLabel diga_terms:703752736,
         diga_terms:xl_en_216b1069 ;
     skosxl:prefLabel diga_terms:1243420574,
@@ -8833,6 +8890,7 @@ diga_terms:2461743327 a skos:Concept ;
     dct:source source:ali_qazi_peshawar_2008 ;
     skos-thes:broaderGeneric diga_terms:2220524088 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "The story tells of one of the many attempts of the jealous Devadatta to kill his cousin the Buddha. One day, when the Buddha was in Rājagṛha, Devadatta released a mad elephant to harm the Blessed One. The animal rushes against the Buddha but its fury is contained by his loving-kindness. Caressing the forehead of the elephant with a calming hand, the Buddha pacifies the animal." ;
     skosxl:altLabel diga_terms:1162742451,
         diga_terms:xl_en_680b3bdb,
         diga_terms:xl_en_a33acbc5,
@@ -9222,8 +9280,8 @@ diga_terms:2534747475 a skos:Concept ;
 diga_terms:2537376800 a skos:Concept ;
     dc:identifier "2537376800" ;
     skos-thes:broaderGeneric diga_terms:322692987 ;
-    skos:definition "One or more scenes from the narrative in which Devadatta, Siddhārtha’s cousin, kills the white elephant at the city gate of Kapilavastu, blocking the passage. After Ānanda’s unsuccessful attempt to throw the animal away, the Bodhisattva managed to hurl it out the city’s wall thanks to his physical strength." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Devadatta, Siddhārtha’s cousin, kills the state white elephant at the city gate of Kapilavastu, blocking the passage. After Ānanda’s unsuccessful attempt to throw the animal away, the Bodhisattva managed to hurl it out the city’s wall thanks to his physical strength." ;
     skosxl:prefLabel diga_terms:2899537582,
         diga_terms:xl_it_42296e65 .
 
@@ -9283,8 +9341,8 @@ diga_terms:2541474748 a skos:Concept ;
     dct:source source:ali_qazi_peshawar_2008,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:86855196 ;
-    skos:definition "A narrative scene in which Māyā, the queen consort of Śuddhodana, dreams of a white elephant entering her womb through her right side. As soon as she wakes up, she finds out to be pregnant." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Māyā, the queen consort of Śuddhodana, dreams of a white elephant entering her womb through her right side. As soon as she wakes up, she finds out to be pregnant." ;
     skosxl:altLabel diga_terms:1710888179,
         diga_terms:3571430326,
         diga_terms:4077794155,
@@ -9616,13 +9674,21 @@ diga_terms:2593931609 a skos:Concept ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-185_Graphic_1621262403305_1717.png>,
         <https://w3id.org/diga/illustrations/2593931609> .
 
+diga_terms:2595195318 a skos:Concept ;
+    dc:identifier "2595195318" ;
+    skos-thes:broaderGeneric diga_terms:849867655 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_7a39af68,
+        diga_terms:xl_it_ce603381,
+        diga_terms:xl_sa-Latn_4c5ff72c .
+
 diga_terms:2598707406 a skos:Concept ;
     dc:identifier "2598707406" ;
     dct:source source:ali_qazi_peshawar_2008,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderPartitive diga_terms:1294853938 ;
-    skos:definition "A narrative in which Siddharthā and princess Yaśodharā get married according to the brahmanic tradition." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Siddhārtha and princess Yaśodharā get married according to the brahmanic tradition." ;
     skosxl:altLabel diga_terms:24715278,
         diga_terms:xl_en_235d6945,
         diga_terms:xl_it_bc6f5123 ;
@@ -9780,8 +9846,8 @@ diga_terms:2629481206 a skos:Concept ;
         source:faccenna_sculptures_1962,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:4084501634 ;
-    skos:definition "A narrative about how Prince Siddhārtha leaves the palace at night mounting his horse Kanthaka and accompanied by his loyal charioteer Chandaka. According to legends, spirits supported the hooves of the horse to prevent noise and wake up Siddhārtha’s family." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Prince Siddhārtha leaves the palace at night mounting his horse Kaṇṭhaka and accompanied by his loyal charioteer Chandaka. According to Buddhist literary accounts, spirits supported the hooves of the horse to prevent noise and wake up Siddhārtha’s family" ;
     skosxl:altLabel diga_terms:xl_en_460d7406 ;
     skosxl:prefLabel diga_terms:3656614351,
         diga_terms:xl_it_b27071b1,
@@ -10234,12 +10300,16 @@ diga_terms:2721284326 a skos:Concept ;
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:322692987 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "In an attempt to avoid his son to enter the religious life, king Śuddhodana surrounds Siddhārtha with luxury and pleasure, including beautiful women who entertain him with songs and dances." ;
     skosxl:altLabel diga_terms:2867211123,
+        diga_terms:2964142692,
         diga_terms:3208797037,
         diga_terms:xl_en_6659ca31,
+        diga_terms:xl_it_a4318e86,
+        diga_terms:xl_it_d735cf1c,
         diga_terms:xl_it_e7226874 ;
-    skosxl:prefLabel diga_terms:2964142692,
-        diga_terms:xl_it_d735cf1c .
+    skosxl:prefLabel diga_terms:xl_en_c85fdaba,
+        diga_terms:xl_it_ea00f74b .
 
 diga_terms:2722247433 a skos:Concept ;
     dc:identifier "2722247433" ;
@@ -10355,8 +10425,11 @@ diga_terms:274525215 a skos:Concept ;
     dct:source source:ali_qazi_peshawar_2008 ;
     skos-thes:broaderGeneric diga_terms:2220524088 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "After the seven weeks of meditation and fasting that followed the Enlightenment, a trade caravan became stuck in the vicinity of the Buddha. While strong men try to make the bullocks move, the two merchants Trapuṣa and Bhallika were told by a deity/genius about the Buddha and decide to pay him a visit and bring offerings becoming the first lay followers of the Buddha." ;
     skosxl:altLabel diga_terms:1608090890,
         diga_terms:xl_en_267f3490,
+        diga_terms:xl_en_7b885f16,
+        diga_terms:xl_it_3493490b,
         diga_terms:xl_it_4b77a974 ;
     skosxl:prefLabel diga_terms:2127320146,
         diga_terms:xl_it_0387d50d .
@@ -10852,6 +10925,14 @@ diga_terms:2827306568 a skos:Concept ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-172_Graphic_1621581816473_884.png>,
         <https://w3id.org/diga/illustrations/2827306568> .
 
+diga_terms:2827987635 a skos:Concept ;
+    dc:identifier "2827987635" ;
+    skos-thes:broaderGeneric diga_terms:1294282728 ;
+    skos:definition "A single, figured panel (usually squared)" ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_799a066a,
+        diga_terms:xl_it_78d4591a .
+
 diga_terms:2829794366 a skos:Concept ;
     dc:identifier "2829794366" ;
     dct:source source:repertorio ;
@@ -11237,8 +11318,8 @@ diga_terms:2891138109 a skos:Concept ;
         source:faccenna_sculptures_1962,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:2220524088 ;
-    skos:definition "A narrative in which the Buddha shows reluctance to teach the Dharma soon after attaining the Enlightenment. The gods Brahmā and Indra urge the Buddha to overcome his hesitation, persuading him to deliver his teachings." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "In some accounts, the Buddha is reluctant to teach the dharma soon after attaining the Enlightenment. The gods Brahmā and Indra urge the Buddha to overcome his hesitation, persuading him to deliver his teachings" ;
     skosxl:altLabel diga_terms:xl_en_a7d790f8 ;
     skosxl:prefLabel diga_terms:3750929732,
         diga_terms:xl_it_ecf49615 .
@@ -11278,8 +11359,8 @@ diga_terms:2897730138 a skos:Concept ;
         source:faccenna_sculptures_1962,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:2220524088 ;
-    skos:definition "A narrative with the Buddha meditating in a cave when the god Indra approaches him with the gandharva Pañcasika. The gandharva plays the harp to draw the attention of the Buddha, who eventually answers Indra’s questions on the causes of suffering in living beings." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "The Buddha was meditating in a cave when the god Indra approaches him with the gandharva Pañcasika. The gandharva plays the harp to draw  the Buddha’s attention. The latter eventually answers Indra’s questions on the causes of suffering in living beings." ;
     skosxl:altLabel diga_terms:1861096908,
         diga_terms:3373013254,
         diga_terms:3711343476,
@@ -11353,8 +11434,8 @@ diga_terms:2912783977 a skos:Concept ;
     dc:identifier "2912783977" ;
     dct:source source:ali_qazi_peshawar_2008 ;
     skos-thes:broaderGeneric diga_terms:322692987 ;
-    skos:definition "A narrative in which Prince Siddhārtha proves his physical prowess and skills in archery, swordsmanship, wrestling, and other athletic practices." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "In order to win the young Yaśodharā over, Prince Siddhārtha proves his physical prowess and skills in archery, swordsmanship, wrestling, and other athletic practices." ;
     skosxl:altLabel diga_terms:3890220451,
         diga_terms:xl_it_81e042cf ;
     skosxl:prefLabel diga_terms:2993993809,
@@ -11588,6 +11669,7 @@ diga_terms:2958621720 a skos:Concept ;
     dct:source source:zwalf_catalogue_1996 ;
     skos-thes:broaderPartitive diga_terms:2912783977 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Siddhārtha engages in an archery competition in which he is asked to use a bow nobody could bend to shoot an arrow at a distant target, succeeding in front of the audience." ;
     skosxl:altLabel diga_terms:450246321,
         diga_terms:xl_en_979d0aca,
         diga_terms:xl_it_57bc7e3a ;
@@ -11719,6 +11801,7 @@ diga_terms:2975999413 a skos:Concept ;
         source:faccenna_sculptures_1962 ;
     skos-thes:broaderGeneric diga_terms:86855196 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Asita, an old ṛṣi, predicts to Śuddhodana that in the future, his son will either become a universal monarch (cakravartin) or a buddha." ;
     skosxl:altLabel diga_terms:1371321825,
         diga_terms:4281204664,
         diga_terms:xl_it_99f52349,
@@ -11872,6 +11955,7 @@ diga_terms:3009319215 a skos:Concept ;
         source:faccenna_sculptures_1962 ;
     skos-thes:broaderGeneric diga_terms:1408741571 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Upon Buddha’s passing and the cremation of his body, according to sources, his relics were put under the protection of armed guards in the palace of the Mallas, before other parties requested a share." ;
     skosxl:prefLabel diga_terms:1304776169,
         diga_terms:xl_it_ce5ce032 .
 
@@ -12315,12 +12399,15 @@ diga_terms:308408444 a skos:Concept ;
     dc:identifier "308408444" ;
     skos-thes:broaderGeneric diga_terms:2498849496 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:altLabel diga_terms:4109547112,
+    skosxl:altLabel diga_terms:1882439862,
+        diga_terms:4109547112,
         diga_terms:xl_it_052f16a8,
-        diga_terms:xl_sa-Latn_d0f39ce9 ;
-    skosxl:prefLabel diga_terms:1882439862,
         diga_terms:xl_it_945b80dd,
-        diga_terms:xl_sa-Latn_d105fff1 .
+        diga_terms:xl_sa-Latn_d0f39ce9,
+        diga_terms:xl_sa-Latn_d105fff1 ;
+    skosxl:prefLabel diga_terms:xl_en_6fd6243e,
+        diga_terms:xl_it_6ba701df,
+        diga_terms:xl_sa-Latn_6caf186d .
 
 diga_terms:3084653790 a skos:Concept ;
     dc:identifier "3084653790" ;
@@ -12691,6 +12778,7 @@ diga_terms:3160937770 a skos:Concept ;
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:2220524088 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "The Buddha requests three ascetic brothers who were devoted to the fire god to spend the night in the hall of the fire temple. The eldest brother allows the Buddha to stay, trusting that the snake dwelling in the temple would subjugate him. The Buddha eventually emerges unharmed from the temple with the snake lying in his alms bowl. The three ascetics brothers convert to the dharma together with their disciples." ;
     skosxl:altLabel diga_terms:1034857458,
         diga_terms:2023127615,
         diga_terms:xl_en_2e16da55,
@@ -12764,6 +12852,15 @@ diga_terms:3164738198 a skos:Concept ;
     skosxl:prefLabel diga_terms:3045836876,
         diga_terms:xl_it_10fc2ec2,
         diga_terms:xl_sa-Latn_baad4636 .
+
+diga_terms:3166084009 a skos:Concept ;
+    dc:identifier "3166084009" ;
+    skos-thes:broaderGeneric diga_terms:8049973750 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "It is said that after his enlightenment the Buddha visited his mother in the Trāyastriṃśa heaven, and descended from heaven through a triple ladder that miraculously appeared in Sankāṣya." ;
+    skosxl:prefLabel diga_terms:xl_en_45dec96d,
+        diga_terms:xl_it_013c599b,
+        diga_terms:xl_sa-Latn_3d576c2d .
 
 diga_terms:3167301581 a skos:Concept ;
     dc:identifier "3167301581" ;
@@ -13100,9 +13197,7 @@ diga_terms:3238507539 a skos:Concept ;
 diga_terms:324053207 a skos:Concept ;
     dc:identifier "324053207" ;
     dct:source source:repertorio ;
-    skos-thes:broaderPartitive diga_terms:1040348038,
-        diga_terms:569929018,
-        diga_terms:638196766 ;
+    skos-thes:broaderPartitive diga_terms:1040348038 ;
     skos:editorialNote "Figure label in repertorio: e1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:2959260347,
@@ -13614,11 +13709,10 @@ diga_terms:3323510573 a skos:Concept ;
 diga_terms:3323879243 a skos:Concept ;
     dc:identifier "3323879243" ;
     dct:source source:repertorio ;
+    skos-thes:broaderGeneric diga_terms:2529761007 ;
     skos-thes:broaderPartitive diga_terms:1940192311 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:altLabel diga_terms:xl_en_dcb5def4,
-        diga_terms:xl_it_477b25ee ;
     skosxl:prefLabel diga_terms:1034256507,
         diga_terms:208046066 .
 
@@ -14077,7 +14171,6 @@ diga_terms:3425958457 a skos:Concept ;
     dc:identifier "3425958457" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1956571624,
-        diga_terms:2525902700,
         diga_terms:2732920964,
         diga_terms:3766627674,
         diga_terms:4265586120 ;
@@ -14226,8 +14319,8 @@ diga_terms:3451728037 a skos:Concept ;
 diga_terms:3452258354 a skos:Concept ;
     dc:identifier "3452258354" ;
     skos-thes:broaderGeneric diga_terms:966828572 ;
-    skos:definition "A scene representing Maitreya in the Tuṣita heaven. The Tuṣita is the abode of the buddha-to-be Maitreya. Bodhisattvas in general are said to be residing there before they are reborn in the human realm as buddhas." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Tuṣita is the abode of the deities and bodhisattva. The buddha-to-be Maitreya resides here, as the other bodhisattvas before they are reborn in the human realm as buddhas. Also Śākyamuni resided in Tuśita before his last existence." ;
     skosxl:prefLabel diga_terms:3388414562,
         diga_terms:xl_it_011148bc .
 
@@ -14369,8 +14462,8 @@ diga_terms:3483299088 a skos:Concept ;
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:1115524268 ;
     rdfs:seeAlso "Bodhisattva aspires to buddhahood at the time of Dīpaṅkara Buddha (https://jatakastories.div.ed.ac.uk/story-clusters/bodhisattva-aspires-to-buddhahood-at-the-time-of-d/), Bodhisattva serves a Buddha of the past (https://jatakastories.div.ed.ac.uk/story-clusters/bodhisattva-serves-a-buddha-of-the-past/) "@en ;
-    skos:definition "A narrative scene in which the ascetic Sumedha pays homage to Dīpaṅkara – a buddha of the past – with flowers obtained from a girl, and by lying himself down and spreading his hair on the ground to make a passage over the mud for the Awakened One. Then, Dīpaṅkara predicts that Sumedha will reach the enlightenment and become the buddha Siddhārtha in a future existence." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "The bodhisattva as the ascetic Sumati – pays homage to Dīpaṅkara – a buddha of the past – by launching flowers obtained from a woman, and by spreading his hair on the ground to make a passage over the mud for the Awakened One. Then, Sumati vows to become a buddha in the future and Dīpaṅkara predicts that this will indeed happen in a future existence." ;
     skosxl:altLabel diga_terms:1240526913,
         diga_terms:xl_en_d24ddc7d ;
     skosxl:prefLabel diga_terms:2052726293,
@@ -14501,7 +14594,10 @@ diga_terms:3504809170 a skos:Concept ;
     dct:source source:faccenna_sculptures_1962 ;
     skos-thes:broaderGeneric diga_terms:1408741571 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:altLabel diga_terms:432908308 ;
+    skos:note "After the Mahāparinirvāṇa, the body of the Buddha is put into a coffin; mourning and funerary rituals in preparation of the cremation are performed." ;
+    skosxl:altLabel diga_terms:432908308,
+        diga_terms:xl_en_11b6d55a,
+        diga_terms:xl_it_1643424e ;
     skosxl:prefLabel diga_terms:4024176288,
         diga_terms:xl_it_5805c92a .
 
@@ -14848,9 +14944,7 @@ diga_terms:3568355575 a skos:Concept ;
     dc:identifier "3568355575" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1199973794 ;
-    skos-thes:broaderPartitive diga_terms:1040348038,
-        diga_terms:4129377204,
-        diga_terms:569929018 ;
+    skos-thes:broaderPartitive diga_terms:4129377204 ;
     skos:editorialNote "Figure label in repertorio: b"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_dbaeaa0e,
@@ -14923,6 +15017,13 @@ diga_terms:3587261361 a skos:Concept ;
     skosxl:prefLabel diga_terms:3528421314,
         diga_terms:xl_it_4b6dc9d8,
         diga_terms:xl_sa-Latn_27e42f8e .
+
+diga_terms:3589347281 a skos:Concept ;
+    dc:identifier "3589347281" ;
+    skos-thes:broaderGeneric diga_terms:7102300787 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_cd36cf73,
+        diga_terms:xl_it_e5018328 .
 
 diga_terms:3590021566 a skos:Concept ;
     dc:identifier "3590021566" ;
@@ -15098,6 +15199,7 @@ diga_terms:3617678015 a skos:Concept ;
     dc:identifier "3617678015" ;
     skos-thes:broaderGeneric diga_terms:8049973750 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Prince Siddhārta is said to have resided in Kapilavastu with his parents King Śuddhodana and Queen Māyā until he departed at the age of 29. Kapilavastu was the capital of the Śākyas, over whom his father ruled." ;
     skosxl:prefLabel diga_terms:xl_en_c4f50c62,
         diga_terms:xl_it_42f3ea80,
         diga_terms:xl_sa-Latn_f2bb8811 .
@@ -15221,8 +15323,8 @@ diga_terms:3640972033 a skos:Concept ;
     dc:identifier "3640972033" ;
     dct:source source:faccenna_sculptures_1962 ;
     skos-thes:broaderGeneric diga_terms:2220524088 ;
-    skos:definition "A narrative in which sixteen wandering ascetics pays the Buddha a visit in Śrāvastī. Astounded by his teachings, they eventually convert to Buddhism." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "The Brahman teacher Bāvari sends his 16 brahmin students to the Buddha to answer questions about the goal of his teachings and how to attain the same. Each of the sixteen ascetics pays the Buddha a visit in Śrāvastī and astounded by his teachings, they eventually convert to Buddhism." ;
     skosxl:altLabel diga_terms:168167536,
         diga_terms:2313387375,
         diga_terms:752237686,
@@ -15814,8 +15916,11 @@ diga_terms:373985903 a skos:Concept ;
     dct:source source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:86855196 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Māyā leaves Kapilavastu to give birth at her parents’, but birth time comes on the way at the Lumbinī Grove." ;
     skosxl:altLabel diga_terms:1222800858,
-        diga_terms:xl_it_70485aac ;
+        diga_terms:xl_en_3ce39de2,
+        diga_terms:xl_it_70485aac,
+        diga_terms:xl_it_90d54563 ;
     skosxl:prefLabel diga_terms:3325972338,
         diga_terms:xl_it_7d0b686e .
 
@@ -17002,8 +17107,8 @@ diga_terms:3995440451 a skos:Concept ;
     dct:source source:ali_qazi_peshawar_2008,
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:322692987 ;
-    skos:definition "A narrative in which Prince Siddhārtha is taken to school to be educated as befits his rank. He proves to be well-learned in all the sciences, including writing." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Prince Siddhārtha is taken to school to be educated as befits his rank. He proves to be well-learned in all the sciences, including writing." ;
     skosxl:altLabel diga_terms:2380877713,
         diga_terms:2393299316,
         diga_terms:xl_en_0330582f ;
@@ -17040,6 +17145,7 @@ diga_terms:4000126777 a skos:Concept ;
         source:faccenna_sculptures_1962 ;
     skos-thes:broaderGeneric diga_terms:1408741571 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "The Malla kings conduct the ceremonies reserved to a Universal Monarch on the occasion of the Buddha’s passing. Two princely figures pour offerings on the Buddha’s pyre." ;
     skosxl:altLabel diga_terms:xl_en_af45bb93,
         diga_terms:xl_it_0c33a15f ;
     skosxl:prefLabel diga_terms:3690847768,
@@ -17107,15 +17213,12 @@ diga_terms:4017979273 a skos:Concept ;
     dc:identifier "4017979273" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1199973794 ;
-    skos-thes:broaderPartitive diga_terms:1040348038,
-        diga_terms:1956571624,
+    skos-thes:broaderPartitive diga_terms:1956571624,
         diga_terms:2320100902,
-        diga_terms:2525902700,
         diga_terms:2732920964,
         diga_terms:3766627674,
         diga_terms:4129377204,
-        diga_terms:4265586120,
-        diga_terms:569929018 ;
+        diga_terms:4265586120 ;
     skos:editorialNote "Figure label in repertorio: a"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_ac590833,
@@ -17276,10 +17379,8 @@ diga_terms:4046171316 a skos:Concept ;
     dc:identifier "4046171316" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1199973794 ;
-    skos-thes:broaderPartitive diga_terms:1040348038,
-        diga_terms:2320100902,
-        diga_terms:4129377204,
-        diga_terms:569929018 ;
+    skos-thes:broaderPartitive diga_terms:2320100902,
+        diga_terms:4129377204 ;
     skos:editorialNote "Figure label in repertorio: c"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_52454c56,
@@ -17355,7 +17456,9 @@ diga_terms:4059881290 a skos:Concept ;
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:2220524088 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skosxl:altLabel diga_terms:xl_en_fc3b50a8,
+    skos:note "When the two merchants had seen the Buddha meditating under a tree, they offered him food and the lokapālas of the four directions each provided a bowl for the Buddha to collect the offering. To avoid offending anyone by refusing their gift, the Buddha merged the four bowls into one." ;
+    skosxl:altLabel diga_terms:xl_en_2657262b,
+        diga_terms:xl_en_fc3b50a8,
         diga_terms:xl_it_942b0a62 ;
     skosxl:prefLabel diga_terms:2257811438,
         diga_terms:xl_it_38c3c6d7 .
@@ -17413,8 +17516,7 @@ diga_terms:4068080197 a skos:Concept ;
     dc:identifier "4068080197" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1040348038,
-        diga_terms:569929018,
-        diga_terms:638196766 ;
+        diga_terms:569929018 ;
     skos:editorialNote "Figure label in repertorio: f"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:214606725,
@@ -17520,8 +17622,8 @@ diga_terms:4083475564 a skos:Concept ;
 diga_terms:4084501634 a skos:Concept ;
     dc:identifier "4084501634" ;
     skos-thes:broaderGeneric diga_terms:833126424 ;
-    skos:definition "A narrative in which, despising the enchantment of royal life, Prince Siddhārtha leaves the palace and his family in the middle of the night to embrace asceticism, in order to find a way to end suffering and rebirth." ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Despising the enchantment of royal life, Prince Siddhārtha decides to leave the palace and his family to embrace asceticism in order to find a way to end suffering and rebirth." ;
     skosxl:prefLabel diga_terms:3399202554,
         diga_terms:xl_it_9be16f11 .
 
@@ -17760,6 +17862,7 @@ diga_terms:4129377204 a skos:Concept ;
     dc:identifier "4129377204" ;
     dct:source source:repertorio ;
     skos-thes:broaderGeneric diga_terms:1199973794,
+        diga_terms:2525902700,
         diga_terms:638196766 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:altLabel diga_terms:xl_en_c11ddf09,
@@ -17864,6 +17967,15 @@ diga_terms:4151523512 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:629926953,
         diga_terms:xl_it_9f907e12 .
+
+diga_terms:4153126540 a skos:Concept ;
+    dc:identifier "4153126540" ;
+    skos-thes:broaderGeneric diga_terms:8049973750 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Uruvilvā is a village where the Bodhisattva, seeking enlightenment, is said to have practised extreme asceticism." ;
+    skosxl:prefLabel diga_terms:xl_en_c373c34a,
+        diga_terms:xl_it_7448504c,
+        diga_terms:xl_sa-Latn_4faefe92 .
 
 diga_terms:4159208492 a skos:Concept ;
     dc:identifier "4159208492" ;
@@ -18219,7 +18331,6 @@ diga_terms:4207936633 a skos:Concept ;
     dc:identifier "4207936633" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1956571624,
-        diga_terms:2525902700,
         diga_terms:2732920964,
         diga_terms:3766627674,
         diga_terms:4265586120 ;
@@ -18978,6 +19089,13 @@ diga_terms:464373315 a skos:Concept ;
     skosxl:prefLabel diga_terms:2702600571,
         diga_terms:3830881229 .
 
+diga_terms:4643926124 a skos:Concept ;
+    dc:identifier "4643926124" ;
+    skos-thes:broaderGeneric diga_terms:7102300787 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_0e86bd85,
+        diga_terms:xl_it_7cee9fb9 .
+
 diga_terms:464646625 a skos:Concept ;
     dc:identifier "464646625" ;
     dct:source source:repertorio ;
@@ -19041,6 +19159,15 @@ diga_terms:471145664 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_bed0f006,
         diga_terms:xl_it_55ddf499 .
+
+diga_terms:4713095754 a skos:Concept ;
+    dc:identifier "4713095754" ;
+    skos-thes:broaderGeneric diga_terms:8049973750 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Bodh Gayā is the location where Buddha is said to have attained Enlightenment under the Bodhi Tree." ;
+    skosxl:prefLabel diga_terms:xl_en_1c2de829,
+        diga_terms:xl_it_21843038,
+        diga_terms:xl_sa-Latn_ba2d9c3f .
 
 diga_terms:473170543 a skos:Concept ;
     dc:identifier "473170543" ;
@@ -19595,9 +19722,10 @@ diga_terms:565234777 a skos:Concept ;
 diga_terms:569929018 a skos:Concept ;
     dc:identifier "569929018" ;
     dct:source source:repertorio ;
-    skos-thes:broaderGeneric diga_terms:638196766 ;
+    skos-thes:broaderGeneric diga_terms:4046171316 ;
     skos:editorialNote "Figure label in repertorio: 1.1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "This folds pattern applies to standing buddhas" ;
     skosxl:altLabel diga_terms:xl_en_67130a53,
         diga_terms:xl_it_6709d17d ;
     skosxl:prefLabel diga_terms:2575828547,
@@ -19716,6 +19844,15 @@ diga_terms:584905566 a skos:Concept ;
     skosxl:prefLabel diga_terms:xl_en_68247ed7,
         diga_terms:xl_it_d26bc92a .
 
+diga_terms:5860688630 a skos:Concept ;
+    dc:identifier "5860688630" ;
+    skos-thes:broaderGeneric diga_terms:8049973750 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "According to Buddhist accounts, the Buddha died in the forest of Kuśinagara entering mahāparinirvāṇa." ;
+    skosxl:prefLabel diga_terms:xl_en_e5d5cafc,
+        diga_terms:xl_it_0d1f0286,
+        diga_terms:xl_sa-Latn_22522c52 .
+
 diga_terms:587536679 a skos:Concept ;
     dc:identifier "587536679" ;
     dct:source source:repertorio ;
@@ -19734,6 +19871,13 @@ diga_terms:594478313 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1406543912,
         diga_terms:1955627191 .
+
+diga_terms:5949131811 a skos:Concept ;
+    dc:identifier "5949131811" ;
+    skos-thes:broaderGeneric diga_terms:2967138990 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_23b4cad9,
+        diga_terms:xl_it_cc012572 .
 
 diga_terms:59507182 a skos:Concept ;
     dc:identifier "59507182" ;
@@ -19844,6 +19988,14 @@ diga_terms:614940407 a skos:Concept ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-078_Graphic_1621324578205_389.png>,
         <https://w3id.org/diga/illustrations/614940407> .
 
+diga_terms:6155437004 a skos:Concept ;
+    dc:identifier "6155437004" ;
+    skos-thes:broaderGeneric diga_terms:4046171316 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "This folds pattern applies to seated buddhas" ;
+    skosxl:prefLabel diga_terms:xl_en_31467eae,
+        diga_terms:xl_it_f6c3a801 .
+
 diga_terms:6165356636 a skos:Concept ;
     dc:identifier "6165356636" ;
     skos-thes:broaderGeneric diga_terms:1912936226 ;
@@ -19929,6 +20081,7 @@ diga_terms:638196766 a skos:Concept ;
     skos-thes:broaderGeneric diga_terms:444571792 ;
     skos:editorialNote "Figure label in repertorio: 1"@en ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "The drapery of the saṃghāti is rendered in dense rounded ridges falling in thick U-shaped folds. The uttarāsāṅga and the antaravāsaka hang in vertical pipe folds." ;
     skosxl:prefLabel diga_terms:1158004373,
         diga_terms:1455205020 ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-127_r_4.png>,
@@ -19949,6 +20102,7 @@ diga_terms:638908362 a skos:Concept ;
     dc:identifier "638908362" ;
     skos-thes:broaderPartitive diga_terms:2912783977 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Siddhārtha has to wrestle with other competitors to prove his worth." ;
     skosxl:altLabel diga_terms:3433891356,
         diga_terms:xl_en_492b787e ;
     skosxl:prefLabel diga_terms:2271109897,
@@ -20113,6 +20267,15 @@ diga_terms:660750467 a skos:Concept ;
         diga_terms:4258168474 ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-145_Graphic_1621417316195_6631.png>,
         <https://w3id.org/diga/illustrations/660750467> .
+
+diga_terms:6633575850 a skos:Concept ;
+    dc:identifier "6633575850" ;
+    skos-thes:broaderGeneric diga_terms:8049973750 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "According to sources Prince Siddhārta was born in the Lumbinī Grove when his mother Māyā was travelling to her parents’ abode in Devadaha." ;
+    skosxl:prefLabel diga_terms:xl_en_92db8a63,
+        diga_terms:xl_it_b1837169,
+        diga_terms:xl_sa-Latn_472a7287 .
 
 diga_terms:6647489419 a skos:Concept ;
     dc:identifier "6647489419" ;
@@ -20305,6 +20468,7 @@ diga_terms:68533147 a skos:Concept ;
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:1408741571 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "According to Buddhist texts eight parties claimed the Buddha’s relics with hostility. Eventually they submit to the arbitration of the brahmin Droṇa who equally distributes the Buddha’s holy remains." ;
     skosxl:altLabel diga_terms:3145526675,
         diga_terms:xl_en_51cba403,
         diga_terms:xl_en_6e85dd33,
@@ -20337,6 +20501,13 @@ diga_terms:6889273995 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_556229a7,
         diga_terms:xl_it_0f5a384e .
+
+diga_terms:6893085094 a skos:Concept ;
+    dc:identifier "6893085094" ;
+    skos-thes:broaderGeneric diga_terms:7102300787 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_ffd683cd,
+        diga_terms:xl_it_3cb7c582 .
 
 diga_terms:691302206 a skos:Concept ;
     dc:identifier "691302206" ;
@@ -20377,6 +20548,7 @@ diga_terms:700532296 a skos:Concept ;
         source:zwalf_catalogue_1996 ;
     skos-thes:broaderGeneric diga_terms:86855196 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "After dreaming of an elephant entering her side, Māyā and Śuddodhana ask the astrologer about the meaning of this dream. The wise man says that the queen has been chosen as the mother of a great being." ;
     skosxl:altLabel diga_terms:4128965113,
         diga_terms:xl_en_aa433497 ;
     skosxl:prefLabel diga_terms:1882350406,
@@ -20412,6 +20584,13 @@ diga_terms:707881177 a skos:Concept ;
         diga_terms:2675999364 ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-114_r_11.png>,
         <https://w3id.org/diga/illustrations/707881177> .
+
+diga_terms:7102300787 a skos:Concept ;
+    dc:identifier "7102300787" ;
+    skos-thes:broaderGeneric diga_terms:2269992085 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_b0d2c830,
+        diga_terms:xl_it_7298bab5 .
 
 diga_terms:713280566 a skos:Concept ;
     dc:identifier "713280566" ;
@@ -20576,6 +20755,15 @@ diga_terms:738233804 a skos:Concept ;
         diga_terms:1763216450 ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-175_r_5.png>,
         <https://w3id.org/diga/illustrations/738233804> .
+
+diga_terms:7390143089 a skos:Concept ;
+    dc:identifier "7390143089" ;
+    skos-thes:broaderGeneric diga_terms:8049973750 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Sarnath is associated with the Buddha's first Sermon and it is one of the holiest Buddhist places in the world. Here Buddha taught the four noble truths for the first time." ;
+    skosxl:prefLabel diga_terms:xl_en_b2a66772,
+        diga_terms:xl_it_a0f6527f,
+        diga_terms:xl_sa-Latn_c754e8e9 .
 
 diga_terms:741476828 a skos:Concept ;
     dc:identifier "741476828" ;
@@ -20761,6 +20949,15 @@ diga_terms:765566984 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:1063067779,
         diga_terms:3393398440 .
+
+diga_terms:7657068590 a skos:Concept ;
+    dc:identifier "7657068590" ;
+    skos-thes:broaderGeneric diga_terms:8049973750 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "Homeplace of Queen Māyā, the Buddha’s mother. Some sources say that she was heading there when she suddenly gave birth along the way." ;
+    skosxl:prefLabel diga_terms:xl_en_b73e6ddc,
+        diga_terms:xl_it_6438e8eb,
+        diga_terms:xl_sa-Latn_ea900b83 .
 
 diga_terms:767185560 a skos:Concept ;
     dc:identifier "767185560" ;
@@ -21734,6 +21931,14 @@ diga_terms:912733733 a skos:Concept ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-145_Graphic_1621417301954_6622.png>,
         <https://w3id.org/diga/illustrations/912733733> .
 
+diga_terms:9135635481 a skos:Concept ;
+    dc:identifier "9135635481" ;
+    skos-thes:broaderGeneric diga_terms:4046171316 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "This folds pattern applies to seated buddhas" ;
+    skosxl:prefLabel diga_terms:xl_en_a862e381,
+        diga_terms:xl_it_9a385be6 .
+
 diga_terms:9166923526 a skos:Concept ;
     dc:identifier "9166923526" ;
     skos-thes:broaderGeneric diga_terms:457283766 ;
@@ -21886,6 +22091,15 @@ diga_terms:933844093 a skos:Concept ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-161_Graphic_1621495980430_123.png>,
         <https://w3id.org/diga/illustrations/933844093> .
 
+diga_terms:9345353808 a skos:Concept ;
+    dc:identifier "9345353808" ;
+    skos-thes:broaderGeneric diga_terms:8049973750 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "According to some accounts after having renounced his princely life, the Bodhisattva went to the forest of Anopiyā and cut his hair, removed his royal attributes and became a wondering ascetic." ;
+    skosxl:prefLabel diga_terms:xl_en_bdfa1529,
+        diga_terms:xl_it_90199f2e,
+        diga_terms:xl_sa-Latn_ab792f42 .
+
 diga_terms:936168583 a skos:Concept ;
     dc:identifier "936168583" ;
     dct:source source:repertorio ;
@@ -21913,7 +22127,6 @@ diga_terms:936477406 a skos:Concept ;
     dc:identifier "936477406" ;
     dct:source source:repertorio ;
     skos-thes:broaderPartitive diga_terms:1956571624,
-        diga_terms:2525902700,
         diga_terms:2732920964,
         diga_terms:3766627674,
         diga_terms:4265586120 ;
@@ -21991,7 +22204,8 @@ diga_terms:9459176676 a skos:Concept ;
     dc:identifier "9459176676" ;
     skos-thes:broaderGeneric diga_terms:2912783977 ;
     skos:inScheme <https://w3id.org/diga/terms> ;
-    skos:note "The episode appears after the wrestling competition in the Sanghabhedavastu, MSV." ;
+    skos:note "Siddhārtha is asked to cut a bundle of reeds in one sword blow; at first, he seems to fail, but actually the cut was so sharp that the severed part of the bundle remains in place.",
+        "The episode appears after the wrestling competition in the Sanghabhedavastu, MSV." ;
     skosxl:prefLabel diga_terms:xl_en_b6b91b1c,
         diga_terms:xl_it_8b4509de,
         diga_terms:xl_sa-Latn_0d04d054 .
@@ -22115,6 +22329,15 @@ diga_terms:960182387 a skos:Concept ;
     foaf:depiction <https://pages.ceres.rub.de/diga/terms/illustrations/Repertorio-234_Graphic_1621692771804_2383.png>,
         <https://w3id.org/diga/illustrations/960182387> .
 
+diga_terms:9607570555 a skos:Concept ;
+    dc:identifier "9607570555" ;
+    skos-thes:broaderGeneric diga_terms:8049973750 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skos:note "It is said that the Buddha visited Vaiśālī three times. The Buddha also delivered his last sermon at Vaiśālī and announced his parinirvāṇa here." ;
+    skosxl:prefLabel diga_terms:xl_en_bc67de7a,
+        diga_terms:xl_it_9eb91dfe,
+        diga_terms:xl_sa-Latn_ca5cf0a0 .
+
 diga_terms:964521430 a skos:Concept ;
     dc:identifier "964521430" ;
     dct:source source:repertorio ;
@@ -22226,6 +22449,13 @@ diga_terms:9716734405 a skos:Concept ;
     skosxl:prefLabel diga_terms:xl_en_8be38997,
         diga_terms:xl_it_fb8b74de .
 
+diga_terms:9725071245 a skos:Concept ;
+    dc:identifier "9725071245" ;
+    skos-thes:broaderGeneric diga_terms:457283766 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_0858a3c5,
+        diga_terms:xl_it_07d865da .
+
 diga_terms:973678607 a skos:Concept ;
     dc:identifier "973678607" ;
     dct:source source:repertorio ;
@@ -22285,6 +22515,13 @@ diga_terms:9811978494 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:xl_en_3d126062,
         diga_terms:xl_it_6caba385 .
+
+diga_terms:9813671290 a skos:Concept ;
+    dc:identifier "9813671290" ;
+    skos-thes:broaderGeneric diga_terms:7102300787 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_bd30701d,
+        diga_terms:xl_it_444a7ab6 .
 
 diga_terms:981749965 a skos:Concept ;
     dc:identifier "981749965" ;
@@ -22430,9 +22667,6 @@ diga_terms:1012601603 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "undertrousers"@en .
 
-diga_terms:1013263599 a skosxl:Label ;
-    skosxl:literalForm "after the parinirvana"@en .
-
 diga_terms:1013446245 a skosxl:Label ;
     skosxl:literalForm "literary persons"@en .
 
@@ -22521,7 +22755,7 @@ diga_terms:103414157 a skosxl:Label ;
 
 diga_terms:1034256507 a skosxl:Label ;
     dct:source source:repertorio ;
-    skosxl:literalForm "cerchio alla base dell'uṣṇīṣa"@it .
+    skosxl:literalForm "uṣṇīṣa separato con cerchio/nastro alla base"@it .
 
 diga_terms:1034857458 a skosxl:Label ;
     skosxl:literalForm "miracle before the kāśyapas"@en .
@@ -26507,7 +26741,7 @@ diga_terms:2080089520 a skosxl:Label ;
 
 diga_terms:208046066 a skosxl:Label ;
     dct:source source:repertorio ;
-    skosxl:literalForm "ring at base of uṣṇīṣa"@en .
+    skosxl:literalForm "separated uṣṇīṣa with string/ring at the base "@en .
 
 diga_terms:2081170269 a skosxl:Label ;
     skosxl:literalForm "winged male figure"@en .
@@ -30826,7 +31060,7 @@ diga_terms:3206422308 a skosxl:Label ;
     skosxl:literalForm "row of square panels bisected by unfinished diagonals into triangles each containing a dot"@en .
 
 diga_terms:3208797037 a skosxl:Label ;
-    skosxl:literalForm "the bodhisattva in his palace with his wife and musicians"@en .
+    skosxl:literalForm "the bodhisattva in his palace with his women and musicians"@en .
 
 diga_terms:3208847004 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -31549,7 +31783,7 @@ diga_terms:3387952508 a skosxl:Label ;
     skosxl:literalForm "chandaka"@en .
 
 diga_terms:3388414562 a skosxl:Label ;
-    skosxl:literalForm "bodhisattva maitreya in tuṣita heaven"@en .
+    skosxl:literalForm "bodhisattva in tuṣita heaven"@en .
 
 diga_terms:3389438925 a skosxl:Label ;
     skosxl:literalForm "devadatta attempting to murder the buddha"@en .
@@ -32133,7 +32367,7 @@ diga_terms:3528421314 a skosxl:Label ;
     skosxl:literalForm "naigameśa"@en .
 
 diga_terms:353099314 a skosxl:Label ;
-    skosxl:literalForm "the parinirvana cycle"@en .
+    skosxl:literalForm "the parinirvāṇa cycle"@en .
 
 diga_terms:3531668474 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -37351,6 +37585,9 @@ diga_terms:xl_en_076389a1 a skosxl:Label ;
 diga_terms:xl_en_0772e8b7 a skosxl:Label ;
     skosxl:literalForm "capital"@en .
 
+diga_terms:xl_en_0858a3c5 a skosxl:Label ;
+    skosxl:literalForm "row of tangential disks"@en .
+
 diga_terms:xl_en_08613739 a skosxl:Label ;
     skosxl:literalForm "row of ogival leaves"@en .
 
@@ -37380,6 +37617,9 @@ diga_terms:xl_en_0ca38e59 a skosxl:Label ;
 diga_terms:xl_en_0dc580d9 a skosxl:Label ;
     skosxl:literalForm "persian snap"@en .
 
+diga_terms:xl_en_0e86bd85 a skosxl:Label ;
+    skosxl:literalForm "heavy drapery hiding the volumes of the figure"@en .
+
 diga_terms:xl_en_0f318b60 a skosxl:Label ;
     skosxl:literalForm "gesture of dispensing of boons"@en .
 
@@ -37391,6 +37631,9 @@ diga_terms:xl_en_0f69c1b6 a skosxl:Label ;
 
 diga_terms:xl_en_0f7cbc54 a skosxl:Label ;
     skosxl:literalForm "ceremonial materials"@en .
+
+diga_terms:xl_en_11b6d55a a skosxl:Label ;
+    skosxl:literalForm "mourning over buddha's coffin"@en .
 
 diga_terms:xl_en_11df851a a skosxl:Label ;
     skosxl:literalForm "farewell with horse kaṇṭhaka and horse groom channa"@en .
@@ -37440,6 +37683,9 @@ diga_terms:xl_en_19b56a30 a skosxl:Label ;
 diga_terms:xl_en_1b48d971 a skosxl:Label ;
     skosxl:literalForm "garland bearer"@en .
 
+diga_terms:xl_en_1c2de829 a skosxl:Label ;
+    skosxl:literalForm "bodh gayā"@en .
+
 diga_terms:xl_en_1c86c0d5 a skosxl:Label ;
     skosxl:literalForm "nalinī [lotus]"@en .
 
@@ -37475,14 +37721,23 @@ diga_terms:xl_en_22cc0673 a skosxl:Label ;
 diga_terms:xl_en_235d6945 a skosxl:Label ;
     skosxl:literalForm "wedding of the bodhisattva"@en .
 
+diga_terms:xl_en_23b4cad9 a skosxl:Label ;
+    skosxl:literalForm "straight festoon with lozenges"@en .
+
 diga_terms:xl_en_23fdd6ba a skosxl:Label ;
     skosxl:literalForm "winged putto"@en .
 
 diga_terms:xl_en_25e9fc83 a skosxl:Label ;
     skosxl:literalForm "decorated begging bowl"@en .
 
+diga_terms:xl_en_2657262b a skosxl:Label ;
+    skosxl:literalForm "presentation of the four bowls"@en .
+
 diga_terms:xl_en_267f3490 a skosxl:Label ;
     skosxl:literalForm "offering of the two merchants trapuṣa and bhallika"@en .
+
+diga_terms:xl_en_26886930 a skosxl:Label ;
+    skosxl:literalForm "tight fitting drapery"@en .
 
 diga_terms:xl_en_26ad3820 a skosxl:Label ;
     skosxl:literalForm "offering of nandā and balā"@en .
@@ -37558,6 +37813,9 @@ diga_terms:xl_en_3075f0ea a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "second saddle-bow"@en .
 
+diga_terms:xl_en_31467eae a skosxl:Label ;
+    skosxl:literalForm "saṃghāṭī with one-fold pattern"@en .
+
 diga_terms:xl_en_31584b54 a skosxl:Label ;
     dct:source "Kucha Project https://kuchatest.saw-leipzig.de/pr"@en ;
     skosxl:literalForm "conversion of bimbisāra, king of magadha in rājagṛha, in front of whom monk kāśyapa, the former brahmanical ascetic urubilva-kāśyapa demonstrates his magical abilities"@en .
@@ -37609,6 +37867,9 @@ diga_terms:xl_en_3c810d52 a skosxl:Label ;
 diga_terms:xl_en_3ca9dff6 a skosxl:Label ;
     skosxl:literalForm "battle"@en .
 
+diga_terms:xl_en_3ce39de2 a skosxl:Label ;
+    skosxl:literalForm "departure of māyā from kapilavastu"@en .
+
 diga_terms:xl_en_3cfd919f a skosxl:Label ;
     skosxl:literalForm "straight festoon with an alternating pattern of oblique weaving lines and pearls between listels"@en .
 
@@ -37634,6 +37895,9 @@ diga_terms:xl_en_3e6e067e a skosxl:Label ;
 
 diga_terms:xl_en_3efd030c a skosxl:Label ;
     skosxl:literalForm "tear"@en .
+
+diga_terms:xl_en_3f2a277c a skosxl:Label ;
+    skosxl:literalForm "separated ūṣṇīṣa with a double string at the base"@en .
 
 diga_terms:xl_en_3fa90db8 a skosxl:Label ;
     dct:source "Kucha Project https://kuchatest.saw-leipzig.de/pr"@en ;
@@ -37691,6 +37955,9 @@ diga_terms:xl_en_454b9c42 a skosxl:Label ;
 
 diga_terms:xl_en_45cff17a a skosxl:Label ;
     skosxl:literalForm "flask"@en .
+
+diga_terms:xl_en_45dec96d a skosxl:Label ;
+    skosxl:literalForm "sankāṣya"@en .
 
 diga_terms:xl_en_460d7406 a skosxl:Label ;
     skosxl:literalForm "mahābhiniṣkramaṇa"@en .
@@ -37914,6 +38181,9 @@ diga_terms:xl_en_66fc49d0 a skosxl:Label ;
     dct:source "Kucha Project https://kuchatest.saw-leipzig.de/iconography/"@en ;
     skosxl:literalForm "brahmin demands the head of the king"@en .
 
+diga_terms:xl_en_670fc8ac a skosxl:Label ;
+    skosxl:literalForm "kauśambī"@en .
+
 diga_terms:xl_en_67130a53 a skosxl:Label ;
     skosxl:literalForm "overrobe with side folds"@en .
 
@@ -37953,6 +38223,9 @@ diga_terms:xl_en_6bac9ab1 a skosxl:Label ;
 diga_terms:xl_en_6c25707e a skosxl:Label ;
     skosxl:literalForm "solar disk on crescent moon"@en .
 
+diga_terms:xl_en_6c41eddf a skosxl:Label ;
+    skosxl:literalForm "wet effect drapery"@en .
+
 diga_terms:xl_en_6cc7d29f a skosxl:Label ;
     skosxl:literalForm "row of upright ogival leaves"@en .
 
@@ -37965,6 +38238,9 @@ diga_terms:xl_en_6eec8505 a skosxl:Label ;
 
 diga_terms:xl_en_6f2af3d9 a skosxl:Label ;
     skosxl:literalForm "capital composed of horizontal mouldings with superimposed projecting fillets"@en .
+
+diga_terms:xl_en_6fd6243e a skosxl:Label ;
+    skosxl:literalForm "sumati"@en .
 
 diga_terms:xl_en_700c4085 a skosxl:Label ;
     skosxl:literalForm "meeting with his father śuddhodana"@en .
@@ -38013,13 +38289,22 @@ diga_terms:xl_en_78e01bc4 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "multi-storey aedicula, square in plan, with four-sided curved sloping roof and dome"@en .
 
+diga_terms:xl_en_799a066a a skosxl:Label ;
+    skosxl:literalForm "figured panel"@en .
+
 diga_terms:xl_en_79c2fe8e a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "musical instruments"@en .
 
+diga_terms:xl_en_7a39af68 a skosxl:Label ;
+    skosxl:literalForm "ṛṣi"@en .
+
 diga_terms:xl_en_7ab37317 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "gesture of conversation/question with right hand thumb, index and middle finger extended and joined"@en .
+
+diga_terms:xl_en_7b885f16 a skosxl:Label ;
+    skosxl:literalForm "story of trapuṣa and bhallika"@en .
 
 diga_terms:xl_en_7ba78295 a skosxl:Label ;
     skosxl:literalForm "gesture of knowledge"@en .
@@ -38110,6 +38395,9 @@ diga_terms:xl_en_85274e67 a skosxl:Label ;
 diga_terms:xl_en_8556539e a skosxl:Label ;
     skosxl:literalForm "kamaṇḍalu"@en .
 
+diga_terms:xl_en_85dc3273 a skosxl:Label ;
+    skosxl:literalForm "rājagṛha"@en .
+
 diga_terms:xl_en_86adad90 a skosxl:Label ;
     skosxl:literalForm "base of scotia type with double bead-and-reel row"@en .
 
@@ -38196,6 +38484,9 @@ diga_terms:xl_en_914cf2e8 a skosxl:Label ;
 diga_terms:xl_en_92a1fddb a skosxl:Label ;
     skosxl:literalForm "architraved cornice of monument"@en .
 
+diga_terms:xl_en_92db8a63 a skosxl:Label ;
+    skosxl:literalForm "lumbini"@en .
+
 diga_terms:xl_en_92f9342a a skosxl:Label ;
     dct:source "Kucha Project https://kuchatest.saw-leipzig.de/pr"@en ;
     skosxl:literalForm "aṅgulimāla, a mass murderer who collects the fingers of his victims"@en .
@@ -38217,6 +38508,9 @@ diga_terms:xl_en_946ef60d a skosxl:Label ;
 diga_terms:xl_en_94b992eb a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "tower-shaped aedicula, square in plan, with four-sided curved sloping roof and dome"@en .
+
+diga_terms:xl_en_94fd7726 a skosxl:Label ;
+    skosxl:literalForm "śrāvastī"@en .
 
 diga_terms:xl_en_955aea2a a skosxl:Label ;
     skosxl:literalForm "attendant"@en .
@@ -38265,7 +38559,7 @@ diga_terms:xl_en_9fb5cdae a skosxl:Label ;
     skosxl:literalForm "quiver with double case for arrows and bowsheath"@en .
 
 diga_terms:xl_en_a0ee73de a skosxl:Label ;
-    skosxl:literalForm "place (locality)"@en .
+    skosxl:literalForm "locality"@en .
 
 diga_terms:xl_en_a21dbe89 a skosxl:Label ;
     skosxl:literalForm "scale coat with scales curving downwards"@en .
@@ -38322,6 +38616,9 @@ diga_terms:xl_en_a8390abf a skosxl:Label ;
 
 diga_terms:xl_en_a8590e17 a skosxl:Label ;
     skosxl:literalForm "big eye"@en .
+
+diga_terms:xl_en_a862e381 a skosxl:Label ;
+    skosxl:literalForm "saṃghāṭī with two-fold pattern"@en .
 
 diga_terms:xl_en_a8cf3704 a skosxl:Label ;
     skosxl:literalForm "place"@en .
@@ -38388,6 +38685,9 @@ diga_terms:xl_en_af45bb93 a skosxl:Label ;
 diga_terms:xl_en_b05f46b8 a skosxl:Label ;
     skosxl:literalForm "hair with large wreath"@en .
 
+diga_terms:xl_en_b0d2c830 a skosxl:Label ;
+    skosxl:literalForm "drapery [typology]"@en .
+
 diga_terms:xl_en_b1239bbb a skosxl:Label ;
     skosxl:literalForm "sasapaṇḍita-cariya"@en .
 
@@ -38396,6 +38696,9 @@ diga_terms:xl_en_b16c24dd a skosxl:Label ;
 
 diga_terms:xl_en_b26eed23 a skosxl:Label ;
     skosxl:literalForm "conversion of the buddha's half cousin nanda"@en .
+
+diga_terms:xl_en_b2a66772 a skosxl:Label ;
+    skosxl:literalForm "sarnath"@en .
 
 diga_terms:xl_en_b2bc58dd a skosxl:Label ;
     skosxl:literalForm "attributes"@en .
@@ -38417,6 +38720,9 @@ diga_terms:xl_en_b6b91b1c a skosxl:Label ;
 diga_terms:xl_en_b6cffeed a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "pteryges"@en .
+
+diga_terms:xl_en_b73e6ddc a skosxl:Label ;
+    skosxl:literalForm "devadaha"@en .
 
 diga_terms:xl_en_b837db29 a skosxl:Label ;
     skosxl:literalForm "diamond"@en .
@@ -38459,8 +38765,14 @@ diga_terms:xl_en_bbe75181 a skosxl:Label ;
 diga_terms:xl_en_bc2bdc97 a skosxl:Label ;
     skosxl:literalForm "story of the six-tusked elephant"@en .
 
+diga_terms:xl_en_bc67de7a a skosxl:Label ;
+    skosxl:literalForm "vaiśālī"@en .
+
 diga_terms:xl_en_bd067e9c a skosxl:Label ;
     skosxl:literalForm "buddha's visit to kapilavastu"@en .
+
+diga_terms:xl_en_bd30701d a skosxl:Label ;
+    skosxl:literalForm "conventional/simplified folds"@en .
 
 diga_terms:xl_en_bd82b593 a skosxl:Label ;
     skosxl:literalForm "buddha in the fire temple"@en .
@@ -38470,6 +38782,9 @@ diga_terms:xl_en_bdc944ed a skosxl:Label ;
 
 diga_terms:xl_en_bdefd7e0 a skosxl:Label ;
     skosxl:literalForm "brahmin"@en .
+
+diga_terms:xl_en_bdfa1529 a skosxl:Label ;
+    skosxl:literalForm "anopiyā"@en .
 
 diga_terms:xl_en_be52cee2 a skosxl:Label ;
     skosxl:literalForm "warrior attire"@en .
@@ -38522,6 +38837,9 @@ diga_terms:xl_en_c1303289 a skosxl:Label ;
 diga_terms:xl_en_c1beef60 a skosxl:Label ;
     skosxl:literalForm "gesture of horns"@en .
 
+diga_terms:xl_en_c373c34a a skosxl:Label ;
+    skosxl:literalForm "uruvilvā"@en .
+
 diga_terms:xl_en_c3d34504 a skosxl:Label ;
     skosxl:literalForm "naḍa"@en .
 
@@ -38551,6 +38869,9 @@ diga_terms:xl_en_c62af28e a skosxl:Label ;
 diga_terms:xl_en_c7e5d358 a skosxl:Label ;
     skosxl:literalForm "capital composed of horizontal mouldings, with ovolo and cavetto"@en .
 
+diga_terms:xl_en_c85fdaba a skosxl:Label ;
+    skosxl:literalForm "siddhārtha in the women's quarter/chambers"@en .
+
 diga_terms:xl_en_c99063e1 a skosxl:Label ;
     dct:source "Kucha Project https://kuchatest.saw-leipzig.de/pr"@en ;
     skosxl:literalForm "nāga mucalinda, a king of the snake deities, who protects the buddha from the rain"@en .
@@ -38577,6 +38898,9 @@ diga_terms:xl_en_cb731cc5 a skosxl:Label ;
 
 diga_terms:xl_en_cc93117c a skosxl:Label ;
     skosxl:literalForm "vajra"@en .
+
+diga_terms:xl_en_cd36cf73 a skosxl:Label ;
+    skosxl:literalForm "types of folds"@en .
 
 diga_terms:xl_en_cdcb8444 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -38704,9 +39028,6 @@ diga_terms:xl_en_dc7d972b a skosxl:Label ;
 diga_terms:xl_en_dc92a5c2 a skosxl:Label ;
     skosxl:literalForm "v-shaped neckline"@en .
 
-diga_terms:xl_en_dcb5def4 a skosxl:Label ;
-    skosxl:literalForm "string at base of uṣṇīṣa"@en .
-
 diga_terms:xl_en_de0d5070 a skosxl:Label ;
     skosxl:literalForm "lotus with a half-curved stalk"@en .
 
@@ -38716,6 +39037,9 @@ diga_terms:xl_en_df4dfd17 a skosxl:Label ;
 diga_terms:xl_en_e1dfb3c2 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "furniture"@en .
+
+diga_terms:xl_en_e23b04d7 a skosxl:Label ;
+    skosxl:literalForm "continuous, regular folds"@en .
 
 diga_terms:xl_en_e251dcb1 a skosxl:Label ;
     skosxl:literalForm "hair types"@en .
@@ -38747,8 +39071,14 @@ diga_terms:xl_en_e4b64651 a skosxl:Label ;
 diga_terms:xl_en_e4cfe544 a skosxl:Label ;
     skosxl:literalForm "door latch"@en .
 
+diga_terms:xl_en_e4f0af57 a skosxl:Label ;
+    skosxl:literalForm "row of pipal leaves with intermediate (round) elements"@en .
+
 diga_terms:xl_en_e52cfb4a a skosxl:Label ;
     skosxl:literalForm "long garment"@en .
+
+diga_terms:xl_en_e5d5cafc a skosxl:Label ;
+    skosxl:literalForm "kuśinagara"@en .
 
 diga_terms:xl_en_e766d402 a skosxl:Label ;
     skosxl:literalForm "insects"@en .
@@ -38770,7 +39100,7 @@ diga_terms:xl_en_eacabab4 a skosxl:Label ;
     skosxl:literalForm "śibi's gift of flesh"@en .
 
 diga_terms:xl_en_eb594c21 a skosxl:Label ;
-    skosxl:literalForm "joined hands with crossed fingers and wrists slightly bent downwards"@en .
+    skosxl:literalForm "joined hands with wrists slightly bent downwards"@en .
 
 diga_terms:xl_en_ebaa26a7 a skosxl:Label ;
     skosxl:literalForm "road"@en .
@@ -38903,6 +39233,9 @@ diga_terms:xl_en_fe7aec3c a skosxl:Label ;
 diga_terms:xl_en_febd5fc7 a skosxl:Label ;
     skosxl:literalForm "white dog"@en .
 
+diga_terms:xl_en_ffd683cd a skosxl:Label ;
+    skosxl:literalForm "alternating wide and narrow folds"@en .
+
 diga_terms:xl_it_0018aaee a skosxl:Label ;
     skosxl:literalForm "buddha e l'interrogatore di teschi"@it .
 
@@ -38916,8 +39249,14 @@ diga_terms:xl_it_0076d51b a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "edificio a loggiato a piani multipli con parapetto a balaustra, colonne sostenenti architrave, copertura a quattro spioventi curvilinei e cupola"@it .
 
+diga_terms:xl_it_00e93aca a skosxl:Label ;
+    skosxl:literalForm "drappeggio ad effetto bagnato"@it .
+
 diga_terms:xl_it_011148bc a skosxl:Label ;
-    skosxl:literalForm "bodhisattva maitreya nel paradiso tuṣita"@it .
+    skosxl:literalForm "bodhisattva nel paradiso tuṣita"@it .
+
+diga_terms:xl_it_013c599b a skosxl:Label ;
+    skosxl:literalForm "sankāṣya"@it .
 
 diga_terms:xl_it_015e5011 a skosxl:Label ;
     skosxl:literalForm "buddha in meditazione"@it .
@@ -38984,6 +39323,9 @@ diga_terms:xl_it_06d43d29 a skosxl:Label ;
 
 diga_terms:xl_it_0776d7d7 a skosxl:Label ;
     skosxl:literalForm "rāma"@it .
+
+diga_terms:xl_it_07d865da a skosxl:Label ;
+    skosxl:literalForm "fila di dischi tangenti"@it .
 
 diga_terms:xl_it_07dc2643 a skosxl:Label ;
     skosxl:literalForm "fascia frontale con due file di perline quadrate"@it .
@@ -39061,6 +39403,9 @@ diga_terms:xl_it_0c81ae21 a skosxl:Label ;
 
 diga_terms:xl_it_0ce3d141 a skosxl:Label ;
     skosxl:literalForm "sundarananda"@it .
+
+diga_terms:xl_it_0d1f0286 a skosxl:Label ;
+    skosxl:literalForm "kuśinagara"@it .
 
 diga_terms:xl_it_0dadab95 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -39180,6 +39525,9 @@ diga_terms:xl_it_160f089e a skosxl:Label ;
 diga_terms:xl_it_161331f9 a skosxl:Label ;
     skosxl:literalForm "pharro"@it .
 
+diga_terms:xl_it_1643424e a skosxl:Label ;
+    skosxl:literalForm "scena di lutto con sarcofago del buddha"@it .
+
 diga_terms:xl_it_166b5d19 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "caruncola lacrimale"@it .
@@ -39241,6 +39589,9 @@ diga_terms:xl_it_1c9f3848 a skosxl:Label ;
 diga_terms:xl_it_1cd377ec a skosxl:Label ;
     skosxl:literalForm "scena erotica"@it .
 
+diga_terms:xl_it_1d173a84 a skosxl:Label ;
+    skosxl:literalForm "pieghe regolari, continue"@it .
+
 diga_terms:xl_it_1e351979 a skosxl:Label ;
     skosxl:literalForm "buddha e bodhisattva sotto gli archi"@it .
 
@@ -39282,6 +39633,9 @@ diga_terms:xl_it_201aaf72 a skosxl:Label ;
 
 diga_terms:xl_it_20670f44 a skosxl:Label ;
     skosxl:literalForm "erba non recisa"@it .
+
+diga_terms:xl_it_21843038 a skosxl:Label ;
+    skosxl:literalForm "bodh gayā"@it .
 
 diga_terms:xl_it_21c1b328 a skosxl:Label ;
     skosxl:literalForm "demone"@it .
@@ -39443,6 +39797,9 @@ diga_terms:xl_it_345099cc a skosxl:Label ;
 diga_terms:xl_it_3492114f a skosxl:Label ;
     skosxl:literalForm "capitello a modanature orizzontali, con guscio e ovolo "@it .
 
+diga_terms:xl_it_3493490b a skosxl:Label ;
+    skosxl:literalForm "episodio di trapuṣa e bhallika"@it .
+
 diga_terms:xl_it_352e8130 a skosxl:Label ;
     skosxl:literalForm "buddha con donatore/i e/o devoto/i"@it .
 
@@ -39505,6 +39862,9 @@ diga_terms:xl_it_3bc43795 a skosxl:Label ;
 diga_terms:xl_it_3c138fe1 a skosxl:Label ;
     skosxl:literalForm "donatrice"@it .
 
+diga_terms:xl_it_3cb7c582 a skosxl:Label ;
+    skosxl:literalForm "pieghe alternate ampie e strette"@it .
+
 diga_terms:xl_it_3cf09759 a skosxl:Label ;
     skosxl:literalForm "śaśa jātaka"@it .
 
@@ -39565,6 +39925,9 @@ diga_terms:xl_it_43ac01bd a skosxl:Label ;
 diga_terms:xl_it_4427941b a skosxl:Label ;
     skosxl:literalForm "corpetto exomide di fibre"@it .
 
+diga_terms:xl_it_444a7ab6 a skosxl:Label ;
+    skosxl:literalForm "pieghe semplificate/schematiche"@it .
+
 diga_terms:xl_it_44c01619 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "fauna"@it .
@@ -39574,9 +39937,6 @@ diga_terms:xl_it_45f6baf6 a skosxl:Label ;
 
 diga_terms:xl_it_4728eef4 a skosxl:Label ;
     skosxl:literalForm "rāhula"@it .
-
-diga_terms:xl_it_477b25ee a skosxl:Label ;
-    skosxl:literalForm "nastro alla base dell'uṣṇīṣa"@it .
 
 diga_terms:xl_it_47b69dac a skosxl:Label ;
     skosxl:literalForm "esortazione alla nascita"@it .
@@ -39671,6 +40031,9 @@ diga_terms:xl_it_4dcce0af a skosxl:Label ;
 
 diga_terms:xl_it_4e9c5af4 a skosxl:Label ;
     skosxl:literalForm "nimbo con una fascia con fila di denti di sega"@it .
+
+diga_terms:xl_it_4ebd6709 a skosxl:Label ;
+    skosxl:literalForm "rājagṛha"@it .
 
 diga_terms:xl_it_4ec778f0 a skosxl:Label ;
     skosxl:literalForm "capitello a modanature orizzontali, con ovolo"@it .
@@ -39851,6 +40214,9 @@ diga_terms:xl_it_63a71b5b a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "carro con cassa decorata"@it .
 
+diga_terms:xl_it_6438e8eb a skosxl:Label ;
+    skosxl:literalForm "devadaha"@it .
+
 diga_terms:xl_it_6473c074 a skosxl:Label ;
     skosxl:literalForm "prima meditazione"@it .
 
@@ -39919,6 +40285,9 @@ diga_terms:xl_it_6ba5959e a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "il lavoro dello scultore"@it .
 
+diga_terms:xl_it_6ba701df a skosxl:Label ;
+    skosxl:literalForm "sumati"@it .
+
 diga_terms:xl_it_6c3347fc a skosxl:Label ;
     skosxl:literalForm "buddha compie un miracolo di fronte agli asceti"@it .
 
@@ -39964,6 +40333,9 @@ diga_terms:xl_it_6efe800b a skosxl:Label ;
 diga_terms:xl_it_6f2cc019 a skosxl:Label ;
     skosxl:literalForm "fascia da fianchi decorata"@it .
 
+diga_terms:xl_it_6f5841e7 a skosxl:Label ;
+    skosxl:literalForm "śrāvastī"@it .
+
 diga_terms:xl_it_6f609b1a a skosxl:Label ;
     skosxl:literalForm "āsana"@it .
 
@@ -39984,6 +40356,9 @@ diga_terms:xl_it_71aab9b4 a skosxl:Label ;
 
 diga_terms:xl_it_726dc148 a skosxl:Label ;
     skosxl:literalForm "guardiano"@it .
+
+diga_terms:xl_it_7298bab5 a skosxl:Label ;
+    skosxl:literalForm "panneggio [tipologia]"@it .
 
 diga_terms:xl_it_72a2944b a skosxl:Label ;
     skosxl:literalForm "proboscide"@it .
@@ -40007,6 +40382,9 @@ diga_terms:xl_it_74308e29 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "stūpa a pianta circolare con scale cruciformi"@it .
 
+diga_terms:xl_it_7448504c a skosxl:Label ;
+    skosxl:literalForm "uruvilvā"@it .
+
 diga_terms:xl_it_7478e581 a skosxl:Label ;
     skosxl:literalForm "śibi dona gli occhi"@it .
 
@@ -40014,10 +40392,10 @@ diga_terms:xl_it_75230eaa a skosxl:Label ;
     skosxl:literalForm "areola"@it .
 
 diga_terms:xl_it_7584cb32 a skosxl:Label ;
-    skosxl:literalForm "mani giunte con dita intrecciate e polsi leggermente flessi verso il basso"@it .
+    skosxl:literalForm "mani giunte con polsi leggermente flessi verso il basso"@it .
 
 diga_terms:xl_it_75e7d5f8 a skosxl:Label ;
-    skosxl:literalForm "ciclo del parininvana"@it .
+    skosxl:literalForm "ciclo del parinirvāṇa"@it .
 
 diga_terms:xl_it_763cf779 a skosxl:Label ;
     skosxl:literalForm "lavaggio della veste"@it .
@@ -40044,12 +40422,18 @@ diga_terms:xl_it_77b140e4 a skosxl:Label ;
 diga_terms:xl_it_78c7d736 a skosxl:Label ;
     skosxl:literalForm "loto con stelo semi-ricurvo"@it .
 
+diga_terms:xl_it_78d4591a a skosxl:Label ;
+    skosxl:literalForm "pannello figurato"@it .
+
 diga_terms:xl_it_78ef5858 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "barca"@it .
 
 diga_terms:xl_it_78f371ee a skosxl:Label ;
     skosxl:literalForm "sattvāsana"@it .
+
+diga_terms:xl_it_79595a37 a skosxl:Label ;
+    skosxl:literalForm "panneggio aderente"@it .
 
 diga_terms:xl_it_798447bf a skosxl:Label ;
     dct:source source:repertorio ;
@@ -40072,6 +40456,9 @@ diga_terms:xl_it_7ae3caed a skosxl:Label ;
 
 diga_terms:xl_it_7cecfaee a skosxl:Label ;
     skosxl:literalForm "añjalimudrā"@it .
+
+diga_terms:xl_it_7cee9fb9 a skosxl:Label ;
+    skosxl:literalForm "panneggio pesante che copre i volumi della figura"@it .
 
 diga_terms:xl_it_7cfb45d3 a skosxl:Label ;
     skosxl:literalForm "gare atletiche"@it .
@@ -40275,14 +40662,23 @@ diga_terms:xl_it_8fa49163 a skosxl:Label ;
 diga_terms:xl_it_8fe90cd4 a skosxl:Label ;
     skosxl:literalForm "lakṣmaṇa"@it .
 
+diga_terms:xl_it_90199f2e a skosxl:Label ;
+    skosxl:literalForm "anopiyā"@it .
+
 diga_terms:xl_it_9026f5c1 a skosxl:Label ;
     skosxl:literalForm "poseidone"@it .
+
+diga_terms:xl_it_9064ab14 a skosxl:Label ;
+    skosxl:literalForm "kauśambī"@it .
 
 diga_terms:xl_it_9068b4b3 a skosxl:Label ;
     skosxl:literalForm "amrapālī"@it .
 
 diga_terms:xl_it_906a4a33 a skosxl:Label ;
     skosxl:literalForm "skanda"@it .
+
+diga_terms:xl_it_90d54563 a skosxl:Label ;
+    skosxl:literalForm "partenza di māyā da kapilavastu"@it .
 
 diga_terms:xl_it_90dc3b17 a skosxl:Label ;
     skosxl:literalForm "devadatta uccide l'elefante"@it .
@@ -40378,6 +40774,9 @@ diga_terms:xl_it_99f52349 a skosxl:Label ;
 diga_terms:xl_it_99fcd10e a skosxl:Label ;
     skosxl:literalForm "dono di āmrapālī"@it .
 
+diga_terms:xl_it_9a385be6 a skosxl:Label ;
+    skosxl:literalForm "saṃghāṭī con doppia serie di pieghe"@it .
+
 diga_terms:xl_it_9aedf60d a skosxl:Label ;
     skosxl:literalForm "interpretazione dell'oroscopo"@it .
 
@@ -40411,6 +40810,9 @@ diga_terms:xl_it_9e387bf3 a skosxl:Label ;
 diga_terms:xl_it_9e80fb1c a skosxl:Label ;
     skosxl:literalForm "atlante"@it .
 
+diga_terms:xl_it_9eb91dfe a skosxl:Label ;
+    skosxl:literalForm "vaiśālī"@it .
+
 diga_terms:xl_it_9ecc289c a skosxl:Label ;
     skosxl:literalForm "serratura a traversa"@it .
 
@@ -40441,8 +40843,11 @@ diga_terms:xl_it_a0691fcf a skosxl:Label ;
 diga_terms:xl_it_a0d739fa a skosxl:Label ;
     skosxl:literalForm "buddha con divinità in adorazione"@it .
 
+diga_terms:xl_it_a0f6527f a skosxl:Label ;
+    skosxl:literalForm "sarnath"@it .
+
 diga_terms:xl_it_a1423308 a skosxl:Label ;
-    skosxl:literalForm "visita agli asceti"@it .
+    skosxl:literalForm "visita all'asceta"@it .
 
 diga_terms:xl_it_a14da2a1 a skosxl:Label ;
     skosxl:literalForm "bilancia"@it .
@@ -40467,6 +40872,9 @@ diga_terms:xl_it_a3348200 a skosxl:Label ;
 
 diga_terms:xl_it_a3c478d3 a skosxl:Label ;
     skosxl:literalForm "base a toro"@it .
+
+diga_terms:xl_it_a4318e86 a skosxl:Label ;
+    skosxl:literalForm "siddhārtha nelle stanze delle donne"@it .
 
 diga_terms:xl_it_a4653bff a skosxl:Label ;
     skosxl:literalForm "storia di paṭikaputra"@it .
@@ -40623,6 +41031,9 @@ diga_terms:xl_it_b0e29b6a a skosxl:Label ;
 diga_terms:xl_it_b14fd428 a skosxl:Label ;
     skosxl:literalForm "corno"@it .
 
+diga_terms:xl_it_b1837169 a skosxl:Label ;
+    skosxl:literalForm "lumbini"@it .
+
 diga_terms:xl_it_b1efe388 a skosxl:Label ;
     skosxl:literalForm "buddha in grotta"@it .
 
@@ -40734,7 +41145,7 @@ diga_terms:xl_it_b9d3c796 a skosxl:Label ;
     skosxl:literalForm "ambiente antropizzato"@it .
 
 diga_terms:xl_it_ba05a0fe a skosxl:Label ;
-    skosxl:literalForm "luogo (località specifica)"@it .
+    skosxl:literalForm "località"@it .
 
 diga_terms:xl_it_ba3321cc a skosxl:Label ;
     skosxl:literalForm "scollatura ovale"@it .
@@ -40925,6 +41336,9 @@ diga_terms:xl_it_cb1281f5 a skosxl:Label ;
 diga_terms:xl_it_cb58d443 a skosxl:Label ;
     skosxl:literalForm "madrī"@it .
 
+diga_terms:xl_it_cc012572 a skosxl:Label ;
+    skosxl:literalForm "festone rettilineo a losenghe"@it .
+
 diga_terms:xl_it_cc0893f4 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "gola"@it .
@@ -40958,6 +41372,9 @@ diga_terms:xl_it_ce266c13 a skosxl:Label ;
 
 diga_terms:xl_it_ce5ce032 a skosxl:Label ;
     skosxl:literalForm "protezione delle reliquie"@it .
+
+diga_terms:xl_it_ce603381 a skosxl:Label ;
+    skosxl:literalForm "ṛṣī"@it .
 
 diga_terms:xl_it_ce92b0cb a skosxl:Label ;
     skosxl:literalForm "genitali maschili"@it .
@@ -41178,6 +41595,9 @@ diga_terms:xl_it_e3dbdcd2 a skosxl:Label ;
 diga_terms:xl_it_e3e32a40 a skosxl:Label ;
     skosxl:literalForm "bhallika"@it .
 
+diga_terms:xl_it_e41841e8 a skosxl:Label ;
+    skosxl:literalForm "fila di foglie di pipal con elementi (circolari) interrmedi"@it .
+
 diga_terms:xl_it_e4353975 a skosxl:Label ;
     skosxl:literalForm "balconata"@it .
 
@@ -41189,6 +41609,9 @@ diga_terms:xl_it_e4d2c7a8 a skosxl:Label ;
 
 diga_terms:xl_it_e4e2095e a skosxl:Label ;
     skosxl:literalForm "divinità-uccello"@it .
+
+diga_terms:xl_it_e5018328 a skosxl:Label ;
+    skosxl:literalForm "tipi di pieghe"@it .
 
 diga_terms:xl_it_e5439b4d a skosxl:Label ;
     dct:source source:repertorio ;
@@ -41223,6 +41646,9 @@ diga_terms:xl_it_e92f8ca1 a skosxl:Label ;
 
 diga_terms:xl_it_e945b7de a skosxl:Label ;
     skosxl:literalForm "dono del jetavana"@it .
+
+diga_terms:xl_it_ea00f74b a skosxl:Label ;
+    skosxl:literalForm "siddhārtha nel gineceo"@it .
 
 diga_terms:xl_it_ea037c78 a skosxl:Label ;
     skosxl:literalForm "coppia"@it .
@@ -41271,6 +41697,9 @@ diga_terms:xl_it_ee63faa1 a skosxl:Label ;
 
 diga_terms:xl_it_ee7c2180 a skosxl:Label ;
     skosxl:literalForm "bagno nel fiume"@it .
+
+diga_terms:xl_it_eece6eb2 a skosxl:Label ;
+    skosxl:literalForm "ūṣṇīṣa separata con doppio cerchio/nastro alla base"@it .
 
 diga_terms:xl_it_ef29dad4 a skosxl:Label ;
     skosxl:literalForm "leggenda di dīpaṅkara"@it .
@@ -41346,6 +41775,9 @@ diga_terms:xl_it_f61f4298 a skosxl:Label ;
 
 diga_terms:xl_it_f6a2675f a skosxl:Label ;
     skosxl:literalForm "auto-mortificazione"@it .
+
+diga_terms:xl_it_f6c3a801 a skosxl:Label ;
+    skosxl:literalForm "saṃghāṭī con serie singola di pieghe"@it .
 
 diga_terms:xl_it_f73362f8 a skosxl:Label ;
     skosxl:literalForm "capitello figurato gandharico-corinzio"@it .
@@ -41485,6 +41917,9 @@ diga_terms:xl_sa-Latn_1c44a3d6 a skosxl:Label ;
 diga_terms:xl_sa-Latn_2031868c a skosxl:Label ;
     skosxl:literalForm "puṣkara"@sa-Latn .
 
+diga_terms:xl_sa-Latn_22522c52 a skosxl:Label ;
+    skosxl:literalForm "kuśinagara"@sa-Latn .
+
 diga_terms:xl_sa-Latn_2272a761 a skosxl:Label ;
     skosxl:literalForm "elapatra"@sa-Latn .
 
@@ -41527,8 +41962,14 @@ diga_terms:xl_sa-Latn_3891c3a0 a skosxl:Label ;
 diga_terms:xl_sa-Latn_3a87a716 a skosxl:Label ;
     skosxl:literalForm "yamakapratihara"@sa-Latn .
 
+diga_terms:xl_sa-Latn_3b14e599 a skosxl:Label ;
+    skosxl:literalForm "kauśambī"@sa-Latn .
+
 diga_terms:xl_sa-Latn_3cda0dd5 a skosxl:Label ;
     skosxl:literalForm "subhadrā"@sa-Latn .
+
+diga_terms:xl_sa-Latn_3d576c2d a skosxl:Label ;
+    skosxl:literalForm "sankāṣya"@sa-Latn .
 
 diga_terms:xl_sa-Latn_43936c68 a skosxl:Label ;
     skosxl:literalForm "mahāprātihārya"@sa-Latn .
@@ -41545,11 +41986,17 @@ diga_terms:xl_sa-Latn_4583b6a8 a skosxl:Label ;
 diga_terms:xl_sa-Latn_45c6b20a a skosxl:Label ;
     skosxl:literalForm "mahābhiniṣkramaṇa"@sa-Latn .
 
+diga_terms:xl_sa-Latn_472a7287 a skosxl:Label ;
+    skosxl:literalForm "lumbinī"@sa-Latn .
+
 diga_terms:xl_sa-Latn_4bed21d0 a skosxl:Label ;
     skosxl:literalForm "kārttikeya"@sa-Latn .
 
 diga_terms:xl_sa-Latn_4c102a4b a skosxl:Label ;
     skosxl:literalForm "bhallika"@sa-Latn .
+
+diga_terms:xl_sa-Latn_4c5ff72c a skosxl:Label ;
+    skosxl:literalForm "ṛṣi"@sa-Latn .
 
 diga_terms:xl_sa-Latn_4cd21bbd a skosxl:Label ;
     skosxl:literalForm "madrī"@sa-Latn .
@@ -41562,6 +42009,9 @@ diga_terms:xl_sa-Latn_4e20ea20 a skosxl:Label ;
 
 diga_terms:xl_sa-Latn_4e98de55 a skosxl:Label ;
     skosxl:literalForm "dīpaṃkara"@sa-Latn .
+
+diga_terms:xl_sa-Latn_4faefe92 a skosxl:Label ;
+    skosxl:literalForm "uruvilvā"@sa-Latn .
 
 diga_terms:xl_sa-Latn_508a76b5 a skosxl:Label ;
     skosxl:literalForm "kamala"@sa-Latn .
@@ -41638,6 +42088,9 @@ diga_terms:xl_sa-Latn_6c2dcb82 a skosxl:Label ;
 diga_terms:xl_sa-Latn_6ca9d295 a skosxl:Label ;
     skosxl:literalForm "mahākāśyapa"@sa-Latn .
 
+diga_terms:xl_sa-Latn_6caf186d a skosxl:Label ;
+    skosxl:literalForm "sumati"@sa-Latn .
+
 diga_terms:xl_sa-Latn_6cc0cff5 a skosxl:Label ;
     skosxl:literalForm "svastika"@sa-Latn .
 
@@ -41673,6 +42126,9 @@ diga_terms:xl_sa-Latn_81cf60af a skosxl:Label ;
 
 diga_terms:xl_sa-Latn_8377be08 a skosxl:Label ;
     skosxl:literalForm "pāñcika"@sa-Latn .
+
+diga_terms:xl_sa-Latn_8463b9c9 a skosxl:Label ;
+    skosxl:literalForm "śrāvastī"@sa-Latn .
 
 diga_terms:xl_sa-Latn_8bb7e6a5 a skosxl:Label ;
     skosxl:literalForm "jaṭāyus"@sa-Latn .
@@ -41719,6 +42175,9 @@ diga_terms:xl_sa-Latn_a3c22a8c a skosxl:Label ;
 diga_terms:xl_sa-Latn_aae0b9bd a skosxl:Label ;
     skosxl:literalForm "sundarī"@sa-Latn .
 
+diga_terms:xl_sa-Latn_ab792f42 a skosxl:Label ;
+    skosxl:literalForm "anopiyā"@sa-Latn .
+
 diga_terms:xl_sa-Latn_abddb37e a skosxl:Label ;
     skosxl:literalForm "mañjuśrī"@sa-Latn .
 
@@ -41749,6 +42208,9 @@ diga_terms:xl_sa-Latn_b275b0d0 a skosxl:Label ;
 diga_terms:xl_sa-Latn_b8efe9b4 a skosxl:Label ;
     skosxl:literalForm "prakṛti"@sa-Latn .
 
+diga_terms:xl_sa-Latn_ba2d9c3f a skosxl:Label ;
+    skosxl:literalForm "bodh gayā"@sa-Latn .
+
 diga_terms:xl_sa-Latn_baad4636 a skosxl:Label ;
     skosxl:literalForm "lokapāla"@sa-Latn .
 
@@ -41770,11 +42232,17 @@ diga_terms:xl_sa-Latn_c277ada2 a skosxl:Label ;
 diga_terms:xl_sa-Latn_c6b84233 a skosxl:Label ;
     skosxl:literalForm "ekaśṛṅga jātaka"@sa-Latn .
 
+diga_terms:xl_sa-Latn_c754e8e9 a skosxl:Label ;
+    skosxl:literalForm "sarnath"@sa-Latn .
+
 diga_terms:xl_sa-Latn_c7a71c50 a skosxl:Label ;
     skosxl:literalForm "ajñātakauṇḍinya"@sa-Latn .
 
 diga_terms:xl_sa-Latn_ca14e15d a skosxl:Label ;
     skosxl:literalForm "nāgadanta"@sa-Latn .
+
+diga_terms:xl_sa-Latn_ca5cf0a0 a skosxl:Label ;
+    skosxl:literalForm "vaiśālī"@sa-Latn .
 
 diga_terms:xl_sa-Latn_cbf71551 a skosxl:Label ;
     skosxl:literalForm "udāyī"@sa-Latn .
@@ -41809,6 +42277,9 @@ diga_terms:xl_sa-Latn_da82ca41 a skosxl:Label ;
 diga_terms:xl_sa-Latn_dbe51927 a skosxl:Label ;
     skosxl:literalForm "ruru jātaka"@sa-Latn .
 
+diga_terms:xl_sa-Latn_de87b6f0 a skosxl:Label ;
+    skosxl:literalForm "rājagṛha"@sa-Latn .
+
 diga_terms:xl_sa-Latn_df0ff991 a skosxl:Label ;
     skosxl:literalForm "nanda"@sa-Latn .
 
@@ -41832,6 +42303,9 @@ diga_terms:xl_sa-Latn_e67a1c51 a skosxl:Label ;
 
 diga_terms:xl_sa-Latn_e742d8e1 a skosxl:Label ;
     skosxl:literalForm "amrapālī"@sa-Latn .
+
+diga_terms:xl_sa-Latn_ea900b83 a skosxl:Label ;
+    skosxl:literalForm "devadaha"@sa-Latn .
 
 diga_terms:xl_sa-Latn_ec7d6be1 a skosxl:Label ;
     skosxl:literalForm "ṣaḍdanta jātaka"@sa-Latn .
