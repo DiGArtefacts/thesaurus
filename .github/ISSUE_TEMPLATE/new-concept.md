@@ -19,3 +19,6 @@ List additional labels. Specify the language if not English. (Currently, the the
 
 **Suggested broader concepts**
 Specify an appropriate (existing) parent concept from the thesaurus.
+
+**External IDs**
+Suggest matching external IDs in vocabularies like Getty AAT or ONAMA that the new concept should link to.
