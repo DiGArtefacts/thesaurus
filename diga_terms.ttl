@@ -20600,6 +20600,12 @@ diga_terms:733432465 a skos:Concept ;
     skosxl:prefLabel diga_terms:2901031089,
         diga_terms:xl_it_6a7c7160 .
 
+diga_terms:7344185839 a skos:Concept ;
+    dc:identifier "7344185839" ;
+    skos:broader diga_terms:c_a609e6b3 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_0e8c850f .
+
 diga_terms:734993850 a skos:Concept ;
     dc:identifier "734993850" ;
     dct:source source:repertorio ;
@@ -22516,6 +22522,33 @@ diga_terms:999104243 a skos:Concept ;
     skos:inScheme <https://w3id.org/diga/terms> ;
     skosxl:prefLabel diga_terms:138133071,
         diga_terms:3847230439 .
+
+diga_terms:c_1fb87ac3 a skos:Concept ;
+    skos:broader diga_terms:1597736316 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_352eb5c8,
+        diga_terms:xl_sa-Latn_2d20596c .
+
+diga_terms:c_704c5187 a skos:Concept ;
+    skos:broader diga_terms:1597736316 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_21456394,
+        diga_terms:xl_sa-Latn_124b1c23 .
+
+diga_terms:c_a1a7f67f a skos:Concept ;
+    skos:broader diga_terms:6190463747 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:altLabel diga_terms:xl_en_850398f9 .
+
+diga_terms:c_a609e6b3 a skos:Concept ;
+    skos:broader diga_terms:406891803 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_1d8a4d74 .
+
+diga_terms:c_fc6970b7 a skos:Concept ;
+    skos:broader diga_terms:3703895338 ;
+    skos:inScheme <https://w3id.org/diga/terms> ;
+    skosxl:prefLabel diga_terms:xl_en_bc7c2fb5 .
 
 diga_terms: a owl:Ontology ;
     owl:imports dc:,
@@ -30189,7 +30222,7 @@ diga_terms:30283857 a skosxl:Label ;
     skosxl:literalForm "cornice di monumento con modanatura a gola dritta"@it .
 
 diga_terms:3029012048 a skosxl:Label ;
-    skosxl:literalForm "siddharta’s horoscope"@en .
+    skosxl:literalForm "siddhārtha’s horoscope"@en .
 
 diga_terms:3029100222 a skosxl:Label ;
     dct:source source:repertorio ;
@@ -37358,6 +37391,9 @@ diga_terms:xl_en_0dc580d9 a skosxl:Label ;
 diga_terms:xl_en_0e86bd85 a skosxl:Label ;
     skosxl:literalForm "heavy drapery hiding the volumes of the figure"@en .
 
+diga_terms:xl_en_0e8c850f a skosxl:Label ;
+    skosxl:literalForm "worm"@en .
+
 diga_terms:xl_en_0f318b60 a skosxl:Label ;
     skosxl:literalForm "gesture of dispensing of boons"@en .
 
@@ -37443,6 +37479,9 @@ diga_terms:xl_en_1cff4d00 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "gesture of conversation/question with right hand partially clenched with thumb and index finger joined at tips"@en .
 
+diga_terms:xl_en_1d8a4d74 a skosxl:Label ;
+    skosxl:literalForm "invertebrate"@en .
+
 diga_terms:xl_en_1e6dbe54 a skosxl:Label ;
     skosxl:literalForm "gesture of conversation/question with right arm resting on legs, left hand raising up with palm turned inwards"@en .
 
@@ -37458,6 +37497,9 @@ diga_terms:xl_en_20c1138e a skosxl:Label ;
 diga_terms:xl_en_20c591f9 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "multi-storey open gallery building with railing parapet, columns supporting architrave, four-sided curved sloping roof and dome"@en .
+
+diga_terms:xl_en_21456394 a skosxl:Label ;
+    skosxl:literalForm "nalakūbara"@en .
 
 diga_terms:xl_en_216b1069 a skosxl:Label ;
     skosxl:literalForm "the bath"@en .
@@ -37586,6 +37628,9 @@ diga_terms:xl_en_337f3e45 a skosxl:Label ;
 diga_terms:xl_en_351eb1e3 a skosxl:Label ;
     dct:source source:repertorio ;
     skosxl:literalForm "city goddess"@en .
+
+diga_terms:xl_en_352eb5c8 a skosxl:Label ;
+    skosxl:literalForm "akaniṣṭha"@en .
 
 diga_terms:xl_en_35cd3876 a skosxl:Label ;
     dct:source "Kucha Project https://kuchatest.saw-leipzig.de/iconography/"@en ;
@@ -38172,6 +38217,9 @@ diga_terms:xl_en_849d254e a skosxl:Label ;
 diga_terms:xl_en_84c8c4e3 a skosxl:Label ;
     skosxl:literalForm "halteres"@en .
 
+diga_terms:xl_en_850398f9 a skosxl:Label ;
+    skosxl:literalForm "soil"@en .
+
 diga_terms:xl_en_85274e67 a skosxl:Label ;
     skosxl:literalForm "gems and precious metals"@en .
 
@@ -38568,6 +38616,9 @@ diga_terms:xl_en_bc2bdc97 a skosxl:Label ;
 
 diga_terms:xl_en_bc67de7a a skosxl:Label ;
     skosxl:literalForm "vaiśālī"@en .
+
+diga_terms:xl_en_bc7c2fb5 a skosxl:Label ;
+    skosxl:literalForm "root"@en .
 
 diga_terms:xl_en_bd067e9c a skosxl:Label ;
     skosxl:literalForm "buddha's visit to kapilavastu"@en .
@@ -39361,7 +39412,7 @@ diga_terms:xl_it_1736a154 a skosxl:Label ;
     skosxl:literalForm "monaco offre un posto al buddha"@it .
 
 diga_terms:xl_it_1797d9dd a skosxl:Label ;
-    skosxl:literalForm "oroscopo di siddharta"@it .
+    skosxl:literalForm "oroscopo di siddhārtha"@it .
 
 diga_terms:xl_it_17d7d35f a skosxl:Label ;
     skosxl:literalForm "pāñcika"@it .
@@ -41787,6 +41838,9 @@ diga_terms:xl_sa-Latn_0d04d054 a skosxl:Label ;
 diga_terms:xl_sa-Latn_0f2dbe03 a skosxl:Label ;
     skosxl:literalForm "kaṇṭhaka"@sa-Latn .
 
+diga_terms:xl_sa-Latn_124b1c23 a skosxl:Label ;
+    skosxl:literalForm "nalakūbara"@sa-Latn .
+
 diga_terms:xl_sa-Latn_128c0ad9 a skosxl:Label ;
     skosxl:literalForm "indraśailaguhā"@sa-Latn .
 
@@ -41828,6 +41882,9 @@ diga_terms:xl_sa-Latn_27e42f8e a skosxl:Label ;
 
 diga_terms:xl_sa-Latn_2b2f8baf a skosxl:Label ;
     skosxl:literalForm "bāvarī"@sa-Latn .
+
+diga_terms:xl_sa-Latn_2d20596c a skosxl:Label ;
+    skosxl:literalForm "akaniṣṭha"@sa-Latn .
 
 diga_terms:xl_sa-Latn_2d63aaeb a skosxl:Label ;
     skosxl:literalForm "buddha"@sa-Latn .
