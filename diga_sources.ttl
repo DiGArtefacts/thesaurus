@@ -22,3 +22,8 @@ diga_source:zwalf_catalogue_1996 a bibo:Document ;
     dct:title "A Catalogue of Gandhara Sculptures in the British Museum" ;
     bibo:shortTitle "Zwalf. Catalogue. 1996." ;
     skos:note "Zwalf, Wladimir. 1996. A Catalogue of Gandhara Sculptures in the British Museum. 2 vols. London: British Museum." .
+
+diga_source:onama a bibo:Document ;
+    dct:title "Ontology of Narratives of the Middle Ages" ;
+    bibo:shortTitle "Landkammer et al. ONAMA. 2020." ;
+    skos:note "Landkammer, Miriam, Peter Hinkelmanns, Manuel Schwembacher, Katharina Zeppezauer-Wachauer, and Isabella Nicka. 2020. ‘Ontology of Narratives of the Middle Ages’. Version 1.5. Universität Salzburg. Salzburg. https://doi.org/10.5281/ZENODO.4285987." .
